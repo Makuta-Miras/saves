@@ -1,0 +1,1420 @@
+pilot Contrary Grey
+date 27 5 3015
+system "Epsilon Leonis"
+planet Valhalla
+clearance
+"reputation with"
+	= 0
+	"Alphean Boolean" 0
+	Author 1
+	"Bad Trip" -1000
+	Bounty -1000
+	"Bounty Hunter" -1000
+	Deep -1000
+	"Deep Sky" 0
+	Derelict 10
+	Drak 0
+	Enclave 0
+	"Free Worlds" 33.56
+	Gatewatch 0
+	Hai 0
+	"Hai (Absconded)" 10
+	"Hai (Unfettered)" -1000
+	Independent 10
+	Korath -10
+	Merchant 27.14
+	Militaj -1
+	Militia 32.91
+	"Navy (Oathkeeper)" 124.385
+	"Navy Intelligence" 0
+	Neutral 17.04
+	Parrot 1
+	Penum 100
+	Phyrexia 0
+	Pirate -90.31
+	"Pirate (Core)" -10
+	"Pirate (North)" -10
+	"Pirate (South)" -10
+	"Plenipotent Dominion" 3
+	Pug 9.13
+	"Pug (Attackers)" 1
+	"Pug (Research)" 1
+	Quarg 9.13
+	Republic 26.385
+	Sentarians -10000
+	"Servorum Dei" 3
+	Syndicate 34.41
+	"Syndicate (Extremist)" -1000
+	"Takarada Kaneo" 1
+	"Test Dummy" -1000
+	Uninhabited 0
+	Union -1000
+	"Unknown Ones" 1
+	Wanderer 1
+	Wormhole 0
+	XSZ 0
+	"XSZ Corporation" 0
+	shieldsup 10
+ship Argosy
+	name Ice
+	sprite ship/argosy
+	attributes
+		category "Light Freighter"
+		bunks 14
+		"cargo space" 120
+		cost 1560000
+		drag 5.9
+		"engine capacity" 80
+		"fuel capacity" 400
+		"gun ports" 4
+		"heat dissipation" 0.7
+		hull 2600
+		mass 330
+		"outfit space" 270
+		"required crew" 4
+		shields 4200
+		"turret mounts" 2
+		"weapon capacity" 90
+	outfits
+		Hyperdrive
+		"A250 Atomic Thruster"
+		"A255 Atomic Steering"
+		"Mass Expansion" 2
+		"LP036a Battery Pack"
+		"LP072a Battery Pack"
+		Supercapacitor
+		"D23-QP Shield Generator"
+		"D41-HY Shield Generator"
+		"Laser Rifle" 14
+		"S3 Thermionic"
+		"Beam Laser"
+		"Heavy Laser" 2
+		"Laser Turret" 2
+	crew 6
+	fuel 400
+	shields 5700
+	hull 2600
+	position 997.71967 -244.01089
+	engine -16 82
+	engine 16 82
+	gun -22 -37 "Heavy Laser"
+	gun 22 -37 "Heavy Laser"
+	gun -23 -37 "Beam Laser"
+	gun 23 -37
+	turret 0 -8 "Laser Turret"
+	turret 0 12 "Laser Turret"
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "big explosion" 10
+	explode "tiny explosion" 10
+	system "Epsilon Leonis"
+	planet Valhalla
+ship Fury
+	name "Glacial Rift"
+	sprite ship/fury
+	attributes
+		category Interceptor
+		bunks 3
+		"cargo space" 15
+		cost 490000
+		drag 1.6
+		"engine capacity" 60
+		"fuel capacity" 600
+		"gun ports" 4
+		"heat dissipation" 0.9
+		hull 400
+		mass 70
+		"outfit space" 160
+		"required crew" 1
+		shields 2000
+		"weapon capacity" 40
+	outfits
+		Hyperdrive
+		"Chipmunk Plasma Thruster"
+		"A125 Atomic Steering"
+		"Cooling Ducts"
+		Supercapacitor
+		"D23-QP Shield Generator"
+		"RT-I Radiothermal"
+		"Heavy Laser" 2
+	crew 1
+	fuel 600
+	shields 2500
+	hull 400
+	position 998.86973 -246.07432
+	engine -17 35
+	engine 17 35
+	gun -10 -26 "Heavy Laser"
+	gun 10 -26 "Heavy Laser"
+	gun -16 -20
+	gun 16 -20
+	explode "small explosion" 20
+	explode "tiny explosion" 10
+	system "Epsilon Leonis"
+	planet Valhalla
+ship Fury
+	name Strait
+	sprite ship/fury
+	attributes
+		category Interceptor
+		bunks 3
+		"cargo space" 15
+		cost 490000
+		drag 1.6
+		"engine capacity" 60
+		"fuel capacity" 600
+		"gun ports" 4
+		"heat dissipation" 0.9
+		hull 400
+		mass 70
+		"outfit space" 160
+		"required crew" 1
+		shields 2000
+		"weapon capacity" 40
+	outfits
+		Hyperdrive
+		"A120 Atomic Thruster"
+		"A125 Atomic Steering"
+		"Cooling Ducts"
+		"D23-QP Shield Generator"
+		"nGVF-CC Fuel Cell"
+		"Heavy Laser" 2
+	crew 1
+	fuel 600
+	shields 2500
+	hull 400
+	position 998.19696 -251.74465
+	engine -17 35
+	engine 17 35
+	gun -10 -26 "Heavy Laser"
+	gun 10 -26 "Heavy Laser"
+	gun -16 -20
+	gun 16 -20
+	explode "small explosion" 20
+	explode "tiny explosion" 10
+	system "Epsilon Leonis"
+	planet Valhalla
+account
+	credits 1727373
+	score 800
+	history
+		5368833
+		5370693
+		5378211
+		5410811
+		5419883
+		5458983
+		5463219
+		5469811
+		5475411
+		5470967
+		5470367
+		5470387
+		5471089
+		5477247
+		5483777
+		5609727
+		5613402
+		5610617
+		5614292
+		5618347
+		5617082
+		5615382
+		5619933
+		5631426
+		5634464
+		5738364
+		5873992
+		5874942
+		5873812
+		5963112
+		5961860
+		5962080
+		5965152
+		5965786
+		5966926
+		5966226
+		5968562
+		5965010
+		5966978
+		5970464
+		6003764
+		6024064
+		6027688
+		6203588
+		6205638
+		6217698
+		6222278
+		6220588
+		6279888
+		6278308
+		6289928
+		6315728
+		6308868
+		6306958
+		6316818
+		6326348
+		6325648
+		6327258
+		6338548
+		6350498
+		6356398
+		6360758
+		6360058
+		6371678
+		6378238
+		6377318
+		6368918
+		6368218
+		6365208
+		6375618
+		6390098
+		6401168
+		6402778
+		6502078
+		6501378
+		6500678
+		6499978
+		6499278
+		6498578
+		6497878
+		6497178
+		6495478
+		6494778
+		6494078
+		6493378
+		6512628
+		6518368
+		6841850
+		6840108
+		6840605
+		6839364
+		6839563
+		7004863
+		7004933
+		7009513
+		7018933
+		7019553
+		7017853
+		7030133
+		7026573
+		7020373
+"available job" "Bulk Delivery [0]"
+	name "Bulk delivery to Bivrost"
+	description "Deliver 42 tons of cough drops to Bivrost in the Markeb system. Payment is 25,200 credits."
+	cargo "cough drops" 42
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Bivrost
+	on complete
+		dialog
+			"You drop off your cargo of cough drops and collect your payment of 25,200 credits."
+		payment 25200
+"available job" "Bulk Delivery [1]"
+	name "Bulk delivery to Follower"
+	description "Deliver 115 tons of industrial lasers to Follower in the Alphard system. Payment is 71,000 credits."
+	cargo "industrial lasers" 115
+	job
+	repeat 0
+	to offer
+		random < 60
+	destination Follower
+	on complete
+		dialog
+			"You drop off your cargo of industrial lasers and collect your payment of 71,000 credits."
+		payment 71000
+"available job" "Cargo [0]"
+	name "Delivery to Hermes"
+	description "Deliver 15 tons of tin to Hermes in the Capella system. Payment is 18,000 credits."
+	cargo tin 15
+	job
+	repeat 0
+	destination Hermes
+	on complete
+		dialog
+			"You drop off your cargo of tin and collect your payment of 18,000 credits."
+		payment 18000
+"available job" "Cargo [1]"
+	name "Delivery to Geyser"
+	description "Deliver 44 tons of processing units to Geyser in the Denebola system. Payment is 52,800 credits."
+	cargo "processing units" 44
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Geyser
+	on complete
+		dialog
+			"You drop off your cargo of processing units and collect your payment of 52,800 credits."
+		payment 52800
+"available job" "Cargo [2]"
+	name "Delivery to Triton Station"
+	description "Deliver 6 tons of tungsten to Triton Station in the Alheka system. Payment is 8,100 credits."
+	cargo tungsten 6
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination "Triton Station"
+	on complete
+		dialog
+			"You drop off your cargo of tungsten and collect your payment of 8,100 credits."
+		payment 8100
+"available job" "Cargo [3]"
+	name "Delivery to Ada"
+	description "Deliver 23 tons of silver to Ada in the Aldebaran system. Payment is 33,050 credits."
+	cargo silver 23
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Ada
+	on complete
+		dialog
+			"You drop off your cargo of silver and collect your payment of 33,050 credits."
+		payment 33050
+"available job" "Family [0]"
+	name "Transport family to Gemstone"
+	description "This family of 3 is relocating to Gemstone in the Turais system. They will pay you 40,000 credits to take them there."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 60
+		"passenger space" > 10
+	destination Gemstone
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 40,000 credits."
+		payment 40000
+"available job" "Family [3]"
+	name "Transport family to Poseidos"
+	description "This family of 3 is relocating to Poseidos in the Izar system. They will pay you 86,500 credits to take them there."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 30
+		"passenger space" > 10
+	destination Poseidos
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 86,500 credits."
+		payment 86500
+"available job" "Large Rush Delivery [0]"
+	name "Large rush delivery to New Wales"
+	description "Deliver 61 tons of battlefield trauma kits to New Wales in the Algorel system by Thu, 8 Jun 3015. Payment is 100,050 credits."
+	deadline 8 6 3015
+	cargo "battlefield trauma kits" 61
+	job
+	repeat 0
+	to offer
+		random < 90
+		"cargo space" > 80
+	destination "New Wales"
+	on complete
+		dialog
+			"You drop off your cargo of battlefield trauma kits and collect your payment of 100,050 credits."
+		payment 100050
+"available job" "Large Rush Delivery [1]"
+	name "Large rush delivery to New Kansas"
+	description "Deliver 53 tons of antivirals to New Kansas in the Muhlifain system by Wed, 14 Jun 3015. Payment is 117,500 credits."
+	deadline 14 6 3015
+	cargo antivirals 53
+	job
+	repeat 0
+	to offer
+		random < 80
+		"cargo space" > 80
+	destination "New Kansas"
+	on complete
+		dialog
+			"You drop off your cargo of antivirals and collect your payment of 117,500 credits."
+		payment 117500
+"available job" "Large Rush Delivery [2]"
+	name "Large rush delivery to Maelstrom"
+	description "Deliver 67 tons of water heaters to Maelstrom in the Nihal system by Fri, 16 Jun 3015. Payment is 150,550 credits."
+	deadline 16 6 3015
+	cargo "water heaters" 67
+	job
+	repeat 0
+	to offer
+		random < 70
+		"cargo space" > 80
+	destination Maelstrom
+	on complete
+		dialog
+			"You drop off your cargo of water heaters and collect your payment of 150,550 credits."
+		payment 150550
+"available job" "Passengers [0]"
+	name "Passenger transport to New Tibet"
+	description "Bring 3 passengers to New Tibet in the Alioth system. Payment is 47,000 credits."
+	passengers 3
+	job
+	repeat 0
+	destination "New Tibet"
+	on complete
+		dialog
+			"You wish your passengers the best of luck on New Tibet, and collect your payment of 47,000 credits."
+		payment 47000
+"available job" "Passengers [1]"
+	name "Passenger transport to Kraken Station"
+	description "Bring a passenger to Kraken Station in the Caph system. Payment is 15,000 credits."
+	passengers 1
+	job
+	repeat 0
+	to offer
+		random < 75
+	destination "Kraken Station"
+	on complete
+		dialog
+			"You wish your passenger the best of luck on Kraken Station, and collect your payment of 15,000 credits."
+		payment 15000
+"available job" "Passengers [4]"
+	name "Passenger transport to Alfheim"
+	description "These 3 passengers want to escape the pollution and crime on Valhalla and settle on Alfheim in the Wezen system. Payment is 24,500 credits."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Alfheim
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Alfheim, and collect your payment of 24,500 credits."
+		payment 24500
+"available job" "Rush Delivery [0]"
+	name "Rush delivery to Chiron"
+	description "Deliver 40 tons of rebar to Chiron in the Alpha Centauri system by Wed, 14 Jun 3015. Payment is 76,000 credits."
+	deadline 14 6 3015
+	cargo rebar 40
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Chiron
+	on complete
+		dialog
+			"You drop off your cargo of rebar and collect your payment of 76,000 credits."
+		payment 76000
+"available job" "Rush Delivery [1]"
+	name "Rush delivery to New Sahara"
+	description "Deliver 26 tons of resistors to New Sahara in the Phecda system by Tue, 6 Jun 3015. Payment is 41,400 credits."
+	deadline 6 6 3015
+	cargo resistors 26
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination "New Sahara"
+	on complete
+		dialog
+			"You drop off your cargo of resistors and collect your payment of 41,400 credits."
+		payment 41400
+"available job" "Rush Delivery [2]"
+	name "Rush delivery to Harmony"
+	description "Deliver 26 tons of silicon bronze to Harmony in the Girtab system by Sat, 24 Jun 3015. Payment is 78,500 credits."
+	deadline 24 6 3015
+	cargo "silicon bronze" 26
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Harmony
+	on complete
+		dialog
+			"You drop off your cargo of silicon bronze and collect your payment of 78,500 credits."
+		payment 78500
+"available job" "Rush Delivery [3]"
+	name "Rush delivery to Mere"
+	description "Deliver 22 tons of ore to Mere in the Kochab system by Mon, 26 Jun 3015. Payment is 74,800 credits."
+	deadline 26 6 3015
+	cargo ore 22
+	job
+	repeat 0
+	to offer
+		random < 60
+	destination Mere
+	on complete
+		dialog
+			"You drop off your cargo of ore and collect your payment of 74,800 credits."
+		payment 74800
+"available job" "Tourists out [2]"
+	name "Bring tourists to Amazon"
+	description "These 3 tourists want to see Amazon in the Schedar system. They are willing to pay you 71,000 credits."
+	passengers 3
+	job
+	repeat 0
+	to offer
+		random < 75
+	destination Amazon
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Amazon, and collect your payment of 71,000 credits."
+		payment 71000
+"available job" "Transport farmers to <planet>"
+	name "Transport farmers to Mars"
+	description "This family of 2 farmers is hoping to find work on Mars in the Sol system, and they will pay you 29,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Mars
+	on complete
+		dialog
+			"You wish the farm family the best of luck on Mars, and collect your payment of 29,000 credits."
+		payment 29000
+"available job" "Transport miners to <planet>"
+	name "Transport miners to Gemstone"
+	description "This family of 2 miners is hoping to find work on Gemstone in the Turais system, and they will pay you 26,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Gemstone
+	on complete
+		dialog
+			"You wish the mining family the best of luck on Gemstone, and collect your payment of 26,000 credits."
+		payment 26000
+conditions
+	"Bulk Delivery [1]: done"
+	"Bulk Delivery [1]: offered"
+	"Cargo [0]: done" 2
+	"Cargo [0]: offered" 2
+	"Cargo [1]: done"
+	"Cargo [1]: offered"
+	"Cargo [3]: done"
+	"Cargo [3]: offered"
+	"Escort (Medium, Southern): done"
+	"Escort (Medium, Southern): offered"
+	"Escort (Small, Core): done"
+	"Escort (Small, Core): offered"
+	"Escort (Small, Northern): done"
+	"Escort (Small, Northern): offered"
+	"Escort (Small, Southern): done" 3
+	"Escort (Small, Southern): offered" 3
+	"Escort (Tiny, Core): done" 18
+	"Escort (Tiny, Core): offered" 18
+	"Escort (Tiny, Northern): done" 2
+	"Escort (Tiny, Northern): offered" 2
+	"Escort (Tiny, Southern): done" 10
+	"Escort (Tiny, Southern): offered" 10
+	"Escort science vessel: done"
+	"Escort science vessel: offered"
+	"FW Katya 1: done"
+	"FW Katya 1: offered"
+	"FW Katya 1B: done"
+	"FW Katya 1B: offered"
+	"FW Katya 1C: offered"
+	"FW Katya 2: done"
+	"FW Katya 2: offered"
+	"FW Katya 2B: done"
+	"FW Katya 2B: offered"
+	"FW Katya 2C: done"
+	"FW Katya 2C: offered"
+	"FW Katya 3: done"
+	"FW Katya 3: offered"
+	"FW Katya 4: done"
+	"FW Katya 4: offered"
+	"FW Katya 5: done"
+	"FW Katya 5: offered"
+	"FW Katya 5B: done"
+	"FW Katya 5B: offered"
+	"FW Katya 5C: done"
+	"FW Katya 5C: offered"
+	"Family [1]: done"
+	"Family [1]: offered"
+	"First Contact: Quarg: offered"
+	"Immigrant Workers: done"
+	"Immigrant Workers: offered"
+	"Intro [0]: offered"
+	"Large Rush Delivery [0]: done"
+	"Large Rush Delivery [0]: offered"
+	"Pact Recon 0: done"
+	"Pact Recon 0: offered"
+	"Passengers [0]: done" 2
+	"Passengers [0]: offered" 2
+	"Passengers [1]: done" 7
+	"Passengers [1]: offered" 7
+	"Provide security for pleasure cruise: done"
+	"Provide security for pleasure cruise: offered"
+	"Rush Delivery [0]: done"
+	"Rush Delivery [0]: offered"
+	"Rush Delivery [2]: done"
+	"Rush Delivery [2]: offered"
+	"Rush Delivery [3]: done"
+	"Rush Delivery [3]: offered"
+	"Terraforming 1: offered"
+	"Tourists back [1]: done"
+	"Tourists back [1]: offered"
+	"Tourists out [0]: done" 2
+	"Tourists out [0]: offered" 2
+	"Tourists out [1]: done"
+	"Tourists out [1]: offered"
+	"Transport mill workers to <planet>: done" 2
+	"Transport mill workers to <planet>: offered" 2
+	"Transport workers to <planet>: done" 2
+	"Transport workers to <planet>: offered" 2
+	"cargo space" 110
+	"combat rating" 41
+	"event: initial deployment 1"
+	"event: initial deployment 2"
+	"event: initial deployment 3"
+	"event: initial deployment 4"
+	"event: remembrance day"
+	"event: war begins"
+	"event: war begins: offered"
+	"license: Pilot's"
+	"net worth" 7020373
+	"passenger space" 12
+	random 59
+	"remembrance day: offered"
+	"reputation: Author"
+	"reputation: Bad Trip" -1000
+	"reputation: Bounty" -1000
+	"reputation: Bounty Hunter" -1000
+	"reputation: Deep" -1000
+	"reputation: Derelict" 10
+	"reputation: Free Worlds" 33
+	"reputation: Hai (Unfettered)" -1000
+	"reputation: Independent" 10
+	"reputation: Korath" -10
+	"reputation: Merchant" 27
+	"reputation: Militia" 32
+	"reputation: Navy (Oathkeeper)" 124
+	"reputation: Neutral" 17
+	"reputation: Parrot"
+	"reputation: Pirate" -90
+	"reputation: Pug" 9
+	"reputation: Quarg" 9
+	"reputation: Republic" 26
+	"reputation: Syndicate" 34
+	"reputation: Syndicate (Extremist)" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Wanderer"
+	"ships: Interceptor" 2
+	"ships: Light Freighter"
+changes
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+visited "Zeta Aquilae"
+visited Rasalhague
+visited Cebalrai
+visited Ascella
+visited Peacock
+visited Vega
+visited Altair
+visited Markab
+visited Alnair
+visited Scheat
+visited Caph
+visited Diphda
+visited "Alpha Arae"
+visited "Delta Capricorni"
+visited Ankaa
+visited Menkent
+visited Men
+visited Fomalhaut
+visited Alderamin
+visited Han
+visited Atria
+visited Rastaban
+visited Albaldah
+visited Alpheratz
+visited Girtab
+visited Alioth
+visited Alphecca
+visited Alniyat
+visited Lesath
+visited Betelgeuse
+visited Sarin
+visited Wei
+visited Alnasl
+visited Sol
+visited Eber
+visited Castor
+visited Pherkad
+visited "Kaus Borealis"
+visited Denebola
+visited Pollux
+visited "Beta Lupi"
+visited Tarazed
+visited Mizar
+visited Acamar
+visited Antares
+visited Seginus
+visited Unukalhai
+visited Gacrux
+visited Sabik
+visited Shaula
+visited Aldhibain
+visited Zubenelgenubi
+visited Zubeneschamali
+visited Kornephoros
+visited Hintar
+visited "Yed Prior"
+visited "Delta Sagittarii"
+visited Rutilicus
+visited Ruchbah
+visited Achernar
+visited Graffias
+visited Umbral
+visited "Kappa Centauri"
+visited Dschubba
+visited Aldebaran
+visited Elnath
+visited Eltanin
+visited Albireo
+visited Capella
+visited Kursa
+visited Algieba
+visited "Tania Australis"
+visited Alphard
+visited Zosma
+visited Mirach
+visited Sadr
+visited Gomeisa
+visited "Al Dhanab"
+visited "Epsilon Leonis"
+visited Lurata
+visited Holeb
+visited Alnitak
+visited Rigel
+visited "Alpha Centauri"
+visited Miaplacidus
+visited Algorel
+visited Vindemiatrix
+visited Canopus
+visited Wazn
+visited Saiph
+visited Persian
+visited Talita
+visited Menkalinan
+visited "Cor Caroli"
+visited Alheka
+visited Alhena
+visited Phecda
+visited Hadar
+visited Arcturus
+visited Mirzam
+visited Phurad
+visited Phact
+visited Procyon
+visited Tais
+visited Mora
+visited "Kaus Australis"
+visited Fingol
+visited Fala
+visited Hassaleh
+visited Merak
+visited Dabih
+visited "Delta Velorum"
+visited Dubhe
+visited Sadalmelik
+visited Tejat
+visited Mebsuta
+visited Sirius
+visited Matar
+visited Muphrid
+visited Sadalsuud
+visited Enif
+visited Muhlifain
+visited Sargas
+visited Lolami
+visited Porrima
+visited Regulus
+"visited planet" Earth
+"visited planet" Greenrock
+"visited planet" Solace
+"visited planet" "New Iceland"
+"visited planet" Tundra
+"visited planet" Oblivion
+"visited planet" Silver
+"visited planet" Rand
+"visited planet" "New Austria"
+"visited planet" Mars
+"visited planet" Shiver
+"visited planet" Arabia
+"visited planet" Glory
+"visited planet" Foundry
+"visited planet" Valhalla
+"visited planet" "New Wales"
+"visited planet" Geminus
+"visited planet" Harmony
+"visited planet" Glaze
+"visited planet" Skymoot
+"visited planet" Wayfarer
+"visited planet" Deep
+"visited planet" "New Tibet"
+"visited planet" Clark
+"visited planet" Memory
+"visited planet" "New Boston"
+"visited planet" "New China"
+"visited planet" Maker
+"visited planet" Ingot
+"visited planet" Hephaestus
+"visited planet" Follower
+"visited planet" Twinstar
+"visited planet" Moonshake
+"visited planet" Shroud
+"visited planet" Tinker
+"visited planet" Geyser
+"visited planet" Sundrinker
+"visited planet" Reunion
+"visited planet" Haze
+"visited planet" Hermes
+"visited planet" Antipode
+"visited planet" "New Sahara"
+"visited planet" Farseer
+"visited planet" "New Washington"
+"visited planet" Cornucopia
+"visited planet" "New Switzerland"
+"visited planet" "New Argentina"
+"visited planet" Skillet
+"visited planet" Relic
+"visited planet" Luna
+"visited planet" "Big Sky"
+"visited planet" Flood
+"visited planet" Echo
+"visited planet" "Charon Station"
+"visited planet" Burthen
+"visited planet" "New India"

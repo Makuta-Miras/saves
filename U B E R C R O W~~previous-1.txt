@@ -1,0 +1,6657 @@
+pilot Crowius Stormifier
+date 26 12 3013
+system Anvyu
+planet Arikv
+clearance
+"map coloring" -5
+"map zoom" 0
+collapsed outfitter
+	Ammunition
+	Engines
+	Guns
+	"Secondary Weapons"
+collapsed shipyard
+	Drone
+	Fighter
+	"Heavy Freighter"
+	"Heavy Warship"
+	Interceptor
+	"Light Freighter"
+	"Light Warship"
+	"Medium Warship"
+	Transport
+"reputation with"
+	" Drak " -1000
+	" Enigma Corp " 14.8
+	" Kor Mereti " -1000
+	Alpha -1000
+	"Alphean Boolean" 1
+	Alr -5
+	Andromedan -1000
+	Ascendancy 0
+	Author 1
+	"Bad Trip" -1000
+	"Blue Team" 1000
+	Bounty -1000
+	"Bounty Hunter" -1000
+	Bunrodea 0
+	Coalition 1
+	"Da Bezt Person" 1
+	"Daeroris Collective" 0
+	Deep -1000
+	"Deep Sky" 0
+	"Defender of Humanity" 0
+	"Derpy Horse" -500000
+	Drak 1
+	Enclave 66450
+	"Enigma Corp" 0
+	Erufiams 1
+	Explorer 0
+	"Faebalar Alliance" 0
+	Federation 15
+	"Free Worlds" -190.6
+	Hai 0
+	"Hai (Unfettered)" -1000
+	Heliarch 1
+	Independant 0
+	Independent 10
+	"Indigenous Lifeform" 1
+	Kaltheim 0
+	"Kor Efret" 1
+	"Kor Mereti" -1000
+	"Kor Sestor" -1000
+	Korath -10
+	"Korath Nanobots" -1000
+	Merchant -785.9
+	Militia -198.95
+	"Navy (Oathkeeper)" -63.025
+	"Navy Intelligence" 44.4
+	Neutral -217.05
+	"Outer Rim Mining" 0
+	Parrot 1
+	Pirate -75.45
+	"Pirate (Core)" 0
+	"Pirate (North)" 0
+	"Pirate (South)" 0
+	Pug -66.75
+	Quarg 1
+	"Red Team" 1000
+	Remnant 1
+	Republic -297.525
+	"Republika Kartara" 0
+	Sentarians -10000
+	Space -1000
+	Syndicate -186.45
+	"Syndicate (Extremist)" -1000
+	"Takarada Kaneo" 1
+	"Team Blue" -1000
+	"Team Red" -1000
+	Termini 0
+	"Test Dummy" -1000
+	Uninhabited 0
+	"Unknown Ones" 1
+	Wanderer 1
+	Wormhole 0
+	"XSZ Corporation" -137267.5
+	hingeCorp 1
+
+# What you own:
+ship Archon
+	name "Five Riches"
+	noun entity
+	sprite ship/archon
+		"frame rate" 0.86999997
+	"never disabled"
+	attributes
+		category "Heavy Warship"
+		cost 1000000000
+		bunks 1
+		drag 27
+		"energy capacity" 10000
+		"energy generation" 500
+		"engine capacity" 200
+		"fuel capacity" 800
+		"gun ports" 1
+		"heat dissipation" 40
+		"heat generation" 17
+		hull 1000000
+		"hull energy" 100
+		"hull repair rate" 100
+		mass 1000
+		"outfit space" 800
+		ramscoop 100
+		"required crew" 1
+		"shield energy" 100
+		"shield generation" 100
+		shields 4000000
+		"turret mounts" 8
+		"weapon capacity" 600
+	outfits
+		"Small Repair Module"
+		"Large Repair Module"
+		"Drak Antimatter Cannon"
+		"NDR-114 Android" 6
+		"Drak Anti-Missile Field" 2
+		"Cloaking Device"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Korath Disruptor"
+		"Quarg Skylance" 5
+		"Wanderer Ramscoop" 4
+		"Developer Drive"
+	crew 1
+	fuel 800
+	shields 4000000
+	hull 1000000
+	position -1115.8841 -386.02956
+	engine -17 92 1
+	engine 17 92 1
+	gun 0 -74 "Drak Antimatter Cannon"
+	turret 0 -10 "Drak Anti-Missile Field"
+	turret 0 -10 "Drak Anti-Missile Field"
+	turret 0 -10 "Korath Disruptor"
+	turret -40 -13 "Quarg Skylance"
+	turret 40 -13 "Quarg Skylance"
+	turret 0 81 "Quarg Skylance"
+	turret -55 16 "Quarg Skylance"
+	turret 55 16 "Quarg Skylance"
+	explode "nuke explosion" 3
+	"final explode" "final explosion large" 1
+	system Anvyu
+	planet Arikv
+ship Carrier
+	name "Surya the Sensible"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 283.20251 349.93277
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Lord George"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -463.87201 602.14705
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Lucky Storms"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 237.8336 259.33268
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Thirteen Sails"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -449.315 242.77073
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Realm Champion"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -185.47979 471.41697
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Fifty Duchesses"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -107.74604 677.17583
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Mystery Changes"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -198.17835 784.10539
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Fire Flags"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 197.46587 251.68642
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "James the Violet"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 233.4496 260.28809
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Captain of the Riches"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 241.74607 1028.8717
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Magnificent Glory"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 11.720994 924.35997
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Windswept Riches"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 289.08531 362.30616
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Captain's Strider"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 470.91682 892.72888
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Emperor Xiang"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 231.77331 252.31058
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Cautious Duchess"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 232.09372 260.00921
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Mercy Master"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 68.99723 280.60472
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Gray Empresses"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 226.52704 258.50458
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Twenty Echoes"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -153.7664 906.99129
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Admiral Anne"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -288.63261 371.86315
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Clever Mary"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -414.83903 397.10373
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Sorrow Queen"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 124.69057 871.35991
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Caravan of the Tongues"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -52.459269 885.7352
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name Chelmsford
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -314.66282 747.587
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Ten Legends"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -160.60471 924.87876
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Twenty Worlds"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -220.31084 284.70456
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Hands of Beauty"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 235.32919 258.57285
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Stars and Faces"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 239.10005 254.90121
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Fire Raven"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 220.75795 273.95933
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Sapphire Princess"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 240.34632 262.24979
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Tongues and Fire"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 154.09942 773.23734
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Honorable Harvest"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -279.83089 713.98609
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Thoughtful Horizon"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 231.6158 257.76936
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name Allure
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -245.53699 402.27214
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Saint Amwe"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -326.82051 193.89183
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Lilac Lord"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -483.47687 340.17337
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Salvation and Enlightenment"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -310.2463 687.00838
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Virtue Emperors"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -227.80906 489.042
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Brazen Sovereign"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 318.44106 364.51246
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Silver Flags"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -257.14883 433.6504
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Poetry and Moonlight"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 304.52053 364.12097
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Hopeful Queen"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -411.65696 251.65973
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Saint of Enlightenment"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 229.60819 258.39412
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Many Souls"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 220.49331 283.84419
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Shira the Azure"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -247.55986 347.74848
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Rainbow Crystal"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -116.50207 877.75071
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Serenity Sun"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position -344.95455 456.10869
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Eagle of the South"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 16.114879 944.17861
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Work Horse of Fate"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 199.50402 752.61304
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+ship Carrier
+	name "Infinite Emperor"
+	sprite ship/carrier
+	attributes
+		category "Heavy Warship"
+		cost 15200000
+		bunks 184
+		"cargo space" 100
+		drag 17.7
+		"engine capacity" 210
+		"fuel capacity" 700
+		"gun ports" 8
+		"heat dissipation" 0.45
+		hull 8300
+		mass 910
+		"outfit space" 820
+		"required crew" 111
+		shields 21400
+		"turret mounts" 4
+		"weapon capacity" 370
+	outfits
+		"Small Repair Module"
+		"Finisher Pod" 8
+		"Outfits Expansion" 5
+		"Finisher Torpedo" 320
+		"NDR-114 Android" 111
+		"Drak Anti-Missile Field"
+		"Cloaking Device"
+		"Large Heat Shunt" 2
+		"Thruster (Lunar Class)"
+		"Reasoning Node"
+		"Thruster (Stellar Class)"
+		"Steering (Planetary Class)"
+		"Small Biochemical Cell"
+		"Antimatter Core"
+		"Quantum Shield Generator"
+		"Wanderer Ramscoop" 7
+	crew 1
+	fuel 700
+	shields 21400
+	hull 8300
+	position 316.95444 387.51875
+	engine -35 200 1
+	engine 35 200 1
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -16 -176 "Finisher Pod"
+	gun 16 -176 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	gun -25 -166 "Finisher Pod"
+	gun 25 -166 "Finisher Pod"
+	turret 0 -114 "Drak Anti-Missile Field"
+	turret 0 15
+	turret 0 103
+	turret 0 157
+	fighter -37 -65
+	fighter 37 -65
+	fighter -46 40
+	fighter 46 40
+	drone -72 -46
+	drone 72 -46
+	drone -101 57
+	drone 101 57
+	drone -74 57
+	drone 74 57
+	explode "huge explosion" 10
+	explode "tiny explosion" 20
+	explode "small explosion" 45
+	explode "medium explosion" 50
+	explode "large explosion" 40
+	"final explode" "final explosion large" 1
+	system Origin
+	planet Forge
+	parked
+account
+	credits 588978622
+	score 440
+	history
+		-6616
+		-12185
+		-17715
+		-23200
+		-28646
+		999965950
+		999834244
+		1999831396
+		2999828580
+		3974738097
+		4948068351
+		5921683463
+		6872991705
+		7816582357
+		8751084408
+		9662425660
+		9563316105
+		9476903912
+		9391335556
+		8706602079
+		8622694625
+		10122244678
+		10025846952
+		9950317796
+		9875612620
+		9801722504
+		9728638616
+		9656352221
+		9584854675
+		9514137431
+		9444192031
+		9375010115
+		9306583402
+		9238903708
+		9171962938
+		9105753074
+		9040266207
+		8975493482
+		8911429152
+		8848069181
+cargo
+	outfits
+		Ball-bearing 371
+"fleet depreciation"
+	ship Archon
+		1100439 1
+	ship Carrier
+		1100439 49
+	outfit "Small Repair Module"
+		1100445 49
+		1100452 1
+	outfit "Large Repair Module"
+		1100452 1
+	outfit "Finisher Pod"
+		1100439 392
+	outfit "Outfits Expansion"
+		1100442 245
+	outfit "Finisher Torpedo"
+		1100439 15680
+		1100446 392
+		1100452 696
+	outfit "Drak Antimatter Cannon"
+		1100439 1
+	outfit "NDR-114 Android"
+		1100449 5445
+	outfit "Drak Anti-Missile Field"
+		1100439 2
+		1100440 49
+	outfit "Cloaking Device"
+		1100439 49
+		1100451 1
+	outfit "Large Heat Shunt"
+		1100442 98
+	outfit "Thruster (Lunar Class)"
+		1100445 49
+	outfit "Reasoning Node"
+		1100442 49
+	outfit "Thruster (Stellar Class)"
+		1100440 49
+		1100442 1
+	outfit "Steering (Planetary Class)"
+		1100440 49
+		1100442 1
+	outfit "Korath Disruptor"
+		1100451 1
+	outfit "Small Biochemical Cell"
+		1100442 49
+	outfit "Quarg Skylance"
+		1100451 5
+	outfit "Antimatter Core"
+		1100442 12
+		1100443 10
+		1100445 27
+	outfit "Quantum Shield Generator"
+		1100442 49
+	outfit "Wanderer Ramscoop"
+		1100439 147
+		1100445 196
+		1100451 4
+	outfit "Developer Drive"
+		1100452 1
+"stock depreciation"
+
+# What you've done:
+mission testing
+	name testing
+	invisible
+	landing
+	destination Forge
+	npc
+		succeed 128
+		government "Red Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Lenmig'sraor 52-T"
+			name "Bonjour, Bitches"
+			sprite "ship/Lenmig'sraor 52-T"
+			attributes
+				category "Medium Warship"
+				cost 20000000
+				bunks 93
+				"cargo space" 36
+				drag 10.1
+				"engine capacity" 156
+				"fuel capacity" 700
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 8255
+				mass 755
+				"outfit space" 752
+				ramscoop 3
+				"required crew" 42
+				shields 18030
+				"turret mounts" 3
+				"weapon capacity" 325
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray" 3
+				"Kelvin Beam" 4
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 42
+			fuel 700
+			shields 18030
+			hull 8255
+			position 536.46047 -1916.8763
+			engine -52.25 117.5 1
+			engine -37.75 117 1
+			engine -15.75 94.5 1
+			engine 0.75 127.5 1
+			engine 16.25 95 1
+			engine 40.25 117 1
+			engine 54.75 117.5 1
+			gun -51.75 -66 "Kelvin Beam"
+			gun -37.25 -66 "Kelvin Beam"
+			gun -11.75 -89.5 "Phase Missile Launcher"
+			gun 15.75 -89.5 "Phase Missile Launcher"
+			gun 40.75 -66 "Kelvin Beam"
+			gun 55.25 -66 "Kelvin Beam"
+			turret -45.75 74 "Heat Redistribution Ray"
+			turret 14.25 69 "Heat Redistribution Ray"
+			turret 68.25 74 "Heat Redistribution Ray"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+	npc
+		succeed 128
+		government "Red Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Lenmig'sraor 52-T"
+			name "Bonjour, Bitches"
+			sprite "ship/Lenmig'sraor 52-T"
+			attributes
+				category "Medium Warship"
+				cost 20000000
+				bunks 93
+				"cargo space" 36
+				drag 10.1
+				"engine capacity" 156
+				"fuel capacity" 700
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 8255
+				mass 755
+				"outfit space" 752
+				ramscoop 3
+				"required crew" 42
+				shields 18030
+				"turret mounts" 3
+				"weapon capacity" 325
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray" 3
+				"Kelvin Beam" 4
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 42
+			fuel 700
+			shields 18030
+			hull 8255
+			position 758.61024 -823.92065
+			engine -52.25 117.5 1
+			engine -37.75 117 1
+			engine -15.75 94.5 1
+			engine 0.75 127.5 1
+			engine 16.25 95 1
+			engine 40.25 117 1
+			engine 54.75 117.5 1
+			gun -51.75 -66 "Kelvin Beam"
+			gun -37.25 -66 "Kelvin Beam"
+			gun -11.75 -89.5 "Phase Missile Launcher"
+			gun 15.75 -89.5 "Phase Missile Launcher"
+			gun 40.75 -66 "Kelvin Beam"
+			gun 55.25 -66 "Kelvin Beam"
+			turret -45.75 74 "Heat Redistribution Ray"
+			turret 14.25 69 "Heat Redistribution Ray"
+			turret 68.25 74 "Heat Redistribution Ray"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+	npc
+		succeed 128
+		government "Red Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Lenmig'sraor 52-T"
+			name "Bonjour, Bitches"
+			sprite "ship/Lenmig'sraor 52-T"
+			attributes
+				category "Medium Warship"
+				cost 20000000
+				bunks 93
+				"cargo space" 36
+				drag 10.1
+				"engine capacity" 156
+				"fuel capacity" 700
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 8255
+				mass 755
+				"outfit space" 752
+				ramscoop 3
+				"required crew" 42
+				shields 18030
+				"turret mounts" 3
+				"weapon capacity" 325
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray" 3
+				"Kelvin Beam" 4
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 42
+			fuel 700
+			shields 18030
+			hull 8255
+			position 606.68336 -319.77548
+			engine -52.25 117.5 1
+			engine -37.75 117 1
+			engine -15.75 94.5 1
+			engine 0.75 127.5 1
+			engine 16.25 95 1
+			engine 40.25 117 1
+			engine 54.75 117.5 1
+			gun -51.75 -66 "Kelvin Beam"
+			gun -37.25 -66 "Kelvin Beam"
+			gun -11.75 -89.5 "Phase Missile Launcher"
+			gun 15.75 -89.5 "Phase Missile Launcher"
+			gun 40.75 -66 "Kelvin Beam"
+			gun 55.25 -66 "Kelvin Beam"
+			turret -45.75 74 "Heat Redistribution Ray"
+			turret 14.25 69 "Heat Redistribution Ray"
+			turret 68.25 74 "Heat Redistribution Ray"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+	npc
+		succeed 128
+		government "Blue Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Holzst'rnak 11-P"
+			name "Auf Wiedersehen, Motherfucker"
+			sprite "ship/Holzst'rnak 11-P"
+			attributes
+				category "Medium Warship"
+				cost 27000000
+				bunks 37
+				"cargo space" 40
+				drag 8.1
+				"engine capacity" 160
+				"fuel capacity" 600
+				"gun ports" 6
+				"heat dissipation" 0.7
+				hull 8400
+				mass 683
+				"outfit space" 730
+				ramscoop 3
+				"required crew" 29
+				shields 25000
+				"turret mounts" 2
+				"weapon capacity" 270
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Hyperborean Anti-Missile"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray"
+				"Kelvin Beam" 2
+				"Engine Destabiliser" 2
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 29
+			fuel 600
+			shields 25000
+			hull 8400
+			position 725.3898 -569.74686
+			engine -7.75 102 1
+			engine 10.25 102 1
+			gun -26.75 -104 "Engine Destabiliser"
+			gun 27.25 -103.5 "Engine Destabiliser"
+			gun -54.25 15 "Phase Missile Launcher"
+			gun 54.25 15 "Phase Missile Launcher"
+			gun -50.25 10.5 "Kelvin Beam"
+			gun 49.25 11 "Kelvin Beam"
+			turret 1.25 -18.5 "Heat Redistribution Ray"
+			turret 1.25 16 "Hyperborean Anti-Missile"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+	npc
+		succeed 128
+		government "Blue Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Holzst'rnak 11-P"
+			name "Auf Wiedersehen, Motherfucker"
+			sprite "ship/Holzst'rnak 11-P"
+			attributes
+				category "Medium Warship"
+				cost 27000000
+				bunks 37
+				"cargo space" 40
+				drag 8.1
+				"engine capacity" 160
+				"fuel capacity" 600
+				"gun ports" 6
+				"heat dissipation" 0.7
+				hull 8400
+				mass 683
+				"outfit space" 730
+				ramscoop 3
+				"required crew" 29
+				shields 25000
+				"turret mounts" 2
+				"weapon capacity" 270
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Hyperborean Anti-Missile"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray"
+				"Kelvin Beam" 2
+				"Engine Destabiliser" 2
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 29
+			fuel 600
+			shields 25000
+			hull 8400
+			position 813.0589 -577.47592
+			engine -7.75 102 1
+			engine 10.25 102 1
+			gun -26.75 -104 "Engine Destabiliser"
+			gun 27.25 -103.5 "Engine Destabiliser"
+			gun -54.25 15 "Phase Missile Launcher"
+			gun 54.25 15 "Phase Missile Launcher"
+			gun -50.25 10.5 "Kelvin Beam"
+			gun 49.25 11 "Kelvin Beam"
+			turret 1.25 -18.5 "Heat Redistribution Ray"
+			turret 1.25 16 "Hyperborean Anti-Missile"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+	npc
+		succeed 128
+		government "Blue Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship "Holzst'rnak 11-P"
+			name "Auf Wiedersehen, Motherfucker"
+			sprite "ship/Holzst'rnak 11-P"
+			attributes
+				category "Medium Warship"
+				cost 27000000
+				bunks 37
+				"cargo space" 40
+				drag 8.1
+				"engine capacity" 160
+				"fuel capacity" 600
+				"gun ports" 6
+				"heat dissipation" 0.7
+				hull 8400
+				mass 683
+				"outfit space" 730
+				ramscoop 3
+				"required crew" 29
+				shields 25000
+				"turret mounts" 2
+				"weapon capacity" 270
+			outfits
+				Hyperdrive
+				"A525 Atomic Steering"
+				"A520 Atomic Thruster"
+				"Hyperborean Anti-Missile"
+				"Phase Missile Launcher" 2
+				"Polar Batteries"
+				"Heat Redistribution Ray"
+				"Kelvin Beam" 2
+				"Engine Destabiliser" 2
+				"Phase Missile" 200
+				"Glacial-Class Shield Generator" 2
+				"Iceberg Reactor"
+			crew 29
+			fuel 600
+			shields 25000
+			hull 8400
+			position 568.29973 -1856.6835
+			engine -7.75 102 1
+			engine 10.25 102 1
+			gun -26.75 -104 "Engine Destabiliser"
+			gun 27.25 -103.5 "Engine Destabiliser"
+			gun -54.25 15 "Phase Missile Launcher"
+			gun 54.25 15 "Phase Missile Launcher"
+			gun -50.25 10.5 "Kelvin Beam"
+			gun 49.25 11 "Kelvin Beam"
+			turret 1.25 -18.5 "Heat Redistribution Ray"
+			turret 1.25 16 "Hyperborean Anti-Missile"
+			explode "huge explosion" 10
+			explode "tiny explosion" 80
+			explode "small explosion" 45
+			explode "medium explosion" 50
+			explode "large explosion" 40
+			"final explode" "final explosion large" 1
+			system Rumebali
+mission shiptester3
+	name shiptester3
+	landing
+	destination Forge
+	npc
+		succeed 128
+		government "Red Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship Hurricane
+			name "Red Team"
+			sprite ship/hurricane
+			attributes
+				category "Heavy Warship"
+				cost 39100000
+				bunks 117
+				"cargo space" 98
+				drag 11.9
+				"engine capacity" 140
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.55
+				hull 46500
+				mass 770
+				"outfit space" 960
+				"required crew" 76
+				shields 72400
+				"turret mounts" 5
+				"weapon capacity" 428
+			outfits
+				"Mass Expansion" 4
+				"NDR-114 Android" 78
+				"Cloaking Device"
+				"Fuel Pod" 4
+				"Triple Plasma Core"
+				"Large Heat Shunt" 5
+				"Systems Core (Large)"
+				"Thruster (Planetary Class)"
+				"Thruster (Asteroid Class)"
+				"Steering (Planetary Class)"
+				"Korath Warder" 2
+				"Cargo Scanner"
+				"Outfit Scanner"
+				"Quarg Skylance" 3
+				"Nanotech Battery"
+				"Quantum Shield Generator"
+				Flamethrower 6
+				"Developer Drive"
+			crew 1
+			fuel 900
+			shields 72400
+			hull 46500
+			position 230.62053 1170.5472
+			engine -23 181 1
+			engine 23 181 1
+			gun -68 5 Flamethrower
+			gun 68 5 Flamethrower
+			gun -85 21 Flamethrower
+			gun 85 21 Flamethrower
+			gun -62 32 Flamethrower
+			gun 62 32 Flamethrower
+			turret -27 -80 "Korath Warder"
+			turret 27 -80 "Korath Warder"
+			turret 0 -33 "Quarg Skylance"
+			turret -39 140 "Quarg Skylance"
+			turret 39 140 "Quarg Skylance"
+			explode "huge explosion" 30
+			explode "small explosion" 20
+			explode "medium explosion" 80
+			explode "large explosion" 70
+			"final explode" "final explosion large" 1
+			system Origin
+			actions 8
+	npc
+		succeed 128
+		government "Blue Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship Hurricane
+			name "Blue Team"
+			sprite ship/hurricane
+			attributes
+				category "Heavy Warship"
+				cost 39100000
+				bunks 117
+				"cargo space" 98
+				drag 11.9
+				"engine capacity" 140
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.55
+				hull 46500
+				mass 770
+				"outfit space" 960
+				"required crew" 76
+				shields 72400
+				"turret mounts" 5
+				"weapon capacity" 428
+			outfits
+				"Mass Expansion" 4
+				"Fuel Pod"
+				"Large Heat Shunt" 3
+				"Systems Core (Large)"
+				"Thruster (Planetary Class)"
+				"Thruster (Asteroid Class)"
+				"Steering (Planetary Class)"
+				"Korath Warder" 2
+				"Quarg Skylance" 3
+				"Quantum Shield Generator"
+				Flamethrower 6
+				"Blue Sun Reactor" 2
+				"Developer Drive"
+			crew 79
+			fuel 600
+			shields 72400
+			hull 46500
+			position -256.74859 734.60436
+			engine -23 181 1
+			engine 23 181 1
+			gun -68 5 Flamethrower
+			gun 68 5 Flamethrower
+			gun -85 21 Flamethrower
+			gun 85 21 Flamethrower
+			gun -62 32 Flamethrower
+			gun 62 32 Flamethrower
+			turret -27 -80 "Korath Warder"
+			turret 27 -80 "Korath Warder"
+			turret 0 -33 "Quarg Skylance"
+			turret -39 140 "Quarg Skylance"
+			turret 39 140 "Quarg Skylance"
+			explode "huge explosion" 30
+			explode "small explosion" 20
+			explode "medium explosion" 80
+			explode "large explosion" 70
+			"final explode" "final explosion large" 1
+			system Origin
+			actions 8
+	on offer
+		dialog
+			"tester mission offered"
+mission "Pug in Enclave galaxy"
+	name "Pug in Enclave galaxy"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Pug
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship "Pug Arfecta"
+			name "Yot Hort"
+			sprite "ship/pug arfecta"
+			attributes
+				category "Medium Warship"
+				cost 90000000
+				bunks 46
+				"cargo space" 64
+				"cloaking fuel" -0.2
+				drag 7.5
+				"energy capacity" 10000
+				"energy generation" 200
+				"engine capacity" 220
+				"fuel capacity" 1200
+				"heat dissipation" 0.8
+				"heat generation" 10
+				hull 80000
+				"hull energy" 5
+				"hull repair rate" 5
+				mass 670
+				"outfit space" 640
+				"required crew" 36
+				"shield energy" 32
+				"shield generation" 32
+				shields 98000
+				"turret mounts" 5
+				"weapon capacity" 390
+			outfits
+				"Jump Drive"
+				"Cloaking Device"
+				"Tier 3 Anti-Missile" 2
+				"Pug Lohmar Thruster"
+				"Pug Gridfire Turret" 3
+				"Pug Biodefenses" 12
+				"Pug Lohmar Steering" 2
+			crew 36
+			fuel 1200
+			shields 98000
+			hull 80000
+			position -462.28515 -510.41974
+			engine -15 164 1
+			engine 15 164 1
+			turret -50 -29 "Tier 3 Anti-Missile"
+			turret 50 -29 "Tier 3 Anti-Missile"
+			turret 0 40 "Pug Gridfire Turret"
+			turret -73 84 "Pug Gridfire Turret"
+			turret 73 84 "Pug Gridfire Turret"
+			explode "tiny explosion" 100
+			explode "small explosion" 60
+			explode "medium explosion" 30
+			explode "large explosion" 10
+			"final explode" "final explosion large" 1
+			system "Pug Morbosa"
+mission "Drak guarding Void Sprites"
+	name "Drak guarding Void Sprites"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sleeping Dragon"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				cloak 0.04
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Thruster"
+				"Jump Drive"
+				"Drak Turret" 3
+				"Drak Distancer" 2
+				"Drak Anti-Missile Field" 2
+				"Medium Graviton Steering"
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 724.69575 -789.05231
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Draining Field"
+			turret 0 -10 "Drak Turret"
+			turret 0 -10 "Drak Turret"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Distancer"
+			turret 0 81 "Drak Distancer"
+			turret -55 16 "Drak Anti-Missile Field"
+			turret 55 16 "Drak Anti-Missile Field"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Nenia
+mission "Drak guarding Sayaiban"
+	name "Drak guarding Sayaiban"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Watchful Gravetender"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Thruster"
+				"Jump Drive"
+				"Drak Turret" 3
+				"Drak Distancer" 2
+				"Drak Anti-Missile Field" 2
+				"Medium Graviton Steering"
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position -1112.8695 -653.61509
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Sayaiban
+	on enter Sayaiban
+		log Factions Archons
+			"Archons consider it to be their job to enforce peace and to prevent extinction. If they are unable to prevent a species from driving itself extinct, they will still try to preserve some of what that species created as a memorial to them."
+			"They are capable of communicating telepathically."
+		conversation
+			label 0
+			`A voice says, "This system is off limits. You should leave."`
+			"	After a second, you realize that the voice did not come from your communications equipment. In fact, now that you think about it, you're not sure if it was an audible voice, or just something in your head."
+				goto 1
+			label 1
+			choice
+				"	(Ignore it.)"
+					goto 2
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 2
+			`	"You should leave." The thought repeats itself, insistently. Either you're going crazy, or a creature is communicating with you telepathically.`
+				goto 3
+			label 3
+			choice
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 4
+			`	You feel as if a vast and patient creature has just heaved an immense sigh. "Human, you would do well not to ignore the warning of an Archon. I am here to warn off those who might be harmed by the swarm intelligence that infests this system. If you remain here long your ship will be digested by the swarm."`
+			`	You recall that "Archon" is what Drak ships are called.`
+				goto 5
+			label 5
+			choice
+				`	"What do you mean, 'digested'?"`
+					goto 6
+				`	"What is a 'swarm intelligence'?"`
+					goto 7
+			label 6
+			`	"I mean that your ship will be broken down into its component parts." You notice, as the voice says this, that your shields are registering small energy bursts, as if they are being struck by invisible weapons.`
+			`	"What is this swarm?" you ask.`
+				goto 7
+			label 7
+			`	"Self-replicating miniature robots," the voice replies. "A weapon created by the Korath, the last of their great abominations. If you wish to feed your ship to the swarm, I will not stop you, but they already possess enough raw material here without your assistance." The voice's tone, inasmuch as a disembodied imaginary voice can be said to have a tone, is sardonic.`
+				goto 8
+			label 8
+			choice
+				`	"Okay, okay, I'll get out of here."`
+					goto 12
+				`	"Wait, I have more questions."`
+					goto 9
+			label 9
+			`	"Yes?"`
+			`	You ask, "Why don't you just destroy the swarm, if it is so dangerous?"`
+			`	The voice says, "Because if the Korath manage to drive themselves extinct, this intelligence will be their last and greatest surviving creation, and we will preserve it as a living memorial to them. Please do not interfere here." When the voice speaks the phrase, "drive themselves extinct," the words are accompanied by an emotion that you cannot put a name to.`
+			"	Also, the empty space around your ship is beginning to light up with small sparks, like an angry swarm of fireflies."
+				goto 10
+			label 10
+			choice
+				`	"Well, it's an honor to meet you. I'll be leaving now."`
+					goto 12
+				`	"Why do you care if they go extinct?"`
+					goto 11
+			label 11
+			`	"Our directive is to enforce peace and prevent extinction," says the voice. As before, the words "prevent extinction" echo loud in your mind as if underlined by a nameless emotion. "Now, enough questions," says the voice.`
+				goto 12
+			label 12
+			"	The presence inside your head seems to fall away, and you are left talking to thin air."
+				decline
+mission "Drak guarding Korath space"
+	name "Drak guarding Korath space"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Kasiliri's Folly"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Thruster"
+				"Jump Drive"
+				"Drak Turret" 3
+				"Drak Distancer" 2
+				"Drak Anti-Missile Field" 2
+				"Medium Graviton Steering"
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 41.636583 206.4246
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Fasitopfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sword of Eden"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Thruster"
+				"Jump Drive"
+				"Drak Turret" 3
+				"Drak Distancer" 2
+				"Drak Anti-Missile Field" 2
+				"Medium Graviton Steering"
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position -576.76882 -141.38673
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Kasikfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Snows of Far Door Nai"
+			noun entity
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				Hyperdrive
+				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Thruster"
+				"Jump Drive"
+				"Drak Turret" 3
+				"Drak Distancer" 2
+				"Drak Anti-Missile Field" 2
+				"Medium Graviton Steering"
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 947.40332 1360.2156
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Peresedersi
+"available job" "Enclave Med-Small Escort Flurry"
+	name "Escort to Saal"
+	description "The captain of the Silver Cutter will pay you 50,000 credits to escort their ship safely to Saal in the Theurrhaeus system by Wed, 5 Jan 3014."
+	deadline 5 1 3014
+	job
+	repeat 0
+	to offer
+		random < 60
+		"reputation: Enclave" >= 75
+	destination Saal
+	npc
+		government Pirate
+		personality
+			confusion 10
+			nemesis
+			waiting
+		ship Penguin
+			name "Mordred's Nightmare"
+			sprite ship/Penguin
+			attributes
+				category Interceptor
+				cost 250000
+				bunks 2
+				"cargo space" 15
+				drag 1.2
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 325
+				mass 60
+				"outfit space" 140
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"nGVF-BB Fuel Cell"
+				"SLD-24 Shield Generator"
+				"Spark-Class Power Pack"
+			cargo
+				commodities
+					Food 1
+					Metal 9
+					Plastic 5
+			crew 1
+			fuel 300
+			shields 1200
+			hull 315
+			position -1088.5406 -423.09613
+			engine 0 35.5 1
+			gun 10.75 -22 "Meteor Missile Launcher"
+			gun -10.75 -22 "Meteor Missile Launcher"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Anvyu
+		ship Penguin
+			name "Bleeding Nergal"
+			sprite ship/Penguin
+			attributes
+				category Interceptor
+				cost 250000
+				bunks 2
+				"cargo space" 15
+				drag 1.2
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 325
+				mass 60
+				"outfit space" 140
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"nGVF-BB Fuel Cell"
+				"SLD-24 Shield Generator"
+				"Spark-Class Power Pack"
+			cargo
+				commodities
+					Industrial 1
+					"Luxury Goods" 14
+			crew 1
+			fuel 300
+			shields 1200
+			hull 315
+			position -1037.5116 -331.9801
+			engine 0 35.5 1
+			gun 10.75 -22 "Meteor Missile Launcher"
+			gun -10.75 -22 "Meteor Missile Launcher"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Anvyu
+		ship Penguin
+			name "Dark Khan"
+			sprite ship/Penguin
+			attributes
+				category Interceptor
+				cost 250000
+				bunks 2
+				"cargo space" 15
+				drag 1.2
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 325
+				mass 60
+				"outfit space" 140
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"nGVF-BB Fuel Cell"
+				"SLD-24 Shield Generator"
+				"Spark-Class Power Pack"
+			cargo
+				commodities
+					Clothing 4
+					"Heavy Metals" 7
+			crew 1
+			fuel 300
+			shields 1200
+			hull 315
+			position -1072.0411 -120.88327
+			engine 0 35.5 1
+			gun 10.75 -22 "Meteor Missile Launcher"
+			gun -10.75 -22 "Meteor Missile Launcher"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Anvyu
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship Flurry
+			name "Silver Cutter"
+			sprite ship/Flurry
+			attributes
+				category Transport
+				cost 2230000
+				bunks 30
+				"cargo space" 50
+				drag 5
+				"engine capacity" 110
+				"fuel capacity" 700
+				"gun ports" 2
+				"heat dissipation" 0.7
+				hull 850
+				mass 220
+				"outfit space" 375
+				"required crew" 4
+				shields 4400
+				"turret mounts" 2
+				"weapon capacity" 90
+			outfits
+				Hyperdrive
+				"X3200 Ion Steering"
+				Afterburner
+				"Impala Plasma Thruster"
+				"Fuel Pod"
+				Ramscoop
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"Small Radar Jammer"
+				"S3 Thermionic"
+				"Laser Turret" 2
+				"Kindle-Class Power Pack"
+				"SLD-95 Shield Generator"
+			cargo
+				commodities
+					Equipment 49
+					Metal 1
+			crew 6
+			fuel 800
+			shields 4400
+			hull 830
+			position -957.71866 -264.13988
+			engine -7.25 64.5 1
+			engine 7.75 64.5 1
+			gun 23.25 -42.5 "Meteor Missile Launcher"
+			gun -23.25 -42 "Meteor Missile Launcher"
+			turret 14.25 -31.5 "Laser Turret"
+			turret -13.25 -31.5 "Laser Turret"
+			explode "tiny explosion" 15
+			explode "small explosion" 34
+			explode "medium explosion" 18
+			explode "big explosion" 2
+			"final explode" "final explosion small" 1
+			system Anvyu
+	on complete
+		dialog
+			"The captain of the Silver Cutter thanks you for escorting them safely, and pays you 50,000 credits."
+		payment 50000
+		"reputation: Enclave" += 30
+	on visit
+		dialog
+			"You have reached Saal, but you left the Silver Cutter behind! Better depart and wait for them to arrive in this star system."
+"available job" "Enclave Small Escort"
+	name "Escort to Carmine"
+	description "The captain of the Sorrow Pulsar will pay you 16,000 credits to escort their ship safely to Carmine in the Pipaeus system by Mon, 3 Jan 3014."
+	deadline 3 1 3014
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Carmine
+	npc
+		government Pirate
+		personality
+			confusion 10
+			nemesis
+			waiting
+		ship Penguin
+			name "Baphomet's Falcon"
+			sprite ship/Penguin
+			attributes
+				category Interceptor
+				cost 250000
+				bunks 2
+				"cargo space" 15
+				drag 1.2
+				"engine capacity" 40
+				"fuel capacity" 300
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 325
+				mass 60
+				"outfit space" 140
+				"required crew" 1
+				shields 1200
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"Chipmunk Plasma Thruster"
+				"Chipmunk Plasma Steering"
+				"Meteor Missile" 70
+				"Meteor Missile Launcher" 2
+				"nGVF-BB Fuel Cell"
+				"SLD-24 Shield Generator"
+				"Spark-Class Power Pack"
+			cargo
+				commodities
+					Clothing 6
+					"Luxury Goods" 9
+			crew 2
+			fuel 300
+			shields 1200
+			hull 315
+			position -1068.4804 -574.43504
+			engine 0 35.5 1
+			gun 10.75 -22 "Meteor Missile Launcher"
+			gun -10.75 -22 "Meteor Missile Launcher"
+			explode "tiny explosion" 15
+			explode "small explosion" 5
+			system Anvyu
+	npc
+		fail 128
+		accompany
+		government Merchant
+		personality
+			confusion 10
+			escort
+			timid
+		ship Cheetah
+			name "Sorrow Pulsar"
+			sprite ship/Cheetah
+			attributes
+				category Transport
+				cost 350000
+				bunks 10
+				"cargo space" 40
+				drag 2.1
+				"engine capacity" 65
+				"fuel capacity" 600
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 700
+				mass 110
+				"outfit space" 130
+				"required crew" 1
+				shields 700
+				"weapon capacity" 20
+			outfits
+				Hyperdrive
+				"X2700 Ion Thruster"
+				"X2200 Ion Steering"
+				"nGVF-AA Fuel Cell"
+				"SLD-24 Shield Generator"
+				"Spark-Class Power Pack"
+			cargo
+				commodities
+					Electronics 4
+					Industrial 4
+					Medical 31
+			crew 3
+			fuel 600
+			shields 700
+			hull 690
+			position -1117.9655 -487.24485
+			engine 6 30 1
+			engine -6 30 1
+			gun -7 -37
+			gun 7 -37
+			explode "tiny explosion" 10
+			explode "small explosion" 5
+			system Anvyu
+	on complete
+		dialog
+			"The captain of the Sorrow Pulsar thanks you for escorting them safely, and pays you 16,000 credits."
+		payment 16000
+		"reputation: Enclave" += 25
+	on visit
+		dialog
+			"You have reached Carmine, but you left the Sorrow Pulsar behind! Better depart and wait for them to arrive in this star system."
+conditions
+	"Add Carrier License: done"
+	"Add Carrier License: offered"
+	"Add Coalition License: done"
+	"Add Coalition License: offered"
+	"Add Cruiser License: done"
+	"Add Cruiser License: offered"
+	"Add Heliarch License: done"
+	"Add Heliarch License: offered"
+	"Add Militia Carrier License: done"
+	"Add Militia Carrier License: offered"
+	"Add Navy License: done"
+	"Add Navy License: offered"
+	"Add Remnant License: done"
+	"Add Remnant License: offered"
+	"Add Unfettered Militia License: done"
+	"Add Unfettered Militia License: offered"
+	"Add Wanderer License: done"
+	"Add Wanderer License: offered"
+	"Add Wanderer Military License: done"
+	"Add Wanderer Military License: offered"
+	"Add Wanderer Outfits License: done"
+	"Add Wanderer Outfits License: offered"
+	"Andromedan Rep: offered"
+	"Drak guarding Korath space: active"
+	"Drak guarding Korath space: offered"
+	"Drak guarding Sayaiban: active"
+	"Drak guarding Sayaiban: offered"
+	"Drak guarding Void Sprites: active"
+	"Drak guarding Void Sprites: offered"
+	"First Contact: Enclave: offered"
+	"Intro [0]: offered"
+	"Outfitters on Helheim: done"
+	"Outfitters on Helheim: offered"
+	"Pug in Enclave galaxy: active"
+	"Pug in Enclave galaxy: offered"
+	"combat rating" 27852
+	day 26
+	"event: Andromedan Check"
+	"event: helheim outfitter"
+	"event: stealth cruiser fleet service"
+	"license: Carrier"
+	"license: Coalition"
+	"license: Cruiser"
+	"license: Heliarch"
+	"license: Militia Carrier"
+	"license: Navy"
+	"license: Pilot's"
+	"license: Remnant"
+	"license: Unfettered Militia"
+	"license: Wanderer"
+	"license: Wanderer Military"
+	"license: Wanderer Outfits"
+	"money: done" 11
+	"money: offered" 11
+	month 12
+	"net worth" 2000000000
+	"reputation:  Drak " -1000
+	"reputation:  Enigma Corp " 14
+	"reputation:  Kor Mereti " -1000
+	"reputation: Alpha" -1000
+	"reputation: Alphean Boolean"
+	"reputation: Alr" -5
+	"reputation: Andromedan" -1000
+	"reputation: Author"
+	"reputation: Bad Trip" -1000
+	"reputation: Blue Team" 1000
+	"reputation: Bounty" -1000
+	"reputation: Bounty Hunter" -1000
+	"reputation: Coalition"
+	"reputation: Da Bezt Person"
+	"reputation: Deep" -1000
+	"reputation: Derpy Horse" -500000
+	"reputation: Drak"
+	"reputation: Enclave" 66450
+	"reputation: Erufiams"
+	"reputation: Federation" 15
+	"reputation: Free Worlds" -190
+	"reputation: Hai (Unfettered)" -1000
+	"reputation: Heliarch"
+	"reputation: Independent" 10
+	"reputation: Indigenous Lifeform"
+	"reputation: Kor Efret"
+	"reputation: Kor Mereti" -1000
+	"reputation: Kor Sestor" -1000
+	"reputation: Korath" -10
+	"reputation: Korath Nanobots" -1000
+	"reputation: Merchant" -785
+	"reputation: Militia" -198
+	"reputation: Navy (Oathkeeper)" -63
+	"reputation: Navy Intelligence" 44
+	"reputation: Neutral" -217
+	"reputation: Parrot"
+	"reputation: Pirate" -75
+	"reputation: Pug" -66
+	"reputation: Quarg"
+	"reputation: Red Team" 1000
+	"reputation: Remnant"
+	"reputation: Republic" -297
+	"reputation: Sentarians" -10000
+	"reputation: Space" -1000
+	"reputation: Syndicate" -186
+	"reputation: Syndicate (Extremist)" -1000
+	"reputation: Takarada Kaneo"
+	"reputation: Team Blue" -1000
+	"reputation: Team Red" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Unknown Ones"
+	"reputation: Wanderer"
+	"reputation: XSZ Corporation" -137267
+	"reputation: hingeCorp"
+	"ships: Heavy Warship"
+	"shiptester3: active"
+	"shiptester3: offered"
+	"testing: active"
+	"testing: offered"
+	year 3013
+event
+	date 27 2 3017
+	"event: geminus fixed" = 1
+	planet Geminus
+		shipyard "Basic Ships"
+		shipyard "Navy Basics"
+		shipyard "Navy Advanced"
+		shipyard "Betelgeuse Basics"
+		shipyard "Lionheart Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo North"
+		outfitter "Lovelace Advanced"
+		outfitter "Syndicate Basics"
+event
+	date 24 7 3014
+	"event: initial deployment 1" = 1
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+		fleet "Human Miners" 5000
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+		fleet "Human Miners" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+	shipyard "Syndicate Basics"
+		Barb
+	outfitter "Syndicate Basics"
+		"X1050 Ion Engines"
+event
+	date 14 8 3014
+	"event: initial deployment 2" = 1
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+event
+	date 29 8 3014
+	"event: initial deployment 3" = 1
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+		fleet "Human Miners" 3000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+event
+	date 17 9 3014
+	"event: initial deployment 4" = 1
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+		fleet "Human Miners" 3000
+event
+	date 23 3 3020
+	"event: kriegsmacher" = 1
+	planet Geminus
+		shipyard Warmaker
+event
+	date 19 2 3014
+	"event: remembrance day" = 1
+event
+	date 21 9 3015
+	"event: stealth cruiser" = 1
+	shipyard "Tarazed Advanced"
+		"Stealth Cruiser"
+	shipyard "Navy Advanced"
+		"Stealth Cruiser"
+event
+	date 11 4 3014
+	"event: tyil set up" = 1
+	planet Tyil
+		shipyard "Tyil Basics"
+		shipyard "Tyil Advanced"
+		shipyard "Betelgeuse Basics"
+		shipyard "Lionheart Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo South"
+		outfitter "Tyil Advanced"
+		outfitter "Pirate Outfits"
+		description "Tyil is the homeplanet of Tyil Corporation. Only here can the Goose and the Grenade Launcher be bought as Tyil Corporation has patented their Grenade Launcher."
+	planet "Aurum Station"
+		shipyard "Tyil Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo South"
+		outfitter "Tyil Basics"
+		outfitter "Pirate Outfits"
+		description "Aurum Station is the only other place that Tyil Corporation sells outfits. The station is quite empty though."
+event
+	date 4 7 3014
+	"event: war begins" = 1
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+changes
+	fleet "Large Republic"
+		government Republic
+		names "republic capital"
+		fighters "republic fighter"
+		cargo 0
+		personality
+			heroic
+		variant 5
+			Frigate 2
+			Rainmaker
+			Gunboat
+		variant 3
+			Cruiser
+			"Combat Drone" 4
+		variant 3
+			Cruiser
+			"Combat Drone" 4
+			Frigate
+			Rainmaker
+		variant 2
+			Carrier
+			Lance 4
+			"Combat Drone" 6
+		variant 1
+			Carrier
+			Lance 4
+			"Combat Drone" 6
+			Cruiser
+			"Combat Drone" 4
+			Frigate 2
+			Rainmaker 2
+			Gunboat 2
+		variant 1
+			Cruiser
+			"Combat Drone" 4
+			Frigate 2
+		variant 1
+			Frigate
+			Rainmaker 2
+			Gunboat
+		variant 1
+			"Stealth Cruiser (Navy MkI)" 2
+	planet Helheim
+		outfitter "Deep Sky Basics"
+economy
+	system Food Clothing Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	"1 Axis" -1503 2847 590 2916 -4073 5215 5770 5675 -4311 15245
+	"10 Pole" 3519 3884 3739 -447 -5348 -2298 -5418 -3451 -587 -1732
+	"11 Autumn Above" 9353 2368 6278 2897 144 6590 -1251 -3207 -1236 6756
+	"11 Spring Below" -2098 -7780 642 4380 1566 -7457 5355 -2213 -13585 11174
+	"12 Autumn Above" -4130 -5996 7535 10791 2445 17306 7422 -3834 -3263 -7349
+	"14 Pole" -375 -3431 5631 2655 -1798 9138 4920 -4823 1904 -3842
+	"14 Summer Above" 225 2028 6331 -436 7404 1689 -7282 7010 -1636 951
+	"14 Winter Below" 6521 -842 6364 3666 5166 -8013 -6751 4168 -6902 9783
+	"16 Autumn Rising" 444 -79 10359 7941 -2149 10468 -7196 3946 1256 -12080
+	"3 Axis" -7237 -2360 457 -1172 -9812 -5294 -733 -668 4121 17051
+	"3 Pole" -14977 3762 8557 5634 5438 5635 -7727 12346 4336 1078
+	"3 Spring Rising" 292 1514 -1404 7081 5516 4925 4016 -581 -622 8196
+	"4 Axis" 2272 -25 -1905 215 3110 -5117 5263 12176 -7720 12274
+	"4 Spring Rising" 520 -727 -2396 1420 7712 -2574 5995 -1018 -13702 10612
+	"4 Summer Rising" -5665 -2435 -5000 4652 1120 -7736 3865 1100 2937 2941
+	"4 Winter Rising" 2216 3192 -782 -12617 1311 9413 7607 8560 4876 16728
+	"5 Axis" -8985 4565 3899 -62 2878 -4767 2774 3596 -2694 5612
+	"5 Spring Below" 3206 -5527 -2184 6116 3124 447 -2480 -2899 -6746 -5208
+	"5 Summer Above" -899 9790 1698 3752 -4500 3983 -7099 6891 4960 -1154
+	"5 Winter Above" 855 7916 81 -4869 -194 12261 4247 510 64 3164
+	"7 Autumn Rising" 7040 3081 -2449 -7937 5354 4294 -1454 -3967 -3889 10861
+	"8 Winter Below" -1799 560 681 4566 3539 -1735 -998 4891 3128 9851
+	"9 Spring Above" -8837 -2069 -2089 2412 4417 30 5562 -8258 2537 -3475
+	Ablodab 10 -7929 8030 -59 -1895 4289 5084 7442 7178 -4054
+	Ablub -2455 3999 8128 -4241 1363 -10839 2308 11359 -1617 4919
+	Abomin 11553 1545 -5254 -1475 -4328 -1249 165 -6801 2662 6336
+	Acamar -6675 4940 456 1070 4364 4585 -14989 -5988 -4188 1504
+	Achernar -396 5009 13783 -5642 6136 7980 6727 4476 4270 9104
+	Acrux -11702 1726 -2150 247 1650 2269 -2817 -11004 8366 -4458
+	Adhara 1632 -1899 530 3814 -6635 6216 7838 1007 596 478
+	Adke -7117 2110 -198 -2073 5422 -63 -985 -3737 39 -1871
+	Aescolanus 556 -7047 2809 -1615 -864 3435 -3679 -2923 -6846 3146
+	Aether 0 0 0 0 0 0 0 0 0 0
+	Aetrus 0 0 0 0 0 0 0 0 0 0
+	Akildocs 0 0 0 0 0 0 0 0 0 0
+	"Al Dhanab" 43 -1558 -2616 -866 10743 -3480 -84 5479 -2859 -6535
+	Albaldah 18402 -8606 -8462 1247 -12962 1743 -15480 4933 3239 7083
+	Albireo 19480 -4760 -6122 10775 -9378 -203 -6325 13804 -15454 -7249
+	Alcove 0 0 0 0 0 0 0 0 0 0
+	Alcyone 2618 -14416 1309 14707 -1364 -11234 -1020 2975 7373 4302
+	Aldebaran -5968 11887 -4294 -2947 -3639 5127 -1339 -7064 4419 5391
+	Alderamin -2597 4844 6059 7512 -725 -593 1999 -6626 -8772 -3031
+	Aldhibain 6661 -3942 3835 1156 -7930 -2262 5637 -12033 -328 1132
+	Algenib -2525 4922 908 1 3362 -494 3590 2212 -671 -10232
+	Algieba -3879 1771 295 8805 -4324 -11307 121 -8641 -5695 -1407
+	Algol -2132 -8410 9547 5531 -1293 5115 2092 -680 -5339 -2918
+	Algorel -2020 1270 3813 2642 8082 4691 1513 3619 -8455 8512
+	Alheka 4248 -2750 -6804 -5359 -2135 -2390 3292 5664 -1507 3872
+	Alhena -6521 461 2580 -3963 3149 -2470 -3561 9152 -2582 -4624
+	Alioth 1690 -8222 -910 567 -6591 -199 9225 -9813 321 106
+	Alkaid -8284 8111 -4190 -2470 -7350 2528 -8340 -957 85 -2944
+	Almaaz 16456 -5753 5098 -5358 -7599 16548 804 -1454 -9304 3211
+	Almach 3989 1581 10142 8742 3888 -1191 735 275 4252 -1448
+	Alnair -167 -4582 4700 6076 6369 -3720 2244 -5490 -177 -1895
+	Alnasl -1845 -10299 -4488 -5840 -2990 -12066 -9192 -50 972 -2219
+	Alnilam 1110 111 1782 1199 -6106 2840 -5533 -3128 -2828 -6358
+	Alnitak 4947 686 5117 5363 -5821 -169 11129 -2875 -7326 -6261
+	Alniyat -8655 -1915 4103 3527 -2539 9759 6874 -2196 11448 7088
+	"Alpha Arae" -6503 1458 -4971 9908 2665 -883 -11662 -3929 -9126 7558
+	"Alpha Centauri" 6362 1435 208 364 2485 -6774 2636 14415 1716 4627
+	"Alpha Hydri" -2730 -1015 8637 5512 2553 -3426 -5030 -6689 3421 2006
+	Alphard 388 3741 6052 3461 5755 -1140 6529 -5651 1707 -4324
+	Alphecca -5590 2722 -5933 3403 -9579 -5214 4919 1459 4081 6102
+	Alpheratz -3391 131 -3107 96 -318 6621 -195 563 4073 -7125
+	Altair -402 -3399 2255 1593 3365 -1188 1730 11366 3420 -3541
+	Aludra -3664 2282 -2323 4044 -3079 7339 -6217 1900 1668 1369
+	"Ancient Hope" 4975 -275 5242 7884 502 2923 -5587 -4878 7485 -6051
+	Ankaa -6412 -3379 9434 8217 -5215 -950 -3869 -1562 5668 -12977
+	Answer 7282 -4198 -1723 362 6829 -3099 -4713 2067 -1927 -3543
+	Antares -4428 1576 -4886 4165 -5644 -491 -49 -989 4354 5244
+	Antevorta -9372 -3327 18789 7148 10816 -3930 -916 2120 -4841 11016
+	Antithesis -11031 792 -4403 1154 -606 -1230 7462 7225 6732 -1942
+	Anvyu 2169 3555 -4453 -2278 -4951 2646 1617 -8125 -321 -118
+	Ap'arak 6145 5606 -1193 8406 423 -152 2117 -9117 -7221 2151
+	Arcturus -13188 7374 -5050 -1737 1235 3584 -608 -736 -2073 5774
+	Arculus 2393 3968 -13191 -7239 -8222 5525 -2995 3147 -5401 7519
+	Arechi 0 0 0 0 0 0 0 0 0 0
+	Arena 0 0 0 0 0 0 0 0 0 0
+	Ares 0 0 0 0 0 0 0 0 0 0
+	Ark -9857 3432 -4514 38 -6374 -10711 -7753 -1886 -5637 10219
+	Arkhos 0 0 0 0 0 0 0 0 0 0
+	Arneb 5983 1033 -1287 1403 2794 -3966 -4272 -6616 1959 -154
+	Ascella 17643 -2856 -4325 -7295 -675 570 6077 2237 7167 -18388
+	Ascendant 0 0 0 0 0 0 0 0 0 0
+	Asikafarnut -4125 -18937 -9912 -5570 6673 -10288 2835 -4748 -12391 -6160
+	Aspidiske -6702 -4636 557 7505 -3166 6923 -100 -3615 -1919 -1819
+	Atria 9009 8842 -1417 -7322 -1450 -1060 7367 -1995 -7132 8452
+	Avior -688 -9169 3949 12807 -6969 -17670 -6196 -581 -5214 -1524
+	Aya'k'k 10523 -2177 2502 836 8073 -435 -129 -1083 3415 1057
+	Banq'rujol'ifus 1783 -6357 -7404 2119 -1971 1775 953 8093 7484 8
+	Beginning 8065 -1037 -7528 -2397 7994 -12647 3481 -1036 6618 4025
+	Bellatrix 2136 -2038 6011 2432 3328 3105 119 -2027 -6025 3524
+	Belonging 449 -2588 -3900 2652 6855 -3784 873 -5908 5365 3869
+	Belug -10098 14066 -4034 -506 -5079 6743 -8696 -4569 -476 -1377
+	Belugt -3705 -443 6530 -383 1586 6097 -5059 -6517 -2042 1448
+	"Beta Lupi" 3785 -4300 2013 -975 -7841 202 2933 9352 16994 1849
+	Betelgeuse -2713 5395 -4321 -3651 3401 -12070 -7172 5769 4493 -3594
+	Blackfriar 0 0 0 0 0 0 0 0 0 0
+	Bloptab 1085 -2697 -320 9998 -6710 -1936 1760 2948 -8135 -4578
+	Blubipad 1211 -9356 -4322 -2969 3170 -13774 1431 8120 -1101 7083
+	Blugtad -2164 -4861 -586 13363 712 -9284 -6178 -891 -8863 -11619
+	Boral 3985 1625 3325 2259 -767 -6249 -1111 2577 -3882 -5281
+	"Bore Fah" -3771 -4646 3577 5797 -7709 2560 -3771 2277 8362 4480
+	"Bote Asu" 1415 -11622 5872 847 -2250 1886 -4741 8287 -1181 9280
+	Breijkip -2285 2066 -6336 -5221 -1940 -2181 -3439 6047 -1013 -2725
+	"Bright Void" -2499 -7262 -3771 7053 9718 -5416 -8682 5124 4530 6860
+	"Broken Bowl" -269 1743 4763 1858 11418 -5602 -5699 3231 3320 -437
+	Butapen -974 -2541 -3232 -1776 -5836 -9657 13431 4577 -7272 -1675
+	Caeculus 8537 1057 10263 -3309 7864 479 2395 6013 -6027 -2838
+	Canopus -7504 4482 -919 1168 -7012 3313 -4106 -8363 -580 -7375
+	Capella -7180 -3177 -8160 -637 -4065 1486 2682 4853 1981 720
+	Caph 3522 -4789 -2129 8763 -8764 5853 -8996 -3113 2641 -4819
+	Cardax -6955 2638 2238 -4444 6302 -3452 2987 -6189 1227 -1026
+	Cardea 1916 -842 10581 -1685 2724 4324 1631 2166 -5379 -468
+	Castor -4660 477 -4143 3402 -8509 3054 -1185 16312 -743 1562
+	Cebalrai -6766 -1221 -10206 6138 -901 6027 4031 2186 -2502 5490
+	Celeborim 1606 3204 -9843 1029 -2189 -8435 4026 1291 -1832 -39
+	Cheons 0 0 0 0 0 0 0 0 0 0
+	Chikatip -26 1018 -4831 -4563 4370 433 -4066 -625 1995 -9152
+	Chimitarp -1088 -2365 -9109 -2609 7821 6798 5918 -11972 2300 -904
+	Chirr'ay'akai -1659 1224 5251 3833 2511 -1477 6114 -9120 -13656 -4134
+	Chornifath 4956 -3176 171 7236 9514 -4365 426 6255 2021 -1558
+	Chy'chra -4379 -5352 1961 9160 5615 1664 -3661 773 -11354 -4928
+	Cinxia -2939 239 -6751 -12463 -6169 -6245 -3119 -13229 -5430 -1832
+	Cispia -1550 -6386 7164 1575 1701 986 -2701 3226 -95 8607
+	Clurth 0 0 0 0 0 0 0 0 0 0
+	Coalition 0 0 0 0 0 0 0 0 0 0
+	Coluber -13635 5342 1736 -1993 -13737 -4300 8319 -938 -792 -6428
+	Companion 5357 137 -483 -4255 -5182 -2179 -340 -579 9202 -2649
+	Convector -6490 4057 5054 -157 -4033 -1025 2180 -857 -8903 2333
+	"Cor Caroli" -1540 2004 3054 6113 125 -1784 -140 -1329 -5866 9439
+	Crourp -1394 -2564 1986 4137 4718 -2248 -7659 -1270 -602 840
+	Crul'im'heim 4706 11394 2953 371 148 -6950 4337 2129 -431 -2706
+	Cymexes -4355 2700 1732 1952 2711 -8430 3011 -6656 -7183 11395
+	"Da Ent" 766 -5446 -362 2139 -4462 53 3345 -5628 1855 -8022
+	"Da Lest" -4357 -8113 -4268 6863 7456 -1975 -7599 1165 2820 -1551
+	Dabih 15167 -4061 -1153 5791 3479 -3707 6123 9256 -2713 341
+	Daia 0 0 0 0 0 0 0 0 0 0
+	Danoa -2459 57 1725 1907 -4696 -7292 3135 1623 2458 1132
+	"Dark Hills" 1805 5585 577 -4999 10221 312 -2223 -3794 7613 -3525
+	Debrugt -9490 -2257 14279 -3437 714 2015 6284 69 -251 -2746
+	"Deg Deg" 0 0 0 0 0 0 0 0 0 0
+	"Delta Capricorni" 3670 9341 -3960 1333 594 -3679 3510 -1124 -7407 -7528
+	"Delta Sagittarii" 3493 -3970 -3200 -3601 -2828 -302 -1704 -6922 -1143 4394
+	"Delta Velorum" 6839 2178 170 -1554 7351 4854 -11315 -3990 -5753 -2454
+	Deneb 8579 3352 3428 -6421 -975 2746 2903 123 -761 -4359
+	Denebola 6643 -4031 -4033 10079 593 -4270 -1831 2825 6089 -9537
+	Deprecated+Mods 0 0 0 0 0 0 0 0 0 0
+	Dergath 0 0 0 0 0 0 0 0 0 0
+	Descent 0 0 0 0 0 0 0 0 0 0
+	Diphda -8337 767 -1351 2918 -1588 1184 -3593 2420 2092 69
+	Dokdobaru 11564 7737 5339 7582 19947 -14936 -7924 13687 6164 -4607
+	Drak 0 0 0 0 0 0 0 0 0 0
+	Driaca 3954 -628 -10653 -711 -3043 -14 -10566 -950 6779 2545
+	Dschubba 2846 -167 907 -3789 -2891 -3257 206 2849 878 -130
+	Dubhe 8475 3819 -1136 389 -4753 7870 -2358 2405 -4110 3203
+	"Due Yoot" -12179 -1213 5820 -1024 8096 -110 -12326 -5651 3565 -3266
+	Durax 5595 -6901 -2488 13654 7992 -4360 2838 -3357 -2946 -1923
+	Dvorak 0 0 0 0 0 0 0 0 0 0
+	Eber 3200 -1612 -1360 -4531 710 -9088 -2065 3577 -11964 2526
+	Eblumab -527 -4861 1700 3253 -4581 -1526 -2049 1137 -928 -9430
+	Edusa -1140 4179 -1040 -1655 6413 5601 7177 2859 -4776 2094
+	"Ehma Ti" 3322 2243 8007 -2806 -4426 6203 4680 292 767 4568
+	Ek'kek'ru 11258 8505 838 -5846 1635 713 5548 -10897 3511 6313
+	Ekuarik -4755 17610 -6713 3170 -1902 2709 -3228 -2922 -3741 5044
+	Elisven 0 0 0 0 0 0 0 0 0 0
+	Elnath -3970 745 -3269 -1196 2009 885 -9885 2754 7621 3129
+	Eltanin 8500 708 -1406 2159 1451 4156 -2782 4710 3165 -6668
+	Eneremprukt -2836 314 -2530 5641 -5425 -2410 -3776 -6229 -8620 -336
+	Enif 6372 7792 15926 -3238 -6349 6024 -7429 -10272 4044 -9658
+	"Epsilon Leonis" 3234 658 3830 10728 -5104 11224 -3710 -1452 6043 1814
+	Es'sprak'ai 7638 -6713 -548 1974 2594 1357 -4493 -7995 -219 3477
+	Eshkoshtar -734 1237 -1315 -2145 -2413 -3062 4155 3352 35 1782
+	Eskidilium 0 0 0 0 0 0 0 0 0 0
+	Eteron 7002 -11733 -3600 -1456 2509 3816 -268 -47 4885 2205
+	"Fah Root" -3351 8349 2839 -3099 2982 -7660 5269 -3520 6141 -5084
+	"Fah Soom" -10795 -1792 -6884 -6444 9424 1446 11912 -5949 -6989 -4367
+	Fala 5831 8565 2111 -3357 282 1965 -820 -3568 -4360 1947
+	"Fallen Leaf" 3368 -4352 -1859 -5214 10795 -9858 6309 -3762 2731 -1564
+	Fallout 0 0 0 0 0 0 0 0 0 0
+	"Far Horizon" 9141 883 9113 -6299 5353 9568 -6414 912 8802 -4563
+	Farbutero 5823 10253 -3116 -690 12553 9384 2922 -781 -12430 120
+	Farinus -2277 -12740 -1262 -6602 -6801 -13503 -14701 -10669 -3658 12
+	Faronektu -11470 9314 3284 2361 3743 1714 -976 -9317 3200 -2229
+	Farus 0 0 0 0 0 0 0 0 0 0
+	Fasitopfar 5700 -5372 -5691 1521 1452 -5107 834 -5274 -7309 5867
+	"Fell Omen" -8258 -9500 -8773 -2114 -149 -2714 5148 2505 -6180 -3431
+	Fenlamin 0 0 0 0 0 0 0 0 0 0
+	Feroteri 813 -5463 -8202 1081 4370 6327 2193 -4495 -10479 -4668
+	Ferukistek 3228 -766 -1971 189 1421 2249 -2333 -8178 -6889 -2493
+	Fingol 5492 -3048 -6324 -483 1408 1054 -1219 1937 3584 -9008
+	Finitum 0 0 0 0 0 0 0 0 0 0
+	Five 9788 -2090 -5111 -4331 -4758 5298 -9995 -6330 -454 -12546
+	Floop -1418 -1637 4606 -6627 888 6604 1621 -5093 1260 -10326
+	Flugbu -10508 1883 -2866 -6966 3465 -3967 2354 -8774 6198 -4591
+	Fo'gar'helien 1096 3447 3693 6712 -860 4692 2725 3726 320 3510
+	Fomalhaut -4858 -2956 -1868 -11959 3424 -2228 2366 423 -218 -7172
+	Fornarep 11418 -1309 -7628 -3357 8093 4338 3444 2114 1555 4351
+	Four 4095 2218 3766 3792 -4744 -5988 4194 2953 2453 -5718
+	"Four Pillars" 13588 9605 4566 -2864 -4318 -5129 -15354 2121 8312 1492
+	Frill 0 0 0 0 0 0 0 0 0 0
+	Frontier 0 0 0 0 0 0 0 0 0 0
+	Furmeliki 8247 4757 5609 -6172 6304 -6257 -2829 -1698 -5674 -8039
+	Gacrux -5192 1247 -5283 -516 3107 3165 -4558 -746 617 3390
+	Gaenealf -8377 1737 -2041 -4701 2861 -4048 3627 -4420 1403 5363
+	"Gamma Cassiopeiae" -5077 -3990 -6472 -5918 2675 8539 -1453 -1375 -742 8663
+	"Gamma Corvi" -5439 4297 1463 6597 1837 3632 -3787 233 3793 1473
+	Gautus 0 0 0 0 0 0 0 0 0 0
+	Getou 0 0 0 0 0 0 0 0 0 0
+	Gienah 230 -3075 -659 753 987 -7396 -862 1471 -2740 -3025
+	Gil'mine 0 0 0 0 0 0 0 0 0 0
+	Girtab 11124 4372 3949 -415 2935 -1930 1020 2816 -64 -2180
+	Gis'cot 0 0 0 0 0 0 0 0 0 0
+	Glephum 0 0 0 0 0 0 0 0 0 0
+	Glubatub -3618 -2479 -4761 10637 6992 1275 -4359 -11618 -1165 -487
+	Gomeisa -6649 7128 -5536 1539 -4751 13364 -3871 -1115 4603 8649
+	"Good Omen" 7149 -1057 -1853 2630 2750 -5283 -1234 -5504 3797 6462
+	Gorvi -4159 778 1170 -2527 6941 2075 -4125 352 4110 3310
+	Graffias -1006 3622 -3393 -833 -3374 1016 4270 -1626 4796 -646
+	Grundel'froae -1840 -4275 1798 5635 -7966 3723 5335 -3851 5515 468
+	Gupta 2682 -3196 14486 12812 -9310 -402 -10478 1055 -3557 -3927
+	Gylledha 0 0 0 0 0 0 0 0 0 0
+	Hadar -18114 5554 3909 -11923 -9749 -5 -12630 7701 4121 4716
+	Hai 0 0 0 0 0 0 0 0 0 0
+	Hamal -5943 -6148 -3158 5271 1984 7824 3042 -1505 -2973 2338
+	Han 1133 484 -1400 -7267 -290 1083 5384 450 3044 -225
+	Hassaleh 2704 1665 4605 102 -6236 -7205 -7424 -4579 4110 -674
+	Hatysa 4569 4515 11758 -2502 -10633 3677 8320 -1737 -4398 4553
+	"Heia Due" -6212 -1837 7889 915 470 1485 -6380 -16871 3317 -13401
+	Henkyo 0 0 0 0 0 0 0 0 0 0
+	Hesselpost 1632 -739 3962 4179 11717 357 4973 3889 1942 -5021
+	"Hevru Hai" -11268 1002 -1262 -5017 1079 399 4939 -1350 -8771 6418
+	"Hi Yahr" 1142 -119 1195 -3278 -607 -289 -4547 -1321 8554 -2924
+	Hintar -6118 -1947 -4512 2082 2240 5669 4878 -2282 -6088 -1906
+	Hokubu -86 -1571 213 -5886 -5342 -13539 -4119 2676 -6011 7563
+	Holeb -4229 -1 -5691 5334 1278 1246 4088 -1316 -82 -4689
+	Homeward -9429 7991 -1239 -4993 7895 880 -9938 -1577 2786 -2948
+	Host 4050 -511 -6509 1040 -5273 -141 -6160 -2416 126 -10
+	Hrau'ngri'liadien 0 0 0 0 0 0 0 0 0 0
+	Human 0 0 0 0 0 0 0 0 0 0
+	Hunter 1522 -3415 8168 -1072 11531 3726 -12574 -1009 710 9330
+	Ibained 0 0 0 0 0 0 0 0 0 0
+	Ik'ari'aka 10461 -4049 -906 425 61 2261 726 3510 10243 -5790
+	Ik'kara'ka -4496 -10520 -732 5314 -2201 1665 -326 2075 -12286 840
+	Ildaria 4682 174 -62 -1392 -8987 -356 2490 -1651 3096 8983
+	Illitran 0 0 0 0 0 0 0 0 0 0
+	"Imo Dep" 4620 3016 4872 -804 412 5048 -2551 -6769 1546 4842
+	Indigo 0 0 0 0 0 0 0 0 0 0
+	Innenheim 571 5520 6687 -152 -6897 -2463 8978 556 7379 -3556
+	Insitor -7275 657 3730 853 2626 6313 -838 1885 10174 1094
+	Insolence 0 0 0 0 0 0 0 0 0 0
+	"Io Lowe" 6012 2343 7168 -2612 3483 6319 -3580 455 8272 -6809
+	"Io Mann" -6845 1479 -6862 1724 2183 2226 -4845 -2112 -3000 2057
+	Ipsing 492 6313 -4017 6322 6669 2720 9459 3314 686 3980
+	Iriguchi 1031 768 243 -2805 5148 -3237 -2188 -836 -1418 3593
+	Ithaos -7981 -2946 -5705 -4939 -526 -3405 -7311 -3070 -6247 -5344
+	Iyech'yek 5549 902 -6419 -4530 3110 -1424 2963 -1495 -4922 832
+	Izar -4565 -3714 1301 1040 -11647 7776 -4860 -1673 6197 2296
+	Jaaaar'aaaaa'l'u 1945 -10296 -1772 -1069 -4502 1146 4960 6266 2957 -8501
+	Jikatu -3679 11498 -3653 -3128 -111 -5937 5589 -12225 17139 -13263
+	Ka'ch'chrai 1433 11456 8301 1375 297 529 6750 -2863 -4526 3513
+	Ka'pru -1225 -4606 -8000 8323 -3109 6969 -8708 -342 293 1657
+	Kaladesh -4179 3305 784 -5225 472 -5646 -2032 5284 -885 5357
+	Kaliptari 9795 -9541 -8879 -16305 -1625 12357 9908 -17320 -5504 9647
+	Kama'la'ez 3522 -9188 -2970 1299 -3424 -685 9756 -2340 -5641 -13317
+	"Kappa Centauri" 9419 -636 -1836 2292 -921 8291 5704 4263 6355 -2678
+	Kashikt 1831 5235 2449 5526 809 -5870 -3643 290 4739 1934
+	Kasikfar -5845 -2345 -1820 876 -3876 5546 -3174 14378 -6379 -88
+	"Kaus Australis" 7696 -3455 537 2112 5167 4534 6954 -1248 3277 -2158
+	"Kaus Borealis" -1096 -2361 -4512 950 -3219 3496 -5230 -5437 -10261 826
+	"Ki War Ek" -14530 10481 5356 4143 -215 -13787 2391 3863 -6580 8391
+	Kiro'ku 7985 -9821 -581 5602 668 3033 -5556 -1871 -825 5356
+	Kiru'kichi -765 1430 -5373 1733 3038 1362 -3894 -440 2250 6082
+	Kochab 2740 -89 -7122 -2777 3667 -1507 -4449 -1119 4236 -3263
+	"Kor Ak'Mari" -2797 1586 2419 2869 -2775 -1746 938 5353 4950 1986
+	"Kor En'lakfar" -5567 -4489 -6705 -14115 -1474 -668 3993 3789 9497 -728
+	"Kor Fel'tar" -3239 -1455 61 -3103 -4958 -7097 -1467 -1565 8115 1383
+	"Kor Men" -3897 1409 -6701 -7756 -3643 -3321 -2804 11220 5584 4592
+	"Kor Nor'peli" -833 -1485 -459 -5864 -1036 6455 -4471 -5419 -13648 185
+	"Kor Tar'bei" -3339 -3134 5126 -11083 -465 8618 -12268 -2471 -11878 4351
+	"Kor Zena'i" 1641 -1464 2494 -6249 1279 9457 -9496 -2122 246 877
+	Korath 0 0 0 0 0 0 0 0 0 0
+	Kornephoros 5934 -3196 327 5988 219 3654 4227 -3187 -3061 -3237
+	Korsmanath 6241 3166 -5181 3059 4939 2052 3326 -5978 953 2038
+	Kosaten 0 0 0 0 0 0 0 0 0 0
+	Kozan -5104 12779 6541 139 -1666 1278 -2884 -7453 9642 -7512
+	Kraz 5062 6114 -8996 3114 669 2203 2786 -2343 9275 -5199
+	Kugel -5517 -391 -2024 636 4717 -1917 -11033 -5374 -4456 -405
+	Kursa -9395 -2180 1787 -4231 -5691 -9562 -4989 -5318 3242 -12
+	Lardiam -8209 5429 -11927 -2942 -11553 -12872 -956 -3290 8501 -12903
+	"Last Word" -17716 -5600 4332 -5067 438 -8344 4595 10419 -2279 -9216
+	Lesath 7230 2342 -2864 -241 857 -5484 4525 3653 -7988 8013
+	Levana -4393 2180 -9655 1609 -4272 4503 10741 6501 -9372 -2026
+	Limen -133 -539 2412 -522 5673 417 -176 1694 13651 863
+	Lo'or'awaen 0 0 0 0 0 0 0 0 0 0
+	Lolami -3838 1718 -8054 9095 -3618 2733 7345 829 -1889 -182
+	"Lom Tahr" -4074 -8427 -6474 -1093 9402 9826 -2993 6768 6015 -2218
+	"Lone Cloud" 6104 8555 -2666 465 -9129 643 539 960 9293 1014
+	Lucina -8264 1407 7998 -790 -10532 2678 10464 -5270 -338 -429
+	Lurata 11374 1902 -1940 1453 -8122 3512 -4420 5835 -4335 -8066
+	Lyvven 0 0 0 0 0 0 0 0 0 0
+	Maduras -13388 -2716 2584 67 -3814 3096 6023 1187 413 5678
+	Makferuti -3716 -1631 -676 -6271 6868 -8927 -4624 -2165 -6632 -134
+	Markab -1739 -1962 -549 -3099 3772 -4273 -2332 -2021 -1805 -753
+	Markeb -3569 -3477 -3005 7921 -8696 -4928 -4764 -1997 -1772 -354
+	Matar -5440 -5090 45 -5290 6447 -7103 9536 -7238 6298 10469
+	Mebla 1495 -1734 -398 2870 3648 7052 -621 6707 3377 -1477
+	Mebsuta -4719 7680 3818 -3007 -7153 1660 486 -2119 2303 -11040
+	Meftarkata 12863 5411 -595 -175 8716 3841 -4224 1997 -322 -3301
+	"Mei Yohn" 5384 -1291 3186 1342 5928 -516 7658 -53 -2941 1563
+	Mekislepti 1430 2388 -7987 -5752 1608 6864 4103 1243 3742 7409
+	Membulem 7345 516 -1725 2383 3397 1078 -4225 6274 5678 9024
+	Memus -2698 -1353 2836 106 1673 2635 -9186 -367 -1139 -9764
+	Men 11132 -43 -7060 -4768 -6175 -4816 -2008 5570 5677 -3695
+	Menkalinan -7203 -4473 -2984 791 2434 -259 -5349 13770 929 -892
+	Menkar -4074 1395 8028 -3965 -4496 5008 1328 -5194 -3106 11280
+	Menkent 1794 174 5527 50 -5529 -4964 10546 11778 -8470 -3081
+	Merak 1921 -3293 8668 5521 8290 2718 10002 2122 1711 -1653
+	Merith 0 0 0 0 0 0 0 0 0 0
+	Mesuket -1749 -1196 574 -2172 388 -7880 8984 -6499 -6461 6780
+	Mezzanine -10393 7747 -2893 -323 3451 -2298 -1359 9662 4530 -3472
+	Miaplacidus 7455 -796 -859 -4342 4859 -7166 6850 -10663 8380 2477
+	Miblulub -2376 4481 -8113 -21 7457 -6289 1987 148 -3302 4873
+	Mimosa 2037 2963 -6640 11551 2561 3723 119 4273 7468 1197
+	Minkar -1881 5037 -7381 9199 4675 11587 3924 -3250 18534 -4118
+	Mintaka 5958 -1208 3795 2915 5491 4702 3435 -6351 -2070 8940
+	Mirach -732 873 -3388 1419 6047 2091 -9430 1707 -731 253
+	Mirfak -1444 -1403 10705 -5113 1305 192 931 -3253 -9343 5954
+	Mirzam -8073 5212 -1936 -4086 -3567 -12759 -10867 -8710 7432 -16098
+	Mizar -1844 9441 -5932 23 9443 7773 -515 3813 5224 15714
+	Moktar -1300 -6964 -1516 -1382 3945 -5063 -2903 3200 1685 735
+	Mora 8776 7538 -7969 -5917 3382 -6287 -6909 -336 5366 1381
+	Muhlifain -1802 1107 -1838 2312 648 3034 -7995 -4225 -9435 387
+	Muphrid -2286 6563 -3428 2518 -2604 4863 3924 12178 6963 -442
+	Muraganda 0 0 0 0 0 0 0 0 0 0
+	Mut'cesni -9183 4182 -1086 7855 -11946 4147 -3546 -3711 -560 -256
+	Mylaerla 0 0 0 0 0 0 0 0 0 0
+	Nanbu 2059 -2871 -4309 -6602 3116 -1100 2899 8400 393 926
+	Naos -2550 -3053 -5111 505 -3939 9819 -2492 6871 -13258 6195
+	Naper 8998 3666 -1901 -804 -4752 -6523 4992 -1079 -210 -2774
+	Nenia -4527 1865 14519 -2777 4427 968 8406 -7705 6385 1753
+	Nihal -5087 7541 -215 4720 -9039 -4327 -387 120 6715 9384
+	Ninsug 0 0 0 0 0 0 0 0 0 0
+	Nithroel 0 0 0 0 0 0 0 0 0 0
+	Nocte -4625 -1132 2966 2093 -6842 -3818 3169 2592 -2425 196
+	Nor'tell 0 0 0 0 0 0 0 0 0 0
+	Nunki 10067 -631 -1343 -7683 913 -2220 -6240 1133 7188 -8343
+	Oblast -3823 -3639 -1402 2393 3884 -3345 -5263 736 -4841 245
+	Oblate -597 -6013 -1298 -2232 1331 -4143 -1432 6821 782 2453
+	Obor 0 0 0 0 0 0 0 0 0 0
+	Opheuldod 1122 -1578 -4896 1424 3895 2510 -8061 2941 -2835 -3717
+	Orbona -2260 -8629 5518 2884 3919 1600 6328 5354 -2965 4376
+	Orff 0 0 0 0 0 0 0 0 0 0
+	Origin 0 0 0 0 0 0 0 0 0 0
+	Ortus 939 101 6221 8404 -10531 2589 4337 6316 -137 7754
+	Orvala 8155 -2374 -3233 2172 -2095 362 92 4988 5151 -5423
+	Ossipago -6226 -1710 15533 3170 3305 -5280 9561 2134 4107 2172
+	Outenheim 3324 -7025 -1734 -4832 1488 -1601 3774 -7453 6075 -3649
+	"Over the Rainbow" 0 0 0 0 0 0 0 0 0 0
+	Pantica -1472 -5661 -7354 251 1766 3433 -559 2012 420 -1177
+	Parca -8105 2482 15520 4003 -9867 -5344 -1370 -5061 3502 -5630
+	Peacock 8948 -2649 5411 2984 5091 3742 1109 -1801 -1674 -9565
+	Pelubta 1215 3205 4408 -2223 3912 2712 -11994 11791 4942 150
+	Peragenor -3866 3208 707 12653 -777 4999 3402 4444 -2162 -2594
+	Peresedersi -6669 -4493 236 -3055 1334 -1561 1792 6046 8678 175
+	Perfica -1621 -6691 -6955 -6497 -9992 -4584 -8361 -8114 2524 -415
+	Perfide 0 0 0 0 0 0 0 0 0 0
+	Persian -2471 -1223 5735 2167 12361 -1605 7278 3674 -1181 -604
+	Persitar 2415 -918 2480 -5576 -297 727 5949 -6041 -6670 -6191
+	Phact -68 723 2981 8083 -1191 2554 -5119 -6484 10074 4602
+	Phecda 1017 2756 -3451 7445 107 2198 -5642 -2621 -2943 -1719
+	Pherkad 2872 -8509 1462 5447 -2900 11716 5729 3192 14177 1936
+	Phurad -1674 1292 -5585 2584 -1445 9217 -2464 -9081 -184 -6114
+	Pik'ro'iyak 16378 60 5802 5655 20785 -1068 1866 -11329 4059 11097
+	Pipaeus -5566 -8224 -2067 1663 2955 6854 -3352 874 -1475 2148
+	Plort 202 -5429 2410 6504 2477 -1372 4167 2158 984 4193
+	Polaris -3745 88 -717 4002 1243 1178 6955 900 -1697 6353
+	Pollux -415 329 -3775 3680 -2101 -2290 6618 6543 1092 7883
+	Porrima 3177 -4048 430 580 -1147 6249 3193 10434 -1 -1918
+	Prakacha'a -2632 -5046 8955 8697 7239 802 -3817 -4267 -19211 -5702
+	Pralmia 0 0 0 0 0 0 0 0 0 0
+	Procyon 2575 -1581 2615 921 5930 -256 2279 905 2452 7685
+	Pug 0 0 0 0 0 0 0 0 0 0
+	"Pug Aerzyrnium" 0 0 0 0 0 0 0 0 0 0
+	"Pug Iyik" 7228 -4217 3092 -3861 -2543 -5237 -4186 -2450 4922 -5879
+	"Pug Morbosa" 0 0 0 0 0 0 0 0 0 0
+	Quarg 0 0 0 0 0 0 0 0 0 0
+	Quaru -13503 6518 -1045 -7562 -1380 -14118 -1308 14529 1574 2149
+	Rajak 6610 5583 -2401 -1795 -2324 -5392 -1279 5199 -9736 6943
+	Rasalhague 5207 -884 -2585 -2917 -4798 -766 -1046 3817 4163 -11518
+	Rastaban 903 4694 -13253 554 -5593 -7078 2361 3027 -4291 -1180
+	"Rati Cal" -3100 -7251 3727 1371 1871 710 2681 300 -7222 6575
+	Regor 616 2307 -7294 11032 -4801 678 -3633 733 -1925 9122
+	Regulus -3638 -3652 -731 -6776 4192 137 9536 7055 3250 3959
+	Remembrance 6526 -1771 -11561 3995 2366 2418 173 3552 8417 5214
+	Rigel -2996 6947 3885 5261 -4748 -142 4632 -2171 1140 -3288
+	Rosario 0 0 0 0 0 0 0 0 0 0
+	Ruchbah -5376 -10598 14307 17642 -5486 10467 1147 -7850 -502 -7999
+	Rumebali 1521 -524 -4466 3051 7119 -6610 -8580 -8109 626 -1561
+	Rutilicus -8487 -5152 -536 1717 883 74 2212 476 1891 901
+	Sabik 8722 -4066 2807 2721 -9760 -3848 3131 -18389 5774 -943
+	Sabriset 7337 888 -1144 -10244 235 64 2640 -8012 2002 8339
+	Sadalmelik 7931 10494 10562 -4494 -4275 8502 -5702 -7882 -2214 1721
+	Sadalsuud 10609 5979 12890 -2278 -5850 9481 -10197 -7074 3986 -5976
+	Sadr 7066 2267 -1005 1943 2410 389 -2174 234 -8157 -259
+	Saeus 5475 1357 -1922 9467 -1935 4996 -4766 -4860 412 2650
+	Saibai -1202 2029 7012 -2784 4841 2872 1989 -1812 6144 -4984
+	Saiph 3111 2742 6515 889 -4867 -3836 -132 -7599 -5982 -1347
+	Sakuba -941 7069 -2466 -2877 -6024 -5072 5425 -3432 8714 -3965
+	Salipastart -926 6897 -1698 -8136 -3606 -5153 3703 -2292 -5556 3821
+	Sargas 2231 485 1393 5002 -1029 -6119 9692 2186 -3916 4000
+	Sarin -8616 -12413 5375 4043 -7255 -4132 4271 -2419 875 3219
+	Saseru -558 5498 -13370 -818 -8489 116 -2134 1803 449 3672
+	Sayaiban 295 3739 -6960 6174 9076 3223 -2266 -450 8247 -3196
+	Scheat -2708 4046 -7444 -4013 4589 1505 5374 -1851 6188 -4781
+	Schedar 366 10087 9068 9617 7698 -2747 5285 -2789 6794 3475
+	Schnael -8619 -1630 -2098 11685 10603 -2224 -9387 2035 6800 -5014
+	Segesta 2727 -401 15676 6866 -1372 -4352 2442 -1810 7015 1250
+	Seginus 352 -9636 -2971 -3660 -11390 -5078 -3950 -9832 4603 428
+	Seigen 7986 1650 -8869 399 -4283 10694 1272 5148 -3401 5769
+	Seketra 1538 -1019 230 -841 -4045 6336 1234 206 -21 -2793
+	Seldanna 0 0 0 0 0 0 0 0 0 0
+	Sepetrosk 876 -1128 -7870 -7373 8688 5822 -5208 -6597 6795 -4690
+	Sepriaptu 1068 -2662 -3695 -9403 4693 1142 2234 -3438 -8820 4870
+	Sevrelect -1469 -729 1135 -3401 5751 -8228 -604 -99 2586 -176
+	Shaula -1532 -9343 -4072 663 1952 -3412 -1416 2547 -8141 1661
+	Sheratan -2683 -1090 1948 5388 -8663 8012 3076 -5202 1885 2104
+	Si'yak'ku 4974 -2802 -325 1540 5327 -10893 6821 -5094 1199 -3914
+	Sich'ka'ara 3285 -10269 -1662 2371 -2636 -4719 4672 -11444 -11363 4162
+	Silikatakfar -1009 -6669 -11678 5250 985 -2914 -1225 -11989 -4295 -1355
+	"Silver Bell" -14318 3117 -4946 -690 9489 -11195 -7645 2022 5727 1399
+	"Silver String" -1565 4647 -3419 -1480 1578 2 -948 996 3377 3893
+	Similisti 3888 10424 -2465 -7882 8212 -4471 12636 -7157 -2225 2675
+	Sinyl 0 0 0 0 0 0 0 0 0 0
+	Sirius 2560 -5235 2779 -3084 81 4967 1874 -5182 -911 2124
+	Skeruto -572 4098 1605 -2238 3795 5685 2053 -2905 -5265 945
+	Sko'karak 2256 6181 4551 -2831 -6034 3346 4076 6883 -5117 6135
+	Skryydr -5920 -307 -5058 1510 -1991 -9460 804 1205 3460 -2558
+	Smoline 0 0 0 0 0 0 0 0 0 0
+	Sobarati 519 -9155 261 -1296 6077 -6176 2721 -4273 -3903 -7181
+	Sol 2116 -11224 4705 -2204 -3653 5234 -3872 8978 9547 5184
+	"Sol Arach" 3652 -5786 -1861 -2734 9949 1885 577 2712 827 6139
+	"Sol Kimek" -2578 -1013 -3734 -5576 -5874 8392 4813 3557 6649 6008
+	"Sol Saryd" 3956 -3842 4609 -2914 -5677 -4512 -3885 -4704 13674 -5747
+	Solifar 3700 -1614 -7088 -10653 -5093 416 -3572 -7505 4237 1679
+	Soreem 0 0 0 0 0 0 0 0 0 0
+	Sospi 5247 -1860 5276 1021 2654 -1187 -904 -10440 7867 743
+	Speloog -3492 -2043 -7078 -5689 -7469 4232 -5757 -3843 553 9019
+	Spica -4996 5808 -2886 17428 3780 13291 2661 -2551 10947 -858
+	Staircase 0 0 0 0 0 0 0 0 0 0
+	"Steep Roof" 1460 -2101 -3944 4611 -1848 510 -6514 -7011 -1208 1930
+	Stercutus 2670 7939 24239 7391 5686 -470 13179 5264 -6830 -5792
+	Suhail -2636 -3126 -7498 4073 1555 6516 -1653 4632 775 758
+	Sumar -9731 1246 7265 -3769 -2070 -6732 3767 -4070 7072 3695
+	Sumprast -226 801 -357 -8970 -3965 -6552 -1011 -3686 181 1368
+	Suramu 8061 -64 -1704 811 -2425 -1412 -1112 -9032 -862 10296
+	Svind 7431 1180 -174 -124 -3887 4211 -983 6834 3985 5029
+	Syj'ngf'bnk 0 0 0 0 0 0 0 0 0 0
+	Taarsten -3468 1821 -4081 1751 -5812 -6961 -5710 36 8695 -2242
+	Tais 9631 -4364 -4303 228 -2035 2203 5925 356 38 -10308
+	Talita 7103 4517 533 -2562 -2870 -3408 -4471 6996 444 999
+	"Tania Australis" 5698 3422 -3907 5887 3806 2348 -613 -8119 -1414 -2041
+	Tanyl 0 0 0 0 0 0 0 0 0 0
+	Tarazed 15083 124 9256 12973 3801 1100 -5960 1741 -3651 -13828
+	"Team Blue" 0 0 0 0 0 0 0 0 0 0
+	"Team Red" 0 0 0 0 0 0 0 0 0 0
+	Tebuteb -6770 3016 5355 -2275 8259 -1248 -1518 699 -756 -8122
+	Tejat -6203 1979 -2498 -8111 2805 -7549 -2410 -7223 -632 -4799
+	Terminus -8974 -1843 5911 1050 9412 -2041 -1708 10834 6538 194
+	"Terra Incognita" 0 0 0 0 0 0 0 0 0 0
+	Thaen -3804 6953 1624 6450 -2187 4443 507 5220 3137 -2048
+	Theurrhaeus -6868 -1383 -2400 -6018 -1923 2504 -554 -5174 -2217 4901
+	Thornton 0 0 0 0 0 0 0 0 0 0
+	Three 0 0 0 0 0 0 0 0 0 0
+	Torbab -10377 1701 92 -8335 1606 1861 5513 -9123 -31 -1254
+	Tortor -1596 -3825 1240 8038 2202 8965 -3082 -8469 -6371 5558
+	Turais 3380 3111 -2482 -1097 2387 -1535 2634 -2670 -3704 8184
+	"Ula Mon" 6650 -3 -9295 782 13164 6952 2188 12422 -2751 2770
+	"Ultima Thule" 1533 3461 4288 -1700 1221 -3293 -7040 5182 -433 4866
+	Umba'draeuin 3237 -7087 -15785 -6059 3411 570 -3758 10300 -973 -3090
+	Umbral 1647 -4938 12405 -1316 -2455 -7210 -4956 -1818 -5509 -5483
+	Unagi 3401 -4536 2141 -1951 -6498 5142 5013 841 -8361 128
+	Unobu 2747 -7410 -11179 5712 -909 -892 6067 -8350 1587 -2982
+	Unukalhai -378 -11522 122 -7908 -5034 101 -10856 914 4608 1667
+	"Uwa Fahn" 958 -5883 2129 689 -2048 -5058 2547 5146 10584 -6174
+	Vega -3062 -4003 4839 -1565 -8051 -1997 2882 8466 7646 -3353
+	Veil 0 0 0 0 0 0 0 0 0 0
+	Vindemiatrix -11423 -8458 -2634 7670 -530 512 3925 -9103 -5978 -3260
+	Vo'jaerun -2851 -930 -3808 -2818 -2720 2247 -7117 2701 5549 -1060
+	Volax -11178 2468 -2823 3066 5205 -12201 -870 -4900 1470 5242
+	"Wah Ki" 246 -10371 5616 -1331 967 -62 -5294 -2957 -1475 8121
+	"Wah Oh" -10851 -2706 -7837 -1886 15665 4370 13879 -8629 -3789 -6814
+	"Wah Yoot" 2669 -1339 9027 2079 -4970 7176 -4626 -6785 2402 10554
+	Wanderer 0 0 0 0 0 0 0 0 0 0
+	Waypoint -9249 -2725 -1611 3371 -7649 -4975 -2960 -9765 -6011 -11583
+	Wazn -6616 2492 2683 6296 5109 -3543 -6965 -4814 3267 -3089
+	Wei 2159 -6527 -2889 750 -6118 -5936 146 -3785 647 -1465
+	Wezen -1501 551 -6139 5486 443 6014 8062 7326 2848 3608
+	Whuroxla -3775 -2264 -6928 1952 -8946 -3046 -2933 -2287 -2609 5685
+	"World's End" 0 0 0 0 0 0 0 0 0 0
+	Wyrren 0 0 0 0 0 0 0 0 0 0
+	Xenos -2715 8282 4085 1250 839 49 -11130 -8347 3800 2505
+	"Ya Hai" 2842 -12055 792 4680 5405 5758 867 15711 2746 -6287
+	"Yed Prior" -8639 -267 972 3951 -6121 -3740 -9078 -3849 4306 -892
+	Ytgfrv'hjusd'ikmuivra 0 0 0 0 0 0 0 0 0 0
+	Zaleria 0 0 0 0 0 0 0 0 0 0
+	Zaurak 10513 -7509 12703 4700 -4030 7581 228 -2075 4200 4990
+	"Zeta Aquilae" -2193 -6184 -5608 -7375 -4711 2447 24 13277 8267 -12889
+	"Zeta Centauri" -11010 5711 -5221 -4682 -4968 6356 -2731 -6523 6815 -206
+	Zosma -1059 14659 -10775 5013 4465 -1395 10016 -4977 3365 733
+	"Zuba Zub" -1283 -7408 -1015 -2985 -1993 -1322 8139 -1363 -6717 8502
+	Zubenelgenubi 3915 -10696 -1180 -2469 -6558 -12330 -1039 -8031 -2191 -799
+	Zubeneschamali 9491 1222 1151 -2974 -3450 -466 -1914 -307 5529 -1324
+
+# What you know:
+visited Rasalhague
+visited Cebalrai
+visited Nocte
+visited Menkent
+visited Vega
+visited Alioth
+visited "Kaus Borealis"
+visited Hintar
+visited Rutilicus
+visited Mizar
+visited Adhara
+visited "Epsilon Leonis"
+visited "Tania Australis"
+visited Zosma
+visited Holeb
+visited "Cor Caroli"
+visited Phecda
+visited Algieba
+visited Algorel
+visited Regor
+visited Aspidiske
+visited Arcturus
+visited Suhail
+visited Ipsing
+visited Muphrid
+visited Saeus
+visited Adke
+visited Skryydr
+visited Orff
+visited Origin
+visited Ithaos
+visited Frill
+visited Arkhos
+visited Anvyu
+visited Five
+visited Theurrhaeus
+visited Korath
+visited Coalition
+visited Hai
+visited Wanderer
+visited Quarg
+visited Smoline
+visited "Team Red"
+visited Xenos
+visited Human
+visited Deprecated+Mods
+visited Pipaeus
+visited Pug
+visited "Team Blue"
+visited Ninsug
+visited Arena
+visited Drak
+"visited planet" "New Boston"
+"visited planet" Forge
+"visited planet" Arikv
+"visited planet" Deprecated
+"visited planet" Mods
+"visited planet" Rupture
+logbook
+	16 11 3013
+		"Finally scraped together enough money for a down payment on a starship. The interest on the mortgage is exorbitant."
+	Factions Pirates
+		"In poorer and more remote star systems, where the Navy seldom patrols, pirate attacks on merchant ships are frequent. Pirates are also known to attack large, unguarded convoys of freighters even in more populated areas. Most pirate fleets come from lawless worlds on the outskirts of human space."
+	Factions Republic
+		"Hundreds of years ago, the independent territories in different parts of human space agreed to join together into a single democratic government, with Earth as its capital. The rise of the Republic ushered in a long period of peace and prosperity in human history."
+		`Representation in the Republic Parliament is based on population. That means that some individual "Paradise Worlds" have more representatives than entire regions of space like the Dirt Belt that are more sparsely settled.`
+	Factions Syndicate
+		"The Syndicate is a megacorporation, the largest employer in human space. People who cannot find steady work elsewhere flock to the Syndicate factory worlds, where they are almost guaranteed to find a job. Although the Syndicate is technically part of the Republic, Syndicate worlds are governed directly by the corporation."
+		"The Syndicate is a central part of the Republic's economy, but they are also well known for selling shoddy products and for doing damage to the environment on the worlds they control. Their treatment of workers is questionable, and their opposition to organized labor is legendary. Some Syndicate factory towns have even been accused of human rights abuses."

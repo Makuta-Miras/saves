@@ -1,0 +1,4757 @@
+pilot America "Fuck Yeah"
+date 4 2 3016
+system Tarazed
+planet Wayfarer
+clearance
+travel Graffias
+travel Alniyat
+travel Dschubba
+travel Lesath
+travel Girtab
+travel Albaldah
+travel Albireo
+"reputation with"
+	" Enigma Corp " 119.52
+	= 0
+	Alpha -1000
+	"Alphean Boolean" 0.93
+	Alr -5
+	Andromedan -1000
+	Ascendancy 0
+	Author 1
+	Avendri 1
+	"Bad Trip" -1000
+	"Blue Team" 1000
+	Bounty -1090.5
+	"Bounty Hunter" -1000
+	"Da Bezt Person" 1
+	Deep -1000
+	"Deep Sky" 0
+	"Defender of Humanity" 0
+	Derelict 10
+	"Derpy Horse" -500001.5
+	Drak 1
+	Enclave 1070
+	"Enigma Corp" 119.52
+	Erufiams 1
+	Explorer 0
+	Federation 13.99
+	"Free Worlds" 720.64
+	Gatewatch 0
+	Hai 0
+	"Hai (Absconded)" 0
+	"Hai (Unfettered)" -1000.07
+	Independant 0
+	Independent 10
+	Kaltheim 0
+	"Kor Efret" 1
+	"Kor Mereti" -1000
+	"Kor Sestor" -1000
+	Korath -10
+	"Korath Nanobots" -1000
+	Kuk 0
+	Merchant 249.74
+	Metalweaver 0
+	"Metalweaver Ascendancy" 0
+	Militaj 0
+	Militia 478.39
+	"Navy (Oathkeeper)" 458.745
+	"Navy Intelligence" 358.56
+	Neutral 240.25
+	"Outer Rim Mining" 0
+	Parrot 1
+	Penum 0
+	Phyrexia 0
+	Pirate -1205.27
+	"Pirate (Core)" 0
+	"Pirate (North)" 0
+	"Pirate (South)" 0
+	"Plenipotent Dominion" 0
+	Pug 120.59
+	"Pug (Attackers)" 0
+	"Pug (Research)" 0
+	Quarg 120.59
+	"Red Team" 1000
+	"Reluvethel Daeroris" 0
+	"Reluvethel Faebalar" 0
+	Republic -1596.355
+	"Republika Kartara" 0
+	Sentarians -10000
+	"Servorum Dei" 0
+	Space -1000
+	Syndicate 480.29
+	"Syndicate (Extremist)" -879.4
+	"Takarada Kaneo" 1.07
+	"Team Blue" -1000
+	"Team Red" -1000
+	Termini 0
+	"Test Dummy" -1000
+	Uninhabited 0
+	Union 0
+	"Unknown Ones" 1
+	Vo'ki 0
+	"Vo'ki pirate" 0
+	Wanderer 1
+	Wormhole 0
+	XSZ 0
+	"XSZ Corporation" 605
+	hingeCorp 1
+	shieldsup 0
+ship Bactrian
+	name "COMIN' IN TO SAVE THE MOTHERFUCKIN' DAY YEAH"
+	sprite ship/bactrian
+	attributes
+		category "Heavy Warship"
+		cost 17600000
+		bunks 245
+		"cargo space" 530
+		drag 16.1
+		"engine capacity" 180
+		"fuel capacity" 700
+		"gun ports" 4
+		"heat dissipation" 0.4
+		hull 8600
+		mass 940
+		"outfit space" 740
+		"required crew" 70
+		shields 17500
+		"turret mounts" 6
+		"weapon capacity" 300
+	outfits
+		Hyperdrive
+		"X4700 Ion Thruster"
+		"X5200 Ion Steering"
+		"Mass Expansion" 20
+		"LP144a Battery Pack"
+		"Torpedo Launcher" 2
+		Torpedo 60
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"D94-YV Shield Generator"
+		Ramscoop
+		"D14-RN Shield Generator"
+		"D41-HY Shield Generator" 10
+		"Outfit Scanner"
+		"Large Radar Jammer"
+		"Laser Rifle" 245
+		"Heavy Anti-Missile Turret" 2
+		"Sidewinder Missile" 100
+		"Sidewinder Missile Launcher" 2
+	crew 74
+	fuel 700
+	shields 17500
+	hull 8600
+	position -191.03894 1202.4216
+	engine -18 230 1
+	engine 18 230 1
+	gun -15 -226 "Torpedo Launcher"
+	gun 15 -226 "Torpedo Launcher"
+	gun -40 -133 "Sidewinder Missile Launcher"
+	gun -45 -128 "Sidewinder Missile Launcher"
+	turret -22 -148 "Heavy Laser Turret"
+	turret 26 -80 "Heavy Anti-Missile Turret"
+	turret -41 -20 "Heavy Laser Turret"
+	turret 32 -7 "Heavy Laser Turret"
+	turret 53 82 "Heavy Laser Turret"
+	turret -37 186 "Heavy Anti-Missile Turret"
+	fighter -38 -26
+	fighter 35 36
+	fighter -47 97
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "huge explosion" 30
+	explode "large explosion" 45
+	"final explode" "final explosion large" 1
+	system Tarazed
+	planet Wayfarer
+ship Behemoth
+	name "SO LICK MY BUTT AND SUCK ON MY BALLS!"
+	sprite ship/behemoth
+	attributes
+		category "Heavy Freighter"
+		cost 10800000
+		bunks 30
+		"cargo space" 490
+		drag 11.7
+		"engine capacity" 90
+		"fuel capacity" 600
+		"gun ports" 2
+		"heat dissipation" 0.4
+		hull 6300
+		mass 540
+		"outfit space" 510
+		"required crew" 12
+		shields 7600
+		"turret mounts" 6
+		"weapon capacity" 280
+	outfits
+		"A375 Atomic Steering"
+		"A250 Atomic Thruster"
+		"Scram Drive"
+		"Mass Expansion" 19
+		"Fuel Pod" 3
+		"LP144a Battery Pack"
+		"Particle Cannon" 2
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 4
+		"Cooling Ducts"
+		"Water Coolant System"
+		"Small Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	crew 16
+	fuel 900
+	shields 7600
+	hull 6300
+	position -337.68722 1505.581
+	engine -34 154 1
+	engine 34 154 1
+	gun -27 -83 "Particle Cannon"
+	gun 27 -83 "Particle Cannon"
+	turret -34 -64 "Heavy Laser Turret"
+	turret 24 78 "Heavy Laser Turret"
+	turret -58 11 "Heavy Laser Turret"
+	turret 58 11 "Heavy Laser Turret"
+	turret -24 78 "Heavy Anti-Missile Turret"
+	turret 34 -64 "Heavy Anti-Missile Turret"
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "huge explosion" 20
+	explode "large explosion" 35
+	"final explode" "final explosion large" 1
+	system Tarazed
+	planet Wayfarer
+ship Behemoth
+	name "WATCHA GONNA DO WHEN WE'RE COMING FOR YOU NOW?!?"
+	sprite ship/behemoth
+	attributes
+		category "Heavy Freighter"
+		cost 10800000
+		bunks 30
+		"cargo space" 490
+		drag 11.7
+		"engine capacity" 90
+		"fuel capacity" 600
+		"gun ports" 2
+		"heat dissipation" 0.4
+		hull 6300
+		mass 540
+		"outfit space" 510
+		"required crew" 12
+		shields 7600
+		"turret mounts" 6
+		"weapon capacity" 280
+	outfits
+		"A375 Atomic Steering"
+		"A250 Atomic Thruster"
+		"Scram Drive"
+		"Mass Expansion" 19
+		"Fuel Pod" 3
+		"LP144a Battery Pack"
+		"Particle Cannon" 2
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 4
+		"Cooling Ducts"
+		"Water Coolant System"
+		"Small Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	crew 16
+	fuel 900
+	shields 7600
+	hull 6300
+	position -356.31614 1545.9304
+	engine -34 154 1
+	engine 34 154 1
+	gun -27 -83 "Particle Cannon"
+	gun 27 -83 "Particle Cannon"
+	turret -34 -64 "Heavy Laser Turret"
+	turret 24 78 "Heavy Laser Turret"
+	turret -58 11 "Heavy Laser Turret"
+	turret 58 11 "Heavy Laser Turret"
+	turret -24 78 "Heavy Anti-Missile Turret"
+	turret 34 -64 "Heavy Anti-Missile Turret"
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "huge explosion" 20
+	explode "large explosion" 35
+	"final explode" "final explosion large" 1
+	system Tarazed
+	planet Wayfarer
+ship Behemoth
+	name "FREEDOM IS THE ONLY WAY YEAH!"
+	sprite ship/behemoth
+	attributes
+		category "Heavy Freighter"
+		cost 10800000
+		bunks 30
+		"cargo space" 490
+		drag 11.7
+		"engine capacity" 90
+		"fuel capacity" 600
+		"gun ports" 2
+		"heat dissipation" 0.4
+		hull 6300
+		mass 540
+		"outfit space" 510
+		"required crew" 12
+		shields 7600
+		"turret mounts" 6
+		"weapon capacity" 280
+	outfits
+		"A375 Atomic Steering"
+		"A250 Atomic Thruster"
+		"Scram Drive"
+		"Mass Expansion" 19
+		"Fuel Pod" 3
+		"LP144a Battery Pack"
+		"Particle Cannon" 2
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 4
+		"Cooling Ducts"
+		"Water Coolant System"
+		"Small Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	crew 16
+	fuel 900
+	shields 7600
+	hull 6300
+	position -389.50358 1600.7489
+	engine -34 154 1
+	engine 34 154 1
+	gun -27 -83 "Particle Cannon"
+	gun 27 -83 "Particle Cannon"
+	turret -34 -64 "Heavy Laser Turret"
+	turret 24 78 "Heavy Laser Turret"
+	turret -58 11 "Heavy Laser Turret"
+	turret 58 11 "Heavy Laser Turret"
+	turret -24 78 "Heavy Anti-Missile Turret"
+	turret 34 -64 "Heavy Anti-Missile Turret"
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "huge explosion" 20
+	explode "large explosion" 35
+	"final explode" "final explosion large" 1
+	system Tarazed
+	planet Wayfarer
+ship Behemoth
+	name "TERRORISTS YOUR GAME IS THROUGH SO NOW YOU HAVE TO ANSWER TO"
+	sprite ship/behemoth
+	attributes
+		category "Heavy Freighter"
+		cost 10800000
+		bunks 30
+		"cargo space" 490
+		drag 11.7
+		"engine capacity" 90
+		"fuel capacity" 600
+		"gun ports" 2
+		"heat dissipation" 0.4
+		hull 6300
+		mass 540
+		"outfit space" 510
+		"required crew" 12
+		shields 7600
+		"turret mounts" 6
+		"weapon capacity" 280
+	outfits
+		"A375 Atomic Steering"
+		"A250 Atomic Thruster"
+		"Scram Drive"
+		"Mass Expansion" 19
+		"Fuel Pod" 3
+		"LP144a Battery Pack"
+		"Particle Cannon" 2
+		"Heavy Laser Turret" 4
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 4
+		"Cooling Ducts"
+		"Water Coolant System"
+		"Small Radar Jammer"
+		"Heavy Anti-Missile Turret" 2
+	crew 16
+	fuel 900
+	shields 7600
+	hull 6300
+	position -385.68881 1551.0589
+	engine -34 154 1
+	engine 34 154 1
+	gun -27 -83 "Particle Cannon"
+	gun 27 -83 "Particle Cannon"
+	turret -34 -64 "Heavy Laser Turret"
+	turret 24 78 "Heavy Laser Turret"
+	turret -58 11 "Heavy Laser Turret"
+	turret 58 11 "Heavy Laser Turret"
+	turret -24 78 "Heavy Anti-Missile Turret"
+	turret 34 -64 "Heavy Anti-Missile Turret"
+	explode "small explosion" 15
+	explode "medium explosion" 25
+	explode "huge explosion" 20
+	explode "large explosion" 35
+	"final explode" "final explosion large" 1
+	system Tarazed
+	planet Wayfarer
+ship Vanguard
+	name MURCA
+	sprite ship/vanguard
+	attributes
+		category "Heavy Warship"
+		cost 7200000
+		bunks 45
+		"cargo space" 50
+		drag 8
+		"engine capacity" 120
+		"fuel capacity" 400
+		"gun ports" 7
+		"heat dissipation" 0.6
+		hull 6000
+		mass 500
+		"outfit space" 560
+		"required crew" 23
+		shields 9800
+		"turret mounts" 1
+		"weapon capacity" 220
+	outfits
+		Hyperdrive
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		Supercapacitor
+		"Mass Expansion" 2
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 2
+		"Water Coolant System" 2
+		"LP072a Battery Pack"
+		"Anti-Missile Turret"
+		"Proton Gun" 7
+	crew 23
+	fuel 29.161205
+	shields 9800
+	hull 6000
+	position -944.81149 -1326.1532
+	engine -15 145 1
+	engine 15 145 1
+	gun 0 -140 "Proton Gun"
+	gun -18 -140 "Proton Gun"
+	gun 18 -140 "Proton Gun"
+	gun -20 -55 "Proton Gun"
+	gun 20 -55 "Proton Gun"
+	gun -30 -55 "Proton Gun"
+	gun 30 -55 "Proton Gun"
+	turret 0 30 "Anti-Missile Turret"
+	explode "tiny explosion" 18
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "large explosion" 8
+	"final explode" "final explosion medium" 1
+	system Menkent
+ship Vanguard
+	name "MURCA II"
+	sprite ship/vanguard
+	attributes
+		category "Heavy Warship"
+		cost 7200000
+		bunks 45
+		"cargo space" 50
+		drag 8
+		"engine capacity" 120
+		"fuel capacity" 400
+		"gun ports" 7
+		"heat dissipation" 0.6
+		hull 6000
+		mass 500
+		"outfit space" 560
+		"required crew" 23
+		shields 9800
+		"turret mounts" 1
+		"weapon capacity" 220
+	outfits
+		Hyperdrive
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		Supercapacitor
+		"Mass Expansion" 2
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 2
+		"Water Coolant System" 2
+		"LP072a Battery Pack"
+		"Anti-Missile Turret"
+		"Proton Gun" 7
+	crew 23
+	fuel 34.616249
+	shields 9800
+	hull 6000
+	position -92.193517 -1637.6115
+	engine -15 145 1
+	engine 15 145 1
+	gun 0 -140 "Proton Gun"
+	gun -18 -140 "Proton Gun"
+	gun 18 -140 "Proton Gun"
+	gun -20 -55 "Proton Gun"
+	gun 20 -55 "Proton Gun"
+	gun -30 -55 "Proton Gun"
+	gun 30 -55 "Proton Gun"
+	turret 0 30 "Anti-Missile Turret"
+	explode "tiny explosion" 18
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "large explosion" 8
+	"final explode" "final explosion medium" 1
+	system Menkent
+ship Vanguard
+	name "MURCA III"
+	sprite ship/vanguard
+	attributes
+		category "Heavy Warship"
+		cost 7200000
+		bunks 45
+		"cargo space" 50
+		drag 8
+		"engine capacity" 120
+		"fuel capacity" 400
+		"gun ports" 7
+		"heat dissipation" 0.6
+		hull 6000
+		mass 500
+		"outfit space" 560
+		"required crew" 23
+		shields 9800
+		"turret mounts" 1
+		"weapon capacity" 220
+	outfits
+		Hyperdrive
+		"X3700 Ion Thruster"
+		"X4200 Ion Steering"
+		Supercapacitor
+		"Mass Expansion" 2
+		"Fusion Reactor"
+		"Liquid Nitrogen Cooler"
+		"D67-TM Shield Generator" 2
+		"Water Coolant System" 2
+		"LP072a Battery Pack"
+		"Anti-Missile Turret"
+		"Proton Gun" 7
+	crew 23
+	fuel 32.578763
+	shields 9800
+	hull 6000
+	position -720.43684 1405.5481
+	engine -15 145 1
+	engine 15 145 1
+	gun 0 -140 "Proton Gun"
+	gun -18 -140 "Proton Gun"
+	gun 18 -140 "Proton Gun"
+	gun -20 -55 "Proton Gun"
+	gun 20 -55 "Proton Gun"
+	gun -30 -55 "Proton Gun"
+	gun 30 -55 "Proton Gun"
+	turret 0 30 "Anti-Missile Turret"
+	explode "tiny explosion" 18
+	explode "small explosion" 36
+	explode "medium explosion" 24
+	explode "large explosion" 8
+	"final explode" "final explosion medium" 1
+	system Menkent
+account
+	credits 12804341
+	score 800
+	history
+		125526626
+		125640832
+		125541857
+		125832777
+		125842917
+		125818292
+		125790917
+		125612192
+		125687847
+		125734522
+		125703917
+		125745762
+		125827857
+		125814962
+		125801262
+		125901872
+		125889782
+		125793972
+		125831792
+		125823727
+		125886527
+		125956077
+		125988127
+		129761017
+		129767182
+		129854682
+		129861627
+		129911780
+		130024997
+		130054446
+		130072340
+		130115027
+		130306497
+		130419992
+		130448842
+		130464867
+		130439852
+		130497822
+		130492627
+		130516187
+		130545032
+		130517562
+		130522897
+		130481692
+		130459487
+		130495602
+		130769897
+		130817853
+		130819934
+		141649763
+		141682245
+		141656235
+		141669870
+		141670760
+		141695081
+		141663033
+		141679953
+		141656996
+		141734722
+		141704937
+		141727116
+		141686048
+		141662103
+		141680932
+		141669874
+		147046790
+		147033679
+		147019272
+		149167818
+		149226988
+		149196691
+		149182151
+		149200671
+		149199241
+		149180141
+		149166741
+		149153341
+		149139941
+		149126541
+		150193141
+		150179741
+		155439341
+		155425941
+		155313541
+		155300141
+		155286741
+		155273341
+		155313041
+		155292741
+		160545441
+		160525141
+		160504841
+		160465341
+		160445041
+		160424741
+		166054441
+		166034141
+		166013841
+		165993541
+		165973241
+		165952941
+stock
+	Torpedo 43
+	"Fusion Reactor" 1
+	"Small Radar Jammer" 3
+	"Large Radar Jammer" 1
+	"NT-200 Nucleovoltaic" 1
+	"Fission Reactor" 1
+	"Sidewinder Missile" 20
+	"Sidewinder Missile Launcher" 2
+harvested
+	Peacock Lead
+	Peacock Silicon
+	Rasalhague Aluminum
+	Rasalhague Iron
+	Rasalhague Silicon
+	Zubeneschamali Neodymium
+	Zubeneschamali Silicon
+	Gacrux Silicon
+	"Beta Lupi" Lead
+	Dschubba Aluminum
+	Dschubba Iron
+	"Tania Australis" Silicon
+	"Epsilon Leonis" Lead
+	Gomeisa Silicon
+mission "FW Syndicate Diplomacy 1C"
+	name "Poisonwood Diplomacy"
+	description "Travel to Poisonwood with Alondo Gruyere, to make one final diplomatic visit."
+	passengers 1
+	landing
+	clearance "Alondo has a brief chat with the spaceport controller and manages to get you permission to land."
+		attributes
+			"dirt belt"
+			south
+	to offer
+		"FW Syndicate Diplomacy 1B: done" != 0
+	destination Poisonwood
+	npc
+		government Republic
+		personality
+			confusion 10
+			heroic
+		ship Rainmaker
+			name "R.N.S. Mersey"
+			sprite ship/rainmaker
+			attributes
+				category "Light Warship"
+				cost 1580000
+				bunks 14
+				"cargo space" 25
+				drag 3.8
+				"engine capacity" 50
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 1200
+				mass 180
+				"outfit space" 230
+				"required crew" 7
+				shields 3500
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"nGVF-CC Fuel Cell"
+				"Energy Blaster" 2
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+			crew 13
+			fuel 500
+			shields 3500
+			hull 1200
+			position -611.11282 272.52566
+			engine -8 46 1
+			engine 8 46 1
+			gun -10 -30 "Energy Blaster"
+			gun 10 -30 "Energy Blaster"
+			gun -27 -5 "Meteor Missile Launcher"
+			gun 27 -5 "Meteor Missile Launcher"
+			gun -17 -5 "Meteor Missile Launcher"
+			gun 17 -5 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Rutilicus
+		ship Rainmaker
+			name "R.N.S. Tyne"
+			sprite ship/rainmaker
+			attributes
+				category "Light Warship"
+				cost 1580000
+				bunks 14
+				"cargo space" 25
+				drag 3.8
+				"engine capacity" 50
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 1200
+				mass 180
+				"outfit space" 230
+				"required crew" 7
+				shields 3500
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"nGVF-CC Fuel Cell"
+				"Energy Blaster" 2
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+			crew 14
+			fuel 500
+			shields 3500
+			hull 1200
+			position -624.44642 81.497545
+			engine -8 46 1
+			engine 8 46 1
+			gun -10 -30 "Energy Blaster"
+			gun 10 -30 "Energy Blaster"
+			gun -27 -5 "Meteor Missile Launcher"
+			gun 27 -5 "Meteor Missile Launcher"
+			gun -17 -5 "Meteor Missile Launcher"
+			gun 17 -5 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Rutilicus
+		ship Protector
+			name "R.N.S. Thames"
+			sprite ship/protector
+			attributes
+				category "Heavy Warship"
+				cost 5500000
+				bunks 69
+				"cargo space" 50
+				drag 10.3
+				"engine capacity" 100
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.6
+				hull 6500
+				mass 500
+				"outfit space" 570
+				"required crew" 30
+				shields 9500
+				"turret mounts" 6
+				"weapon capacity" 220
+			outfits
+				Hyperdrive
+				"X3700 Ion Thruster"
+				"X3200 Ion Steering"
+				"Torpedo Launcher" 2
+				Torpedo 60
+				"Fusion Reactor"
+				"Liquid Nitrogen Cooler"
+				"D67-TM Shield Generator"
+				"Small Radar Jammer" 3
+				"LP288a Battery Pack"
+				"Quad Blaster Turret" 6
+			crew 68
+			fuel 400
+			shields 9500
+			hull 6500
+			position -469.66844 -69.182229
+			engine -11 125 1
+			engine 11 125 1
+			gun -15 -100 "Torpedo Launcher"
+			gun 15 -100 "Torpedo Launcher"
+			turret -54 -54 "Quad Blaster Turret"
+			turret 54 -54 "Quad Blaster Turret"
+			turret -73 0 "Quad Blaster Turret"
+			turret 73 0 "Quad Blaster Turret"
+			turret -54 54 "Quad Blaster Turret"
+			turret 54 54 "Quad Blaster Turret"
+			explode "tiny explosion" 18
+			explode "small explosion" 36
+			explode "medium explosion" 24
+			explode "large explosion" 8
+			"final explode" "final explosion large" 1
+			system Rutilicus
+		ship Rainmaker
+			name "R.N.S. Angara"
+			sprite ship/rainmaker
+			attributes
+				category "Light Warship"
+				cost 1580000
+				bunks 14
+				"cargo space" 25
+				drag 3.8
+				"engine capacity" 50
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 1200
+				mass 180
+				"outfit space" 230
+				"required crew" 7
+				shields 3500
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"nGVF-CC Fuel Cell"
+				"Energy Blaster" 2
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+			crew 11
+			fuel 500
+			shields 3500
+			hull 1200
+			position -512.9243 38.592147
+			engine -8 46 1
+			engine 8 46 1
+			gun -10 -30 "Energy Blaster"
+			gun 10 -30 "Energy Blaster"
+			gun -27 -5 "Meteor Missile Launcher"
+			gun 27 -5 "Meteor Missile Launcher"
+			gun -17 -5 "Meteor Missile Launcher"
+			gun 17 -5 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Rutilicus
+		ship Rainmaker
+			name "R.N.S. Tigris"
+			sprite ship/rainmaker
+			attributes
+				category "Light Warship"
+				cost 1580000
+				bunks 14
+				"cargo space" 25
+				drag 3.8
+				"engine capacity" 50
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 1200
+				mass 180
+				"outfit space" 230
+				"required crew" 7
+				shields 3500
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"nGVF-CC Fuel Cell"
+				"Energy Blaster" 2
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+			crew 10
+			fuel 500
+			shields 3500
+			hull 1200
+			position -803.4236 78.525482
+			engine -8 46 1
+			engine 8 46 1
+			gun -10 -30 "Energy Blaster"
+			gun 10 -30 "Energy Blaster"
+			gun -27 -5 "Meteor Missile Launcher"
+			gun 27 -5 "Meteor Missile Launcher"
+			gun -17 -5 "Meteor Missile Launcher"
+			gun 17 -5 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Rutilicus
+		ship Rainmaker
+			name "R.N.S. Lachlan"
+			sprite ship/rainmaker
+			attributes
+				category "Light Warship"
+				cost 1580000
+				bunks 14
+				"cargo space" 25
+				drag 3.8
+				"engine capacity" 50
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.6
+				hull 1200
+				mass 180
+				"outfit space" 230
+				"required crew" 7
+				shields 3500
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"X2200 Ion Steering"
+				"X2700 Ion Thruster"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"nGVF-CC Fuel Cell"
+				"Energy Blaster" 2
+				"Meteor Missile" 140
+				"Meteor Missile Launcher" 4
+			crew 11
+			fuel 500
+			shields 3500
+			hull 1200
+			position -462.90673 -16.447361
+			engine -8 46 1
+			engine 8 46 1
+			gun -10 -30 "Energy Blaster"
+			gun 10 -30 "Energy Blaster"
+			gun -27 -5 "Meteor Missile Launcher"
+			gun 27 -5 "Meteor Missile Launcher"
+			gun -17 -5 "Meteor Missile Launcher"
+			gun 17 -5 "Meteor Missile Launcher"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Rutilicus
+	on offer
+		conversation
+			label 0
+			"You are led into the Tarazed board room, which is different from the Syndicate one in two respects. First, it is much less fancy. And second, there are women present: unlike the notoriously misogynistic Syndicate, Tarazed is in fact currently run by a female CEO, Emily Lane."
+			`	"I'm pleased to welcome you here," says Emily. "Many of us are sympathetic to your cause."`
+			`	"Thank you," says Alondo, "although for the time being the best way to support us, may be for you to remain neutral in this conflict." He explains the idea of Tarazed being a go-between with the Syndicate.`
+			`	"I don't like dealing with the Syndicate," says Emily, "but like yourselves, we could not build ships without the systems they manufacture. Of course, the materials we receive from Free space are equally valuable. But if we remain nominally a part of the Republic, they will have full access to this system, including searching incoming and outgoing freighters."`
+			`	"True," says Alondo, "but a Navy fleet here would be vulnerable to being cut off from Republic space, so unless they occupy the whole Dirt Belt, I do not think they would risk it." They continue talking for a while, and you leave well convinced that Tarazed is willing to support you and that the best way they can do that for now is by remaining neutral.`
+			`	"Now," says Alondo, "I'd like to make one more diplomatic visit. The planet Poisonwood has insisted on remaining loyal to the Republic, even though they are deep inside our space. I'd like to meet with their leaders and see if they will reconsider joining us."`
+				accept
+		event "Tarazed neutrality" 0
+	on fail
+		dialog
+			"You have failed an essential Free Worlds mission. If you want to complete the story line, revert to the autosave or another earlier snapshot of the game."
+mission shiptester3
+	name shiptester3
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government "Red Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship Hurricane
+			name "Red Team"
+			sprite ship/hurricane
+			attributes
+				category "Heavy Warship"
+				cost 39100000
+				bunks 117
+				"cargo space" 98
+				drag 11.9
+				"engine capacity" 140
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.55
+				hull 46500
+				mass 770
+				"outfit space" 960
+				"required crew" 76
+				shields 72400
+				"turret mounts" 5
+				"weapon capacity" 428
+			outfits
+				"NDR-114 Android" 78
+				"Cloaking Device"
+				"Mass Expansion" 4
+				"Fuel Pod" 4
+				"Systems Core (Large)"
+				"Large Heat Shunt" 5
+				"Triple Plasma Core"
+				"Steering (Planetary Class)"
+				"Thruster (Asteroid Class)"
+				"Thruster (Planetary Class)"
+				"Korath Warder" 2
+				"Quarg Skylance" 3
+				"Outfit Scanner"
+				"Cargo Scanner"
+				"Nanotech Battery"
+				"Quantum Shield Generator"
+				Flamethrower 6
+				""
+			crew 1
+			fuel 900
+			shields 72400
+			hull 46500
+			position -36437.736 -10925.532
+			engine -23 181 1
+			engine 23 181 1
+			gun -68 5 Flamethrower
+			gun 68 5 Flamethrower
+			gun -85 21 Flamethrower
+			gun 85 21 Flamethrower
+			gun -62 32 Flamethrower
+			gun 62 32 Flamethrower
+			turret -27 -80 "Korath Warder"
+			turret 27 -80 "Korath Warder"
+			turret 0 -33 "Quarg Skylance"
+			turret -39 140 "Quarg Skylance"
+			turret 39 140 "Quarg Skylance"
+			explode "small explosion" 20
+			explode "medium explosion" 80
+			explode "huge explosion" 30
+			explode "large explosion" 70
+			"final explode" "final explosion large" 1
+			system ""
+	npc
+		succeed 128
+		government "Blue Team"
+		personality
+			confusion 10
+			staying
+			vindictive
+		ship Hurricane
+			name "Blue Team"
+			sprite ship/hurricane
+			attributes
+				category "Heavy Warship"
+				cost 39100000
+				bunks 117
+				"cargo space" 98
+				drag 11.9
+				"engine capacity" 140
+				"fuel capacity" 500
+				"gun ports" 6
+				"heat dissipation" 0.55
+				hull 46500
+				mass 770
+				"outfit space" 960
+				"required crew" 76
+				shields 72400
+				"turret mounts" 5
+				"weapon capacity" 428
+			outfits
+				"Mass Expansion" 4
+				"Fuel Pod"
+				"Systems Core (Large)"
+				"Large Heat Shunt" 3
+				"Steering (Planetary Class)"
+				"Thruster (Asteroid Class)"
+				"Thruster (Planetary Class)"
+				"Korath Warder" 2
+				"Quarg Skylance" 3
+				"Quantum Shield Generator"
+				Flamethrower 6
+				"Blue Sun Reactor" 2
+				""
+			crew 79
+			fuel 600
+			shields 72400
+			hull 46500
+			position 32862.338 -19504.546
+			engine -23 181 1
+			engine 23 181 1
+			gun -68 5 Flamethrower
+			gun 68 5 Flamethrower
+			gun -85 21 Flamethrower
+			gun 85 21 Flamethrower
+			gun -62 32 Flamethrower
+			gun 62 32 Flamethrower
+			turret -27 -80 "Korath Warder"
+			turret 27 -80 "Korath Warder"
+			turret 0 -33 "Quarg Skylance"
+			turret -39 140 "Quarg Skylance"
+			turret 39 140 "Quarg Skylance"
+			explode "small explosion" 20
+			explode "medium explosion" 80
+			explode "huge explosion" 30
+			explode "large explosion" 70
+			"final explode" "final explosion large" 1
+			system ""
+	on offer
+		dialog
+			"tester mission offered"
+mission "Pug in Enclave galaxy"
+	name "Pug in Enclave galaxy"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Pug
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship "Pug Arfecta"
+			name "Yot Hort"
+			sprite "ship/pug arfecta"
+			attributes
+				category "Medium Warship"
+				cost 90000000
+				bunks 46
+				"cargo space" 64
+				"cloaking fuel" -0.2
+				drag 7.5
+				"energy capacity" 10000
+				"energy generation" 200
+				"engine capacity" 220
+				"fuel capacity" 1200
+				"heat dissipation" 0.8
+				"heat generation" 10
+				hull 80000
+				"hull energy" 5
+				"hull repair rate" 5
+				mass 670
+				"outfit space" 640
+				"required crew" 36
+				"shield energy" 32
+				"shield generation" 32
+				shields 98000
+				"turret mounts" 5
+				"weapon capacity" 390
+			outfits
+				"Jump Drive"
+				"Pug Biodefenses" 12
+				"Pug Gridfire Turret" 3
+				"Pug Lohmar Thruster"
+				"Pug Lohmar Steering" 2
+				"Tier 3 Anti-Missile" 2
+			crew 36
+			fuel 1200
+			shields 98000
+			hull 80000
+			position 303.2114 -1351.7273
+			engine -15 164 1
+			engine 15 164 1
+			turret -50 -29 "Tier 3 Anti-Missile"
+			turret 50 -29 "Tier 3 Anti-Missile"
+			turret 0 40 "Pug Gridfire Turret"
+			turret -73 84 "Pug Gridfire Turret"
+			turret 73 84 "Pug Gridfire Turret"
+			explode "tiny explosion" 100
+			explode "small explosion" 60
+			explode "medium explosion" 30
+			explode "large explosion" 10
+			"final explode" "final explosion large" 1
+			system "Pug Morbosa"
+mission "Drak guarding Sayaiban"
+	name "Drak guarding Sayaiban"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Watchful Gravetender"
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				"Medium Graviton Steering"
+				"Medium Graviton Thruster"
+				Hyperdrive
+				"Jump Drive"
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+				"Drak Draining Field"
+				"Drak Anti-Missile Field" 2
+				"Drak Turret" 3
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position -65.091925 257.61188
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Sayaiban
+	on enter Sayaiban
+		conversation
+			label 0
+			`A voice says, "This system is off limits. You should leave."`
+			"	After a second, you realize that the voice did not come from your communications equipment. In fact, now that you think about it, you're not sure if it was an audible voice, or just something in your head."
+				goto 1
+			label 1
+			choice
+				"	(Ignore it.)"
+					goto 2
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 2
+			`	"You should leave." The thought repeats itself, insistently. Either you're going crazy, or a creature is communicating with you telepathically.`
+				goto 3
+			label 3
+			choice
+				`	"Why should I leave?"`
+					goto 4
+				`	"You can't tell me what to do."`
+					goto 4
+			label 4
+			`	You feel as if a vast and patient creature has just heaved an immense sigh. "Human, you would do well not to ignore the warning of an Archon. I am here to warn off those who might be harmed by the swarm intelligence that infests this system. If you remain here long your ship will be digested by the swarm."`
+			`	You recall that "Archon" is what Drak ships are called.`
+				goto 5
+			label 5
+			choice
+				`	"What do you mean, 'digested'?"`
+					goto 6
+				`	"What is a 'swarm intelligence'?"`
+					goto 7
+			label 6
+			`	"I mean that your ship will be broken down into its component parts." You notice, as the voice says this, that your shields are registering small energy bursts, as if they are being struck by invisible weapons.`
+			`	"What is this swarm?" you ask.`
+				goto 7
+			label 7
+			`	"Self-replicating miniature robots," the voice replies. "A weapon created by the Korath, the last of their great abominations. If you wish to feed your ship to the swarm, I will not stop you, but they already possess enough raw material here without your assistance." The voice's tone, inasmuch as a disembodied imaginary voice can be said to have a tone, is sardonic.`
+				goto 8
+			label 8
+			choice
+				`	"Okay, okay, I'll get out of here."`
+					goto 12
+				`	"Wait, I have more questions."`
+					goto 9
+			label 9
+			`	"Yes?"`
+			`	You ask, "Why don't you just destroy the swarm, if it is so dangerous?"`
+			`	The voice says, "Because if the Korath manage to drive themselves extinct, this intelligence will be their last and greatest surviving creation, and we will preserve it as a living memorial to them. Please do not interfere here." When the voice speaks the phrase, "drive themselves extinct," the words are accompanied by an emotion that you cannot put a name to.`
+			"	Also, the empty space around your ship is beginning to light up with small sparks, like an angry swarm of fireflies."
+				goto 10
+			label 10
+			choice
+				`	"Well, it's an honor to meet you. I'll be leaving now."`
+					goto 12
+				`	"Why do you care if they go extinct?"`
+					goto 11
+			label 11
+			`	"Our directive is to enforce peace and prevent extinction," says the voice. As before, the words "prevent extinction" echo loud in your mind as if underlined by a nameless emotion. "Now, enough questions," says the voice.`
+				goto 12
+			label 12
+			"	The presence inside your head seems to fall away, and you are left talking to thin air."
+				decline
+mission "Drak guarding Korath space"
+	name "Drak guarding Korath space"
+	invisible
+	landing
+	destination "New Boston"
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Kasiliri's Folly"
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				"Medium Graviton Steering"
+				"Medium Graviton Thruster"
+				Hyperdrive
+				"Jump Drive"
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+				"Drak Draining Field"
+				"Drak Anti-Missile Field" 2
+				"Drak Turret" 3
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 627.36 -1055.482
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Fasitopfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Sword of Eden"
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				"Medium Graviton Steering"
+				"Medium Graviton Thruster"
+				Hyperdrive
+				"Jump Drive"
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+				"Drak Draining Field"
+				"Drak Anti-Missile Field" 2
+				"Drak Turret" 3
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 688.29633 -159.71344
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Kasikfar
+	npc
+		succeed 128
+		government Drak
+		personality
+			confusion 10
+			heroic
+			staying
+			vindictive
+		ship Archon
+			name "Snows of Far Door Nai"
+			sprite ship/archon
+				"frame rate" 0.86999997
+			"never disabled"
+			attributes
+				category "Heavy Warship"
+				cost 1000000000
+				bunks 1
+				drag 27
+				"energy capacity" 10000
+				"energy generation" 500
+				"engine capacity" 200
+				"fuel capacity" 800
+				"gun ports" 1
+				"heat dissipation" 40
+				"heat generation" 17
+				hull 1000000
+				"hull energy" 100
+				"hull repair rate" 100
+				mass 1000
+				"outfit space" 800
+				ramscoop 100
+				"required crew" 1
+				"shield energy" 100
+				"shield generation" 100
+				shields 4000000
+				"turret mounts" 8
+				"weapon capacity" 600
+			outfits
+				"Medium Graviton Steering"
+				"Medium Graviton Thruster"
+				Hyperdrive
+				"Jump Drive"
+				"Drak Antimatter Cannon"
+				"Drak Distancer" 2
+				"Drak Draining Field"
+				"Drak Anti-Missile Field" 2
+				"Drak Turret" 3
+			crew 1
+			fuel 800
+			shields 4000000
+			hull 1000000
+			position 642.04991 1146.4545
+			engine -17 92 1
+			engine 17 92 1
+			gun 0 -74 "Drak Antimatter Cannon"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Anti-Missile Field"
+			turret 0 -10 "Drak Draining Field"
+			turret -40 -13 "Drak Turret"
+			turret 40 -13 "Drak Turret"
+			turret 0 81 "Drak Turret"
+			turret -55 16 "Drak Distancer"
+			turret 55 16 "Drak Distancer"
+			explode "nuke explosion" 3
+			"final explode" "final explosion large" 1
+			system Peresedersi
+mission "Bounty Hunting (Marauder II)"
+	name "Hunt down King of Agony"
+	description "A Marauder vessel named King of Agony, leading a small fleet, has been attacking merchants near the Kraz system. Destroy the whole fleet and return to Rust for payment (350,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 750
+		or
+			random < 5
+			and
+				"combat rating" < 1800
+				random < 30
+	destination Rust
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+		dialog
+			"The King of Agony and their fleet have been eliminated. You can claim the bounty payment by returning to Rust in the Kraz system."
+		ship "Marauder Bounder"
+			name "King of Agony"
+			sprite ship/mboundere
+			attributes
+				category Interceptor
+				cost 1400000
+				bunks 18
+				"cargo space" 20
+				drag 3.7
+				"engine capacity" 130
+				"fuel capacity" 900
+				"gun ports" 1
+				"heat dissipation" 0.8
+				hull 700
+				mass 145
+				"outfit space" 240
+				"required crew" 2
+				"self destruct" 0.25
+				shields 2500
+				"turret mounts" 2
+				"weapon capacity" 80
+			outfits
+				Hyperdrive
+				"A370 Atomic Thruster"
+				"A375 Atomic Steering"
+				"Mass Expansion"
+				"S-270 Regenerator"
+				"Water Coolant System"
+				"Laser Rifle" 18
+				"LP072a Battery Pack"
+				"Dwarf Core"
+				"Quad Blaster Turret" 2
+				"Heavy Laser"
+			crew 3
+			fuel 900
+			shields 0
+			hull -1
+			position -207.21612 -553.72087
+			engine -12 58 1
+			engine 0 51 1
+			engine 12 58 1
+			gun 0 -85 "Heavy Laser"
+			turret -38 7 "Quad Blaster Turret"
+			turret 38 7 "Quad Blaster Turret"
+			explode "tiny explosion" 10
+			explode "small explosion" 20
+			explode "medium explosion" 15
+			"final explode" "final explosion small" 1
+			system Spica
+			actions 240
+		ship "Marauder Arrow"
+			name "Sky Hunter"
+			sprite ship/marroww
+			attributes
+				category Interceptor
+				cost 1500000
+				bunks 5
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 80
+				"fuel capacity" 400
+				"gun ports" 4
+				"heat dissipation" 0.85
+				hull 500
+				mass 145
+				"outfit space" 210
+				"required crew" 2
+				"self destruct" 0.25
+				shields 2300
+				"turret mounts" 1
+				"weapon capacity" 60
+			outfits
+				Hyperdrive
+				"A255 Atomic Steering"
+				"A250 Atomic Thruster"
+				"Heavy Laser Turret"
+				"Water Coolant System"
+				"D14-RN Shield Generator"
+				"LP036a Battery Pack"
+				"Laser Rifle" 5
+				"Dwarf Core"
+				"Energy Blaster" 4
+			cargo
+				commodities
+					Plastic 1
+			crew 2
+			fuel 400
+			shields 0
+			hull -1
+			position 1081.4009 -425.17795
+			engine -8 57 1
+			engine 8 57 1
+			gun -6 -36 "Energy Blaster"
+			gun 6 -36 "Energy Blaster"
+			gun -7 -34 "Energy Blaster"
+			gun 7 -34 "Energy Blaster"
+			turret 0 15 "Heavy Laser Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 18
+			explode "medium explosion" 6
+			"final explode" "final explosion small" 1
+			system Spica
+			actions 240
+		ship "Marauder Quicksilver"
+			name "Princess of Pain"
+			sprite ship/mquicksilvers
+			attributes
+				category "Light Warship"
+				cost 1200000
+				bunks 7
+				"cargo space" 5
+				drag 2.7
+				"engine capacity" 75
+				"fuel capacity" 400
+				"gun ports" 2
+				"heat dissipation" 0.8
+				hull 900
+				mass 140
+				"outfit space" 265
+				"required crew" 4
+				"self destruct" 0.25
+				shields 3500
+				"turret mounts" 1
+				"weapon capacity" 65
+			outfits
+				Hyperdrive
+				"A375 Atomic Steering"
+				"A250 Atomic Thruster"
+				"Liquid Nitrogen Cooler"
+				"S-270 Regenerator"
+				"LP036a Battery Pack"
+				"Security Station" 3
+				"Laser Rifle"
+				"Heavy Anti-Missile Turret"
+				"Fission Reactor"
+				"Heavy Laser" 2
+			cargo
+				commodities
+					Industrial 4
+			crew 3
+			fuel 285.20427
+			shields 0
+			hull -1
+			position -555.46437 -334.38319
+			engine -16 52 1
+			engine 16 52 1
+			gun -7 -39 "Heavy Laser"
+			gun 7 -39 "Heavy Laser"
+			turret 0 15 "Heavy Anti-Missile Turret"
+			explode "tiny explosion" 12
+			explode "small explosion" 16
+			"final explode" "final explosion small" 1
+			system Spica
+			actions 240
+	on complete
+		dialog
+			"The government of Rust gratefully pays you 350,000 credits for eliminating the King of Agony and their fleet."
+		payment 350000
+"available job" "Bounty Hunting (Small)"
+	name "Hunt down Foulpit"
+	description "A pirate vessel named Foulpit has been attacking merchants near the Tarazed system. Destroy it and return to Wayfarer for payment (150,000 credits)."
+	job
+	repeat 0
+	to offer
+		"combat rating" > 300
+		random < 40
+	destination Wayfarer
+	npc
+		succeed 128
+		government Bounty
+		personality
+			confusion 10
+			heroic
+			nemesis
+			staying
+		dialog
+			"The Foulpit has been eliminated. You can claim the bounty payment by returning to Wayfarer in the Tarazed system."
+		ship Bastion
+			name Foulpit
+			sprite ship/bastion
+			attributes
+				category "Medium Warship"
+				cost 3560000
+				bunks 47
+				"cargo space" 110
+				drag 10.3
+				"engine capacity" 120
+				"fuel capacity" 500
+				"gun ports" 4
+				"heat dissipation" 0.5
+				hull 4200
+				mass 580
+				"outfit space" 470
+				"required crew" 32
+				shields 6700
+				"turret mounts" 3
+				"weapon capacity" 180
+			outfits
+				Hyperdrive
+				"Impala Plasma Steering"
+				"Impala Plasma Thruster"
+				"LP144a Battery Pack"
+				"D67-TM Shield Generator"
+				"Water Coolant System"
+				"nGVF-BB Fuel Cell"
+				"S3 Thermionic"
+				"Blaster Turret" 3
+				"Heavy Rocket" 40
+				"Heavy Rocket Launcher" 2
+				"Plasma Cannon" 2
+			cargo
+				commodities
+					Industrial 71
+					Metal 34
+			crew 46
+			fuel 500
+			shields 6700
+			hull 4200
+			position 7.6162972 812.32294
+			engine -28 85 1
+			engine 28 85 1
+			gun -54 -14 "Plasma Cannon"
+			gun 54 -14 "Plasma Cannon"
+			gun -54 -14 "Heavy Rocket Launcher"
+			gun 54 -14 "Heavy Rocket Launcher"
+			turret 0 0 "Blaster Turret"
+			turret -30 14 "Blaster Turret"
+			turret 30 14 "Blaster Turret"
+			explode "tiny explosion" 5
+			explode "small explosion" 15
+			explode "medium explosion" 30
+			explode "large explosion" 20
+			"final explode" "final explosion medium" 1
+			system Enif
+	on complete
+		dialog
+			"The government of Wayfarer gratefully pays you 150,000 credits for eliminating the Foulpit."
+		payment 150000
+"available job" "Family [0]"
+	name "Transport family to Trove"
+	description "This family of 4 is relocating to Trove in the Hamal system. They will pay you 94,000 credits to take them there."
+	passengers 4
+	job
+	repeat 0
+	to offer
+		random < 60
+		"passenger space" > 10
+	destination Trove
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 94,000 credits."
+		payment 94000
+"available job" "Family [2]"
+	name "Transport family to Icefall"
+	description "This family of 9 is relocating to Icefall in the Menkar system. They will pay you 237,500 credits to take them there."
+	passengers 9
+	job
+	repeat 0
+	to offer
+		random < 40
+		"passenger space" > 10
+	destination Icefall
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 237,500 credits."
+		payment 237500
+"available job" "Family [3]"
+	name "Transport family to Burthen"
+	description "This family of 5 is relocating to Burthen in the Al Dhanab system. They will pay you 107,500 credits to take them there."
+	passengers 5
+	job
+	repeat 0
+	to offer
+		random < 30
+		"passenger space" > 10
+	destination Burthen
+	on complete
+		dialog
+			"The family you have been transporting departs your ship after paying you 107,500 credits."
+		payment 107500
+"available job" "Large Bulk Delivery [0]"
+	name "Large bulk delivery to Longjump"
+	description "Deliver 57 tons of gold sheets to Longjump in the Sabik system. Payment is 72,400 credits."
+	cargo "gold sheets" 57
+	job
+	repeat 0
+	to offer
+		random < 70
+		"cargo space" > 160
+	destination Longjump
+	on complete
+		dialog
+			"You drop off your cargo of gold sheets and collect your payment of 72,400 credits."
+		payment 72400
+"available job" "Large Bulk Delivery [2]"
+	name "Large bulk delivery to Shorebreak"
+	description "Deliver 183 tons of pickles to Shorebreak in the Mimosa system. Payment is 419,750 credits."
+	cargo pickles 183
+	job
+	repeat 0
+	to offer
+		random < 50
+		"cargo space" > 160
+	destination Shorebreak
+	on complete
+		dialog
+			"You drop off your cargo of pickles and collect your payment of 419,750 credits."
+		payment 419750
+"available job" "Large Rush Delivery [0]"
+	name "Large rush delivery to Charon Station"
+	description "Deliver 46 tons of molybdenum to Charon Station in the Aldhibain system by Fri, 16 Feb 3016. Payment is 84,300 credits."
+	deadline 16 2 3016
+	cargo molybdenum 46
+	job
+	repeat 0
+	to offer
+		random < 90
+		"cargo space" > 80
+	destination "Charon Station"
+	on complete
+		dialog
+			"You drop off your cargo of molybdenum and collect your payment of 84,300 credits."
+		payment 84300
+"available job" "Large Rush Delivery [1]"
+	name "Large rush delivery to Longjump"
+	description "Deliver 69 tons of silicon wafers to Longjump in the Sabik system by Sun, 18 Feb 3016. Payment is 120,800 credits."
+	deadline 18 2 3016
+	cargo "silicon wafers" 69
+	job
+	repeat 0
+	to offer
+		random < 80
+		"cargo space" > 80
+	destination Longjump
+	on complete
+		dialog
+			"You drop off your cargo of silicon wafers and collect your payment of 120,800 credits."
+		payment 120800
+"available job" "Large Rush Delivery [2]"
+	name "Large rush delivery to Sundive"
+	description "Deliver 108 tons of semiconductors to Sundive in the Sheratan system by Sun, 3 Mar 3016. Payment is 283,000 credits."
+	deadline 3 3 3016
+	cargo semiconductors 108
+	job
+	repeat 0
+	to offer
+		random < 70
+		"cargo space" > 80
+	destination Sundive
+	on complete
+		dialog
+			"You drop off your cargo of semiconductors and collect your payment of 283,000 credits."
+		payment 283000
+"available job" "Large Rush Delivery [3]"
+	name "Large rush delivery to Placer"
+	description "Deliver 62 tons of asphalt to Placer in the Mirach system by Wed, 28 Feb 3016. Payment is 162,900 credits."
+	deadline 28 2 3016
+	cargo asphalt 62
+	job
+	repeat 0
+	to offer
+		random < 60
+		"cargo space" > 80
+	destination Placer
+	on complete
+		dialog
+			"You drop off your cargo of asphalt and collect your payment of 162,900 credits."
+		payment 162900
+"available job" "Passengers [0]"
+	name "Passenger transport to Skymoot"
+	description "Bring 2 passengers to Skymoot in the Hadar system. Payment is 35,000 credits."
+	passengers 2
+	job
+	repeat 0
+	destination Skymoot
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Skymoot, and collect your payment of 35,000 credits."
+		payment 35000
+"available job" "Rush Delivery [0]"
+	name "Rush delivery to Solace"
+	description "Deliver 15 tons of sonic chainsaws to Solace in the Pherkad system by Sun, 18 Feb 3016. Payment is 34,000 credits."
+	deadline 18 2 3016
+	cargo "sonic chainsaws" 15
+	job
+	repeat 0
+	to offer
+		random < 90
+	destination Solace
+	on complete
+		dialog
+			"You drop off your cargo of sonic chainsaws and collect your payment of 34,000 credits."
+		payment 34000
+"available job" "Rush Delivery [1]"
+	name "Rush delivery to Lodestone"
+	description "Deliver 38 tons of frozen fish to Lodestone in the Ankaa system by Wed, 28 Feb 3016. Payment is 92,100 credits."
+	deadline 28 2 3016
+	cargo "frozen fish" 38
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Lodestone
+	on complete
+		dialog
+			"You drop off your cargo of frozen fish and collect your payment of 92,100 credits."
+		payment 92100
+"available job" "Rush Delivery [2]"
+	name "Rush delivery to Mere"
+	description "Deliver 41 tons of steel girders to Mere in the Kochab system by Sat, 24 Feb 3016. Payment is 87,650 credits."
+	deadline 24 2 3016
+	cargo "steel girders" 41
+	job
+	repeat 0
+	to offer
+		random < 70
+	destination Mere
+	on complete
+		dialog
+			"You drop off your cargo of steel girders and collect your payment of 87,650 credits."
+		payment 87650
+"available job" "Tourists out [1]"
+	name "Bring tourists to Glaze"
+	description "These 7 tourists want to see Glaze in the Aldhibain system. They are willing to pay you 77,500 credits."
+	passengers 7
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Glaze
+	on complete
+		dialog
+			"You wish your passengers the best of luck on Glaze, and collect your payment of 77,500 credits."
+		payment 77500
+"available job" "Transport farmers to <planet>"
+	name "Transport farmers to Darkstone"
+	description "This family of 2 farmers is hoping to find work on Darkstone in the Han system, and they will pay you 23,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Darkstone
+	on complete
+		dialog
+			"You wish the farm family the best of luck on Darkstone, and collect your payment of 23,000 credits."
+		payment 23000
+"available job" "Transport miners to <planet>"
+	name "Transport miners to Antipode"
+	description "This family of 2 miners is hoping to find work on Antipode in the Matar system, and they will pay you 41,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 50
+	destination Antipode
+	on complete
+		dialog
+			"You wish the mining family the best of luck on Antipode, and collect your payment of 41,000 credits."
+		payment 41000
+"available job" "Transport workers to <planet>"
+	name "Transport workers to Millrace"
+	description "This family of 2 factory workers is hoping to find work on Millrace in the Fomalhaut system, and they will pay you 35,000 credits to take them there."
+	passengers 2
+	job
+	repeat 0
+	to offer
+		random < 80
+	destination Millrace
+	on complete
+		dialog
+			"You wish the workers the best of luck on Millrace, and collect your payment of 35,000 credits."
+		payment 35000
+conditions
+	"Andromedan Rep: offered"
+	"Bounty Hunting (Marauder I): done" 2
+	"Bounty Hunting (Marauder I): offered" 2
+	"Bounty Hunting (Marauder II): active"
+	"Bounty Hunting (Marauder II): offered"
+	"Bounty Hunting (Medium): done"
+	"Bounty Hunting (Medium): offered"
+	"Bounty Hunting (Small): done" 4
+	"Bounty Hunting (Small): offered" 4
+	"Bulk Delivery [0]: done" 18
+	"Bulk Delivery [0]: offered" 18
+	"Bulk Delivery [1]: done" 8
+	"Bulk Delivery [1]: offered" 8
+	"Bulk Delivery [2]: done" 3
+	"Bulk Delivery [2]: offered" 3
+	"Cargo [0]: done" 24
+	"Cargo [0]: offered" 25
+	"Cargo [1]: done" 20
+	"Cargo [1]: offered" 20
+	"Cargo [2]: done" 12
+	"Cargo [2]: offered" 12
+	"Cargo [3]: done" 6
+	"Cargo [3]: offered" 6
+	"Cargo [4]: done"
+	"Cargo [4]: offered"
+	"Colonists [0]: done" 3
+	"Colonists [0]: offered" 3
+	"Colonists [1]: done"
+	"Colonists [1]: offered"
+	"Defend Sabik: done"
+	"Defend Sabik: offered"
+	"Drak guarding Korath space: active"
+	"Drak guarding Korath space: offered"
+	"Drak guarding Sayaiban: active"
+	"Drak guarding Sayaiban: offered"
+	"Enigma Corp 1: offered"
+	"Enigma Corp 2: offered"
+	"Escort (Extra Large, Southern): done" 4
+	"Escort (Extra Large, Southern): offered" 4
+	"Escort (Large, Core): done" 5
+	"Escort (Large, Core): offered" 5
+	"Escort (Large, Northern): done"
+	"Escort (Large, Northern): offered"
+	"Escort (Large, Southern): done" 6
+	"Escort (Large, Southern): offered" 6
+	"Escort (Medium, Core): done" 3
+	"Escort (Medium, Core): offered" 3
+	"Escort (Medium, Northern): done"
+	"Escort (Medium, Northern): offered"
+	"Escort (Medium, Southern): done" 6
+	"Escort (Medium, Southern): offered" 6
+	"Escort (Small, Core): done" 5
+	"Escort (Small, Core): offered" 6
+	"Escort (Small, Southern): done" 13
+	"Escort (Small, Southern): offered" 15
+	"Escort (Southern Convoy): done"
+	"Escort (Southern Convoy): offered"
+	"Escort (Tiny, Core): done" 12
+	"Escort (Tiny, Core): offered" 12
+	"Escort (Tiny, Northern): done"
+	"Escort (Tiny, Northern): offered"
+	"Escort (Tiny, Southern): done" 3
+	"Escort (Tiny, Southern): offered" 3
+	"Expedition to Hope 1: done"
+	"Expedition to Hope 1: offered"
+	"Expedition to Hope 2: done"
+	"Expedition to Hope 2: offered"
+	"FW Commitment: done"
+	"FW Commitment: offered"
+	"FW Escort 1: done"
+	"FW Escort 1: offered"
+	"FW Escort 1B: done"
+	"FW Escort 1B: offered"
+	"FW Escort 2: done"
+	"FW Escort 2: offered"
+	"FW Escort 2B: done"
+	"FW Escort 2B: offered"
+	"FW Escort 3: done"
+	"FW Escort 3: offered"
+	"FW Katya 1: done"
+	"FW Katya 1: offered"
+	"FW Katya 1B: done"
+	"FW Katya 1B: offered"
+	"FW Katya 1C: offered"
+	"FW Katya 2: done"
+	"FW Katya 2: offered"
+	"FW Katya 2B: done"
+	"FW Katya 2B: offered"
+	"FW Katya 2C: done"
+	"FW Katya 2C: offered"
+	"FW Katya 3: done"
+	"FW Katya 3: offered"
+	"FW Katya 4: done"
+	"FW Katya 4: offered"
+	"FW Katya 5: done"
+	"FW Katya 5: offered"
+	"FW Katya 5B: done"
+	"FW Katya 5B: offered"
+	"FW Katya 5C: done"
+	"FW Katya 5C: offered"
+	"FW Katya 6: done"
+	"FW Katya 6: offered"
+	"FW Katya 6B: done"
+	"FW Katya 6B: offered"
+	"FW Katya 6C: done"
+	"FW Katya 6C: offered"
+	"FW Katya 7: done"
+	"FW Katya 7: offered"
+	"FW Katya 7B: done"
+	"FW Katya 7B: offered"
+	"FW Katya 7C: done"
+	"FW Katya 7C: offered"
+	"FW Prisoner Parole 2: done"
+	"FW Prisoner Parole 2: offered"
+	"FW Prisoner Parole: done"
+	"FW Prisoner Parole: offered"
+	"FW Recon 0: done"
+	"FW Recon 0: offered"
+	"FW Recon 1: done"
+	"FW Recon 1: offered"
+	"FW Recon 2: done"
+	"FW Recon 2: offered"
+	"FW Recon 3: done"
+	"FW Recon 3: offered"
+	"FW Recon 3B: done"
+	"FW Recon 3B: offered"
+	"FW Syndicate Diplomacy 1: done"
+	"FW Syndicate Diplomacy 1: offered"
+	"FW Syndicate Diplomacy 1B: done"
+	"FW Syndicate Diplomacy 1B: offered"
+	"FW Syndicate Diplomacy 1C: active"
+	"FW Syndicate Diplomacy 1C: offered"
+	"FWCarrier License: offered"
+	"Family [0]: done" 4
+	"Family [0]: offered" 4
+	"Family [1]: done"
+	"Family [1]: offered"
+	"First Contact: Quarg: offered"
+	"Intro [0]: done"
+	"Intro [0]: offered"
+	"Intro [1 Interceptor]: done"
+	"Intro [1 Interceptor]: offered"
+	"Intro [2 Interceptor]: done"
+	"Intro [2 Interceptor]: offered"
+	"Intro [3 Interceptor]: done"
+	"Intro [3 Interceptor]: offered"
+	"Large Bulk Delivery [0]: done" 6
+	"Large Bulk Delivery [0]: offered" 6
+	"Large Bulk Delivery [1]: done" 5
+	"Large Bulk Delivery [1]: offered" 5
+	"Large Bulk Delivery [2]: done" 2
+	"Large Bulk Delivery [2]: offered" 2
+	"Large Rush Delivery [0]: done" 7
+	"Large Rush Delivery [0]: offered" 7
+	"Large Rush Delivery [2]: offered"
+	"Large Rush Delivery [3]: done"
+	"Large Rush Delivery [3]: offered"
+	"Liberate Kornephoros: done"
+	"Liberate Kornephoros: offered"
+	"Outfitters on Helheim: done"
+	"Outfitters on Helheim: offered"
+	"Pact Recon 0: done"
+	"Pact Recon 0: offered"
+	"Pact Recon 1: done"
+	"Pact Recon 1: offered"
+	"Pact Recon 2: done"
+	"Pact Recon 2: offered"
+	"Passengers [0]: done" 7
+	"Passengers [0]: offered" 7
+	"Passengers [1]: done" 7
+	"Passengers [1]: offered" 8
+	"Passengers [2]: done" 7
+	"Passengers [2]: offered" 7
+	"Passengers [3]: done" 3
+	"Passengers [3]: offered" 3
+	"Pleasure cruise security: offered"
+	"Pug in Enclave galaxy: active"
+	"Pug in Enclave galaxy: offered"
+	"Rescue Katya 1: done"
+	"Rescue Katya 1: offered"
+	"Rescue Katya 2: done"
+	"Rescue Katya 2: offered"
+	"Rush Delivery [0]: done" 10
+	"Rush Delivery [0]: offered" 10
+	"Rush Delivery [1]: done" 4
+	"Rush Delivery [1]: offered" 5
+	"Rush Delivery [2]: done"
+	"Rush Delivery [2]: offered"
+	"Southern Carriers Trigger: offered"
+	"Strike Breakers [textile]: done"
+	"Strike Breakers [textile]: offered"
+	"Tourists back [2]: done"
+	"Tourists back [2]: offered"
+	"Tourists out [0]: done" 3
+	"Tourists out [0]: offered" 3
+	"Tourists out [1]: done" 2
+	"Tourists out [1]: offered" 2
+	"Tourists out [2]: done"
+	"Tourists out [2]: offered"
+	"Transport farmers to <planet>: done" 4
+	"Transport farmers to <planet>: offered" 4
+	"Transport mill workers to <planet>: done" 6
+	"Transport mill workers to <planet>: offered" 6
+	"Transport miners to <planet>: done"
+	"Transport miners to <planet>: offered"
+	"Transport workers to <planet>: done" 11
+	"Transport workers to <planet>: offered" 11
+	"assisted free worlds" 3
+	"cargo space" 570
+	"chosen sides"
+	"combat rating" 1693
+	day 4
+	"event: Andromedan Check"
+	"event: Enigma Corp 1"
+	"event: Enigma Corp 2"
+	"event: capture of Kornephoros"
+	"event: helheim outfitter"
+	"event: initial deployment 1"
+	"event: initial deployment 2"
+	"event: initial deployment 3"
+	"event: initial deployment 4"
+	"event: joined the free worlds"
+	"event: prepare for battle of Kornephoros"
+	"event: recapture of Kornephoros"
+	"event: remembrance day"
+	"event: southern carriers 1"
+	"event: southern carriers 2"
+	"event: southern carriers 3"
+	"event: southern carriers 4"
+	"event: start of hostilities"
+	"event: stealth cruiser"
+	"event: stealth cruiser fleet service"
+	"event: temporary ceasefire"
+	"event: tyil set up"
+	"event: war begins"
+	"event: war begins: offered"
+	"license: Militia Carrier"
+	"license: Pilot's"
+	month 2
+	"net worth" 165952941
+	"passenger space" 227
+	random 59
+	"remembrance day: offered"
+	"reputation:  Enigma Corp " 119
+	"reputation: Alpha" -1000
+	"reputation: Alr" -5
+	"reputation: Andromedan" -1000
+	"reputation: Author"
+	"reputation: Avendri"
+	"reputation: Bad Trip" -1000
+	"reputation: Blue Team" 1000
+	"reputation: Bounty" -1090
+	"reputation: Bounty Hunter" -1000
+	"reputation: Da Bezt Person"
+	"reputation: Deep" -1000
+	"reputation: Derelict" 10
+	"reputation: Derpy Horse" -500001
+	"reputation: Drak"
+	"reputation: Enclave" 1070
+	"reputation: Enigma Corp" 119
+	"reputation: Erufiams"
+	"reputation: Federation" 13
+	"reputation: Free Worlds" 720
+	"reputation: Hai (Unfettered)" -1000
+	"reputation: Independent" 10
+	"reputation: Kor Efret"
+	"reputation: Kor Mereti" -1000
+	"reputation: Kor Sestor" -1000
+	"reputation: Korath" -10
+	"reputation: Korath Nanobots" -1000
+	"reputation: Merchant" 249
+	"reputation: Militia" 478
+	"reputation: Navy (Oathkeeper)" 458
+	"reputation: Navy Intelligence" 358
+	"reputation: Neutral" 240
+	"reputation: Parrot"
+	"reputation: Pirate" -1205
+	"reputation: Pug" 120
+	"reputation: Quarg" 120
+	"reputation: Red Team" 1000
+	"reputation: Republic" -1596
+	"reputation: Sentarians" -10000
+	"reputation: Space" -1000
+	"reputation: Syndicate" 480
+	"reputation: Syndicate (Extremist)" -879
+	"reputation: Takarada Kaneo"
+	"reputation: Team Blue" -1000
+	"reputation: Team Red" -1000
+	"reputation: Test Dummy" -1000
+	"reputation: Unknown Ones"
+	"reputation: Wanderer"
+	"reputation: XSZ Corporation" 605
+	"reputation: hingeCorp"
+	"salary: Free Worlds" 300
+	"ships: Heavy Freighter" 4
+	"ships: Heavy Warship"
+	"shiptester3: active"
+	"shiptester3: offered"
+	"stealth cruiser: offered"
+	"tyil: offered"
+	year 3016
+"map coloring" -6
+event
+	date 27 2 3017
+	"event: geminus fixed" = 1
+	planet Geminus
+		shipyard "Basic Ships"
+		shipyard "Navy Basics"
+		shipyard "Navy Advanced"
+		shipyard "Betelgeuse Basics"
+		shipyard "Lionheart Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo North"
+		outfitter "Lovelace Advanced"
+		outfitter "Syndicate Basics"
+event
+	date 23 3 3020
+	"event: kriegsmacher" = 1
+	planet Geminus
+		shipyard Warmaker
+event
+	date 27 2 3016
+	"event: oathkeepers founded" = 1
+	system Canopus
+		fleet "Small Northern Merchants" 900
+		fleet "Large Northern Merchants" 700
+		fleet "Small Oathkeeper" 1000
+		fleet "Large Oathkeeper" 2000
+	system Alheka
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Oathkeeper" 1200
+		fleet "Large Oathkeeper" 4000
+		fleet "Small Northern Pirates" 2000
+		fleet "Large Northern Pirates" 2000
+	system Mirzam
+		fleet "Small Northern Merchants" 2000
+		fleet "Large Northern Merchants" 2000
+		fleet "Small Oathkeeper" 3000
+		fleet "Large Oathkeeper" 4000
+		fleet "Small Northern Pirates" 5000
+		fleet "Large Northern Pirates" 8000
+	system Mebsuta
+		fleet "Small Northern Merchants" 3000
+		fleet "Large Northern Merchants" 5000
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Small Oathkeeper" 12000
+	system Betelgeuse
+		fleet "Small Northern Merchants" 2000
+		fleet "Large Northern Merchants" 800
+		fleet "Small Oathkeeper" 1000
+		fleet "Large Oathkeeper" 2000
+		fleet "Large Northern Pirates" 4000
+	system Rigel
+		fleet "Small Northern Merchants" 2000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Oathkeeper" 1000
+		fleet "Large Oathkeeper" 2000
+		fleet "Small Northern Pirates" 3000
+		fleet "Large Northern Pirates" 5000
+	system Alnitak
+		fleet "Small Northern Pirates" 3000
+		fleet "Large Northern Pirates" 5000
+		fleet "Small Oathkeeper" 500
+		fleet "Large Oathkeeper" 1000
+	system Saiph
+		fleet "Small Northern Merchants" 1200
+		fleet "Large Northern Merchants" 2000
+		fleet "Small Northern Pirates" 2000
+		fleet "Large Northern Pirates" 3000
+		fleet "Small Oathkeeper" 1000
+		fleet "Large Oathkeeper" 2000
+	system Mintaka
+		fleet "Small Northern Pirates" 2000
+		fleet "Large Northern Pirates" 2000
+		fleet "Large Oathkeeper" 2000
+		fleet "Small Northern Merchants" 4000
+	system Almaaz
+		fleet "Small Northern Pirates" 500
+		fleet "Large Northern Pirates" 600
+		fleet "Large Oathkeeper" 4000
+	system Gorvi
+		fleet "Small Northern Pirates" 1000
+		fleet "Large Northern Pirates" 1000
+		fleet "Large Oathkeeper" 4000
+		fleet "Small Northern Merchants" 8000
+	system Tortor
+		fleet "Small Northern Pirates" 1000
+		fleet "Large Northern Pirates" 1000
+		fleet "Large Oathkeeper" 6000
+		fleet "Small Northern Merchants" 6000
+	planet Farpoint
+		description "Farpoint, on the northernmost end of human space, is a rocky desert planet home to a Republic Navy base and not much else. Farming is possible only within greenhouses, and this system is too far from the galactic center to be desirable for trade or industry."
+		description "	Lately the Navy base on Farpoint is growing, because it has become the new home of the Navy Oathkeepers, a small branch of the Navy that has sworn to stay uninvolved in the conflict with the Free Worlds."
+event
+	date 4 2 3016
+	"event: Tarazed neutrality" = 1
+	system Tarazed
+		government Neutral
+	system Dabih
+		government Neutral
+	system Albireo
+		government Neutral
+	system Girtab
+		government Neutral
+changes
+	fleet "Large Republic"
+		government Republic
+		names "republic capital"
+		fighters "republic fighter"
+		cargo 0
+		personality
+			heroic
+		variant 5
+			Frigate 2
+			Rainmaker
+			Gunboat
+		variant 3
+			Cruiser
+			"Combat Drone" 4
+		variant 3
+			Cruiser
+			"Combat Drone" 4
+			Frigate
+			Rainmaker
+		variant 2
+			Carrier
+			Lance 4
+			"Combat Drone" 6
+		variant 1
+			Carrier
+			Lance 4
+			"Combat Drone" 6
+			Cruiser
+			"Combat Drone" 4
+			Frigate 2
+			Rainmaker 2
+			Gunboat 2
+		variant 1
+			Cruiser
+			"Combat Drone" 4
+			Frigate 2
+		variant 1
+			Frigate
+			Rainmaker 2
+			Gunboat
+		variant 1
+			"Stealth Cruiser (Navy MkI)" 2
+	planet Helheim
+		outfitter "Deep Sky Basics"
+	planet Tyil
+		shipyard "Tyil Basics"
+		shipyard "Tyil Advanced"
+		shipyard "Betelgeuse Basics"
+		shipyard "Lionheart Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo South"
+		outfitter "Tyil Advanced"
+		outfitter "Pirate Outfits"
+		description "Tyil is the homeplanet of Tyil Corporation. Only here can the Goose and the Grenade Launcher be bought as Tyil Corporation has patented their Grenade Launcher."
+	planet "Aurum Station"
+		shipyard "Tyil Basics"
+		outfitter "Common Outfits"
+		outfitter "Ammo South"
+		outfitter "Tyil Basics"
+		outfitter "Pirate Outfits"
+		description "Aurum Station is the only other place that Tyil Corporation sells outfits. The station is quite empty though."
+	system "Gamma Corvi"
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1300
+	system Spica
+		government "Free Worlds"
+	system Minkar
+		government "Free Worlds"
+	system Acrux
+		government "Free Worlds"
+	system Mimosa
+		government "Free Worlds"
+	system Kraz
+		government "Free Worlds"
+	system Izar
+		government "Free Worlds"
+	system "Zeta Centauri"
+		government "Free Worlds"
+	system Hadar
+		government "Free Worlds"
+	system Alkaid
+		government "Free Worlds"
+	system Zubeneschamali
+		government "Free Worlds"
+	system Kochab
+		government "Free Worlds"
+	system Ildaria
+		government "Free Worlds"
+	system Zubenelgenubi
+		government "Free Worlds"
+	system Sabik
+		government "Free Worlds"
+	system Unukalhai
+		government "Free Worlds"
+	system Kornephoros
+		government "Free Worlds"
+	system Sargas
+		government "Free Worlds"
+	system Lesath
+		government "Free Worlds"
+	system Aldhibain
+		government "Free Worlds"
+	system Dschubba
+		government "Free Worlds"
+	system Atria
+		government "Free Worlds"
+	system Alniyat
+		government "Free Worlds"
+	system Han
+		government "Free Worlds"
+	system Pherkad
+		government "Free Worlds"
+	system "Yed Prior"
+		government "Free Worlds"
+	system "Beta Lupi"
+		government "Free Worlds"
+	system "Kappa Centauri"
+		government "Free Worlds"
+	system Castor
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 800
+		fleet "Large Republic" 400
+	system Pollux
+		fleet "Small Northern Merchants" 700
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Vega
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1000
+	system Denebola
+		fleet "Small Northern Merchants" 1000
+		fleet "Large Northern Merchants" 3000
+		fleet "Small Republic" 700
+		fleet "Large Republic" 900
+	system Merak
+		fleet "Small Northern Merchants" 1500
+		fleet "Large Northern Merchants" 4000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1300
+	planet Geminus
+		description "Until recently, Geminus was home to the Republic Navy Yard, the largest shipyard in human space. Now, there is nothing left of the shipyard but a gaping crater in the ground, from the recent terrorist bombing."
+		spaceport "Fortunately, the spaceport and residential areas survived the bombing, which was focused only on the Navy yard and happened early in the morning, when very few people were at work."
+		spaceport "The Navy officers who are in charge here have no time for anyone who is not enlisted in the Navy and participating in the ongoing investigation."
+		shipyard clear
+		outfitter clear
+		"required reputation" 100
+	planet Martini
+		description "Martini is a world of exotic beaches and perfect weather. The Republic's central bank and the galactic stock exchange were previously headquartered here, before a terrorist attack destroyed them and a large portion of the capital city as well."
+		"required reputation" 100
+		security .9
+	planet Bourne
+		description "Bourne is a well-developed industrial world that was first settled four centuries ago. Its cities are home to some of the richest individuals in this section of the galaxy, but also home to tens of thousands of homeless people, and many others whose factory jobs are barely providing enough to make ends meet."
+		description "Bourne is also the seat of government for the newly formed Coalition of Free Worlds."
+	planet "Enigma Alpha"
+		outfitter "Enigma Basic"
+	planet "Enigma Sigma"
+		outfitter "Enigma Basic"
+	planet "Enigma Mu"
+		outfitter "Enigma Basic"
+	planet "Enigma Epsilon"
+		outfitter "Enigma Basic"
+	planet "Enigma Zeta"
+		outfitter "Enigma Basic"
+	system Spica
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1500
+	system Minkar
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1200
+	system Mimosa
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2300
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 1900
+	system Kraz
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 900
+	system Acrux
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1100
+	system "Tania Australis"
+		fleet "Small Northern Merchants" 1400
+		fleet "Large Northern Merchants" 2900
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Navy Surveillance" 2000
+	planet Ingot
+		description "Ingot is a volcanic moon, totally unsuitable for life but rich in metal. The miners who work here must spend all their time inside pressurized buildings. Because Ingot has almost no atmosphere to slow them down, meteorites are a constant danger to the colonists. The shells of the buildings have multiple layers, designed to be self-sealing in any but the largest of impacts. Most of the mining is done remotely by robotic vehicles, but someone still needs to be present to control them and to make repairs when something goes wrong."
+		description "Ingot is also now home to a burgeoning Navy base, although since the planet is so unlivable most of the troops are just living in ships in orbit."
+	system Fala
+		fleet "Small Northern Merchants" 1900
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Republic" 600
+		fleet "Large Republic" 400
+		fleet "Small Northern Pirates" 4000
+		fleet "Large Northern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	system Phecda
+		fleet "Small Northern Merchants" 900
+		fleet "Small Southern Merchants" 1100
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 2000
+	system Algorel
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1200
+		fleet "Small Republic" 700
+		fleet "Large Republic" 500
+		fleet "Small Southern Pirates" 2500
+		fleet "Large Southern Pirates" 8000
+		fleet "Navy Surveillance" 2000
+	planet "New Wales"
+		description "New Wales is home to a few mining outposts which extract and refine rare earth minerals and heavy metals. It is dangerous work: the mines are deep underground and prone to noxious gases and cave-ins, and the refineries work with molten radioactive materials and caustic chemicals. Due to the somewhat dim light of the star Algorel, and the cloudiness of the atmosphere, this is not a good world for farming, and the population remains quite small."
+		description "The Republic Navy has planted a base on New Wales: so far, just a densely packed cluster of prefabricated barracks and infirmary buildings on the outskirts of one of the mining colonies."
+	system Porrima
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Ipsing
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 7000
+		fleet "Small Republic" 2500
+		fleet "Large Republic" 4000
+		fleet "Small Southern Pirates" 5000
+		fleet "Navy Surveillance" 2000
+	system Mizar
+		fleet "Small Southern Merchants" 1400
+		fleet "Large Southern Merchants" 4500
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1400
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Muphrid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4800
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 1900
+		fleet "Small Southern Pirates" 9000
+		fleet "Navy Surveillance" 2000
+	system Menkent
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Republic" 500
+		fleet "Large Republic" 600
+		fleet "Navy Surveillance" 2000
+	planet "New Austria"
+		description "New Austria is a rugged mountain world, full of snow-capped peaks and valleys so deep and so steep that they rarely see sunlight. The few settlements that have been built here were developed for mining sapphires and rubies; the sapphires found in New Austria range from blue to yellow to black to clear in color, and are used both for industrial abrasives and for jewelry."
+		description "The Navy has recently requisitioned one of the abandoned mining towns and begun refurbishing it for a secure military base, with the mining tunnels used as deep underground bunkers."
+	shipyard "Syndicate Basics"
+		Barb
+	outfitter "Syndicate Basics"
+		"X1050 Ion Engines"
+	planet Martini
+		"required reputation" 10
+	system Izar
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1500
+		fleet "Small Free Worlds" 700
+		fleet "Large Free Worlds" 1000
+	system "Zeta Centauri"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1700
+		fleet "Small Free Worlds" 1200
+		fleet "Large Free Worlds" 2000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 9000
+	system Hadar
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 1100
+	system Alkaid
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Free Worlds" 6000
+		fleet "Large Free Worlds" 10000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+	system Zubeneschamali
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 1400
+		fleet "Large Free Worlds" 2400
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 5000
+	system Kochab
+		fleet "Small Southern Merchants" 1800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Free Worlds" 5000
+	system Ildaria
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 1800
+		fleet "Small Free Worlds" 2200
+		fleet "Large Free Worlds" 3600
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 7000
+	system Mora
+		fleet "Small Southern Merchants" 2800
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system "Delta Velorum"
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Republic" 1600
+		fleet "Large Republic" 2400
+		fleet "Navy Surveillance" 1600
+	system Turais
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 6000
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Gacrux
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Southern Merchants" 5000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system "Cor Caroli"
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 1300
+		fleet "Small Southern Pirates" 2000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1800
+		fleet "Navy Surveillance" 1600
+	system Muhlifain
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Vindemiatrix
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Sarin
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Republic" 8000
+		fleet "Large Republic" 15000
+		fleet "Navy Surveillance" 1600
+	system Alioth
+		fleet "Small Southern Merchants" 400
+		fleet "Large Northern Merchants" 600
+		fleet "Small Southern Pirates" 1200
+		fleet "Large Southern Pirates" 2400
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Holeb
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Arcturus
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 2000
+		fleet "Large Republic" 3000
+		fleet "Navy Surveillance" 1600
+	system Rutilicus
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Alphecca
+		fleet "Small Southern Merchants" 2000
+		fleet "Large Northern Merchants" 3500
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Boral
+		fleet "Small Southern Merchants" 3000
+		fleet "Large Northern Merchants" 8000
+		fleet "Small Southern Pirates" 1500
+		fleet "Small Republic" 7000
+		fleet "Large Republic" 12000
+		fleet "Navy Surveillance" 1600
+	system Cebalrai
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 2000
+		fleet "Navy Surveillance" 1600
+	system Rasalhague
+		fleet "Small Southern Merchants" 1500
+		fleet "Large Southern Merchants" 2000
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 3000
+		fleet "Large Republic" 4000
+		fleet "Navy Surveillance" 1600
+	system Zubenelgenubi
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 900
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+	system Unukalhai
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 3000
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 6000
+	system Sabik
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 600
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1600
+	system Aldhibain
+		fleet "Small Southern Merchants" 400
+		fleet "Large Southern Merchants" 500
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 700
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+	system Kornephoros
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 700
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2000
+	system Wei
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 800
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Seginus
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1200
+		fleet "Large Republic" 1400
+		fleet "Navy Surveillance" 1200
+	system Alnasl
+		fleet "Small Southern Merchants" 1300
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 6000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 1100
+		fleet "Navy Surveillance" 1200
+	system Eber
+		fleet "Small Southern Merchants" 1900
+		fleet "Large Southern Merchants" 2900
+		fleet "Small Southern Pirates" 3000
+		fleet "Small Republic" 1000
+		fleet "Large Republic" 1500
+		fleet "Navy Surveillance" 1200
+	system "Alpha Arae"
+		fleet "Small Southern Merchants" 2100
+		fleet "Large Southern Merchants" 8000
+		fleet "Small Southern Pirates" 6000
+		fleet "Large Southern Pirates" 13000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	system "Kaus Borealis"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 8000
+		fleet "Small Republic" 1100
+		fleet "Large Republic" 800
+		fleet "Navy Surveillance" 1200
+	planet Geminus
+		"required reputation" 10
+	system Sargas
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 2500
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 5000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 1500
+		fleet "Navy Surveillance" 800
+	system Dschubba
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 6000
+		fleet "Small Free Worlds" 2000
+		fleet "Large Free Worlds" 3000
+		fleet "Navy Surveillance" 800
+	system Lesath
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1600
+		fleet "Small Southern Pirates" 3000
+		fleet "Large Southern Pirates" 7000
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1100
+		fleet "Navy Surveillance" 800
+	system Atria
+		fleet "Small Southern Merchants" 700
+		fleet "Large Southern Merchants" 2600
+		fleet "Small Southern Pirates" 5000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Free Worlds" 1000
+		fleet "Large Free Worlds" 2100
+	system Alniyat
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 600
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 4000
+		fleet "Small Free Worlds" 1500
+		fleet "Large Free Worlds" 4000
+	system Han
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 4000
+		fleet "Small Southern Pirates" 2000
+		fleet "Large Southern Pirates" 9000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 8000
+	system Pherkad
+		fleet "Small Southern Merchants" 500
+		fleet "Large Southern Merchants" 700
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 1900
+	system "Beta Lupi"
+		fleet "Small Southern Merchants" 800
+		fleet "Small Southern Pirates" 1100
+		fleet "Large Southern Pirates" 1600
+		fleet "Small Free Worlds" 4000
+		fleet "Large Free Worlds" 8000
+	system "Yed Prior"
+		fleet "Small Northern Merchants" 800
+		fleet "Large Northern Merchants" 1100
+		fleet "Small Southern Pirates" 1000
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 5000
+		fleet "Large Free Worlds" 8000
+	system "Kappa Centauri"
+		fleet "Small Southern Merchants" 900
+		fleet "Large Southern Merchants" 2700
+		fleet "Small Southern Pirates" 1600
+		fleet "Large Southern Pirates" 2000
+		fleet "Small Free Worlds" 3000
+		fleet "Large Free Worlds" 5000
+	system Rastaban
+		fleet "Small Southern Merchants" 1000
+		fleet "Large Southern Merchants" 1900
+		fleet "Small Southern Pirates" 4000
+		fleet "Large Southern Pirates" 8000
+		fleet "Small Republic" 900
+		fleet "Large Republic" 700
+		fleet "Navy Surveillance" 1200
+	system Sabik
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 800
+		fleet "Large Free Worlds" 1200
+		fleet "Navy Surveillance" 800
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+		fleet "Small Southern Pirates" 1400
+		fleet "Large Southern Pirates" 3000
+		fleet "Navy Surveillance" 800
+	system Kornephoros
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Southern Pirates" 5000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+		fleet "Navy Surveillance" 800
+	shipyard "Syndicate Basics"
+		Barb
+	shipyard "Southbound Basics"
+		Finch
+	shipyard "Southbound Advanced"
+		Nest
+	outfitter "Syndicate Advanced"
+		"X1050 Ion Engines"
+	fleet "Small Free Worlds"
+		fighters "free worlds fighters"
+		variant 8
+			Hawk
+			Sparrow
+		variant 4
+			Hawk
+			Fury
+		variant 2
+			Hawk
+			"Fury (Missile)"
+		variant 2
+			Hawk
+			"Fury (Laser)"
+		variant 4
+			Fury 2
+		variant 2
+			"Fury (Laser)"
+			"Fury (Missile)"
+		variant 10
+			Sparrow 2
+		variant 2
+			Hawk
+		variant 1
+			"Hawk (Rocket)"
+		variant 1
+			"Hawk (Speedy)"
+		variant 2
+			Sparrow
+		variant 2
+			Osprey
+		variant 4
+			Hawk
+			Sparrow 2
+		variant 2
+			"Hawk (Rocket)"
+			Sparrow 2
+		variant 2
+			"Hawk (Speedy)"
+			Sparrow 2
+		variant 1
+			Nest
+			Finch 2
+	shipyard "Southbound Basics"
+		Boxwing
+	shipyard "Southbound Advanced"
+		Roost
+		Skein
+	shipyard "Syndicate Basics"
+		"Barb (Proton)"
+	outfitter "Syndicate Basics"
+		"X1050 Ion Engines"
+	fleet "Large Southern Merchants"
+		fighters "free worlds fighter"
+		variant 20
+			Freighter
+			Hawk
+		variant 10
+			"Freighter (Fancy)"
+			Hawk
+		variant 30
+			Freighter 2
+			Sparrow 2
+		variant 10
+			"Freighter (Fancy)"
+			Freighter
+			Sparrow 2
+		variant 30
+			Argosy
+		variant 20
+			"Argosy (Laser)"
+		variant 15
+			"Argosy (Missile)"
+		variant 25
+			"Argosy (Blaster)"
+		variant 15
+			"Argosy (Turret)"
+		variant 10
+			Bastion
+			Freighter 3
+		variant 10
+			"Bastion (Heavy)"
+			"Freighter (Fancy)" 3
+		variant 10
+			"Bastion (Laser)"
+			Freighter 3
+		variant 20
+			Bastion
+			Argosy
+		variant 10
+			"Bastion (Heavy)"
+			"Argosy (Missile)"
+		variant 10
+			"Bastion (Laser)"
+			"Argosy (Laser)"
+		variant 10
+			Bastion
+			Freighter 3
+			"Star Barge" 4
+			Fury
+			Sparrow 2
+		variant 3
+			"Bastion (Heavy)"
+			"Freighter (Fancy)" 3
+			"Star Barge (Armed)" 4
+			"Fury (Missile)"
+			Sparrow 2
+		variant 20
+			Argosy 2
+		variant 10
+			"Argosy (Blaster)"
+			"Argosy (Laser)"
+		variant 10
+			"Argosy (Turret)"
+			"Argosy (Missile)"
+		variant 10
+			Blackbird
+			Sparrow 2
+		variant 2
+			Bactrian
+			Dagger 3
+		variant 12
+			"Hauler III"
+			"Hauler II"
+			Hauler
+		variant 8
+			"Hauler II"
+			Hauler 2
+		variant 6
+			"Hauler III"
+			Berserker 2
+		variant 15
+			"Hauler III"
+			Nest
+			Finch 2
+		variant 15
+			Argosy
+			"Hauler II"
+			Nest
+			Finch 2
+		variant 5
+			"Hauler III" 3
+			Roost
+			Finch 4
+		variant 5
+			Roost 3
+			Finch 6
+			Boxwing 6
+	fleet "Small Independent"
+		fighters "free worlds fighter"
+		variant 8
+			Sparrow
+		variant 3
+			Hawk
+		variant 2
+			"Hawk (Speedy)"
+		variant 2
+			"Hawk (Rocket)"
+		variant 5
+			Fury
+		variant 2
+			"Fury (Laser)"
+		variant 1
+			"Fury (Missile)"
+		variant 2
+			Sparrow 2
+		variant 1
+			Hawk
+			Sparrow
+		variant 1
+			"Hawk (Speedy)"
+			Sparrow
+		variant 1
+			Fury 3
+		variant 1
+			"Fury (Missile)" 3
+		variant 1
+			Fury
+			Hawk
+		variant 1
+			Hawk
+			Fury
+			Sparrow
+		variant 1
+			"Hawk (Rocket)"
+			"Fury (Missile)"
+			Sparrow
+		variant 1
+			Sparrow 3
+		variant 1
+			Hawk 2
+		variant 1
+			"Hawk (Speedy)" 2
+		variant 2
+			Clipper
+		variant 1
+			"Clipper (Heavy)"
+		variant 1
+			"Clipper (Speedy)"
+		variant 1
+			Nest
+			Barb 2
+		variant 1
+			Nest
+			Barb
+			Boxwing
+	shipyard "Tarazed Basics"
+		Finch
+		Barb
+	shipyard "Tarazed Advanced"
+		Nest
+		Roost
+		Skein
+	fleet "Large Free Worlds"
+		fighters "free worlds fighters"
+		variant 10
+			Bastion
+		variant 5
+			"Bastion (Heavy)"
+		variant 5
+			"Bastion (Laser)"
+		variant 8
+			Osprey
+			Fury
+		variant 4
+			"Osprey (Missile)"
+			"Fury (Missile)"
+		variant 4
+			"Osprey (Laser)"
+			"Fury (Laser)"
+		variant 4
+			Argosy
+		variant 3
+			"Argosy (Blaster)"
+		variant 2
+			"Argosy (Laser)"
+		variant 2
+			"Argosy (Missile)"
+		variant 2
+			"Argosy (Turret)"
+		variant 6
+			Bastion
+			Osprey
+		variant 3
+			"Bastion (Heavy)"
+			"Osprey (Missile)"
+		variant 3
+			"Bastion (Laser)"
+			"Osprey (Laser)"
+		variant 4
+			Bastion
+			Sparrow 2
+		variant 2
+			"Bastion (Heavy)"
+			Sparrow 2
+		variant 2
+			"Bastion (Laser)"
+			Sparrow 2
+		variant 2
+			Falcon
+		variant 1
+			"Falcon (Heavy)"
+		variant 1
+			"Falcon (Laser)"
+		variant 2
+			Falcon
+			Hawk 2
+			Sparrow 3
+		variant 1
+			"Falcon (Heavy)"
+			Hawk 2
+			Sparrow 3
+		variant 1
+			"Falcon (Laser)"
+			Hawk 2
+			Sparrow 3
+		variant 4
+			Falcon
+			Bastion
+			Hawk
+		variant 2
+			"Falcon (Heavy)"
+			"Bastion (Heavy)"
+			"Hawk (Rocket)"
+		variant 2
+			"Falcon (Laser)"
+			"Bastion (Laser)"
+			"Hawk (Speedy)"
+		variant 2
+			Roost
+			Finch 4
+		variant 2
+			Skein
+			Finch 6
+		variant 1
+			Roost 2
+			Finch 6
+			Boxwing 2
+		variant 1
+			Skein 2
+			Finch 8
+			Boxwing 4
+	fleet "Small Southern Pirates"
+		variant 8
+			Sparrow
+		variant 3
+			Hawk
+		variant 2
+			"Hawk (Speedy)"
+		variant 2
+			"Hawk (Rocket)"
+		variant 5
+			Fury
+		variant 1
+			"Fury (Laser)"
+		variant 1
+			"Fury (Gatling)"
+		variant 1
+			"Fury (Missile)"
+		variant 2
+			Sparrow 2
+		variant 1
+			Hawk
+			Sparrow
+		variant 1
+			"Hawk (Speedy)"
+			Sparrow
+		variant 1
+			Fury 3
+		variant 1
+			"Fury (Missile)" 3
+		variant 1
+			Fury
+			Hawk
+		variant 1
+			Hawk
+			Fury
+			Sparrow
+		variant 1
+			"Hawk (Rocket)"
+			"Fury (Missile)"
+			Sparrow
+		variant 1
+			Sparrow 3
+		variant 1
+			Hawk 2
+		variant 1
+			"Hawk (Speedy)" 2
+		variant 2
+			Clipper
+		variant 1
+			"Clipper (Heavy)"
+		variant 1
+			"Clipper (Speedy)"
+		variant 1
+			"Modified Argosy"
+		variant 1
+			Nest
+			Barb 2
+		variant 1
+			Nest
+			"Barb (Gatling)" 2
+	fleet "Large Northern Merchants"
+		fighters "free worlds fighter"
+		variant 20
+			Freighter 2
+			Firebird
+		variant 6
+			Freighter 2
+			Berserker 2
+		variant 3
+			Freighter 2
+			"Berserker (Afterburner)" 2
+		variant 10
+			Freighter 2
+			"Firebird (Plasma)"
+		variant 10
+			Freighter 2
+			"Firebird (Missile)"
+		variant 10
+			Freighter 3
+			Firebird
+		variant 2
+			Freighter 3
+			"Firebird (Plasma)"
+		variant 2
+			Freighter 3
+			"Firebird (Missile)"
+		variant 20
+			Freighter 2
+			Corvette
+		variant 10
+			Freighter 2
+			"Corvette (Speedy)"
+		variant 10
+			Freighter 2
+			"Corvette (Missile)"
+		variant 10
+			Freighter 3
+			Corvette
+		variant 3
+			Freighter 3
+			"Corvette (Speedy)"
+		variant 3
+			Freighter 3
+			"Corvette (Missile)"
+		variant 6
+			Freighter 4
+			Leviathan
+		variant 6
+			Freighter 4
+			"Leviathan (Heavy)"
+		variant 6
+			Freighter 4
+			"Leviathan (Laser)"
+		variant 30
+			Behemoth
+		variant 10
+			"Behemoth (Speedy)"
+		variant 10
+			Behemoth 2
+		variant 4
+			Behemoth
+			Headhunter 2
+		variant 2
+			Behemoth
+			"Headhunter (Particle)" 2
+		variant 4
+			"Bulk Freighter"
+			Headhunter 2
+		variant 2
+			"Bulk Freighter"
+			"Headhunter (Particle)" 2
+		variant 10
+			"Bulk Freighter"
+			Sparrow 2
+		variant 4
+			"Bulk Freighter (Heavy)"
+			Sparrow 2
+		variant 2
+			"Bulk Freighter (Heavy)"
+			Berserker 2
+		variant 2
+			"Bulk Freighter (Heavy)"
+			"Berserker (Afterburner)" 2
+		variant 4
+			"Bulk Freighter (Blaster)"
+			Sparrow 2
+		variant 10
+			Behemoth 2
+			Firebird 1
+		variant 10
+			Freighter 4
+			Sparrow 2
+			Firebird 1
+		variant 3
+			"Freighter (Fancy)" 4
+			Sparrow 2
+			"Firebird (Plasma)" 1
+		variant 2
+			Bactrian
+			Dagger 3
+		variant 2
+			Bactrian
+			Lance 3
+		variant 2
+			Arrow
+		variant 1
+			"Star Queen"
+			Leviathan
+		variant 1
+			"Star Queen"
+			"Headhunter (Particle)" 3
+		variant 1
+			"Star Queen"
+			"Berserker (Afterburner)" 2
+		variant 1
+			"Star Queen"
+			"Leviathan (Heavy)"
+		variant 1
+			"Star Queen"
+			"Leviathan (Laser)"
+		variant 1
+			"Star Queen"
+			Firebird 2
+		variant 1
+			"Star Queen"
+			"Firebird (Plasma)" 2
+		variant 8
+			"Hauler III"
+			"Hauler II"
+		variant 6
+			"Hauler II"
+			Hauler 3
+		variant 4
+			"Hauler III" 2
+		variant 4
+			"Hauler III"
+			"Hauler II"
+			Headhunter 3
+		variant 2
+			"Hauler III"
+			"Hauler II"
+			"Roost (Sidewinder)"
+			Dagger 2
+			Lance 2
+		variant 2
+			"Hauler III"
+			"Hauler II"
+			"Roost (Sidewinder)"
+			"Lance (Gatling)" 2
+			Lance 2
+		variant 2
+			Roost 3
+			Dagger 4
+			Lance 4
+			Boxwing 4
+		variant 2
+			Roost 3
+			"Lance (Gatling)" 4
+			Lance 4
+			Boxwing 4
+	fleet "Large Southern Pirates"
+		variant 2
+			Sparrow 4
+		variant 1
+			"Sparrow (Gatling)" 3
+		variant 5
+			Argosy
+		variant 3
+			"Argosy (Blaster)"
+		variant 2
+			"Argosy (Laser)"
+		variant 2
+			"Argosy (Missile)"
+		variant 2
+			"Argosy (Turret)"
+		variant 1
+			"Modified Argosy"
+		variant 1
+			"Modified Argosy (Heavy)"
+		variant 1
+			"Modified Argosy (Blaster)"
+		variant 1
+			"Modified Argosy (Missile)"
+		variant 4
+			Clipper
+		variant 2
+			"Clipper (Heavy)"
+		variant 2
+			"Clipper (Speedy)"
+		variant 2
+			Clipper
+			Hawk
+		variant 1
+			"Clipper (Heavy)"
+			"Hawk (Rocket)"
+		variant 1
+			"Clipper (Speedy)"
+			"Hawk (Speedy)"
+		variant 3
+			Argosy
+			Hawk
+		variant 1
+			"Argosy (Blaster)"
+			"Hawk (Rocket)"
+		variant 1
+			"Argosy (Laser)"
+			"Hawk (Speedy)"
+		variant 1
+			"Argosy (Turret)"
+			"Hawk (Speedy)"
+		variant 1
+			"Argosy (Missile)"
+			"Hawk (Rocket)"
+		variant 1
+			"Modified Argosy"
+			Sparrow 2
+		variant 1
+			"Modified Argosy (Heavy)"
+			Sparrow 2
+		variant 1
+			"Modified Argosy (Blaster)"
+			Sparrow 2
+		variant 1
+			"Modified Argosy (Missile)" 2
+		variant 4
+			Bastion
+		variant 2
+			"Bastion (Heavy)"
+		variant 2
+			"Bastion (Laser)"
+		variant 2
+			Falcon
+		variant 1
+			"Falcon (Heavy)"
+		variant 1
+			"Falcon (Laser)"
+		variant 1
+			Roost
+			Barb 4
+		variant 1
+			Roost
+			"Barb (Gatling)" 4
+	fleet "Large Independent"
+		fighters "free worlds fighter"
+		variant 3
+			Sparrow 4
+		variant 5
+			Argosy
+		variant 3
+			"Argosy (Blaster)"
+		variant 2
+			"Argosy (Laser)"
+		variant 2
+			"Argosy (Missile)"
+		variant 2
+			"Argosy (Turret)"
+		variant 4
+			Clipper
+		variant 2
+			"Clipper (Heavy)"
+		variant 2
+			"Clipper (Speedy)"
+		variant 2
+			Clipper
+			Hawk
+		variant 1
+			"Clipper (Heavy)"
+			"Hawk (Rocket)"
+		variant 1
+			"Clipper (Speedy)"
+			"Hawk (Speedy)"
+		variant 3
+			Argosy
+			Hawk
+		variant 1
+			"Argosy (Blaster)"
+			"Hawk (Rocket)"
+		variant 1
+			"Argosy (Laser)"
+			"Hawk (Speedy)"
+		variant 1
+			"Argosy (Turret)"
+			"Hawk (Speedy)"
+		variant 1
+			"Argosy (Missile)"
+			"Hawk (Rocket)"
+		variant 4
+			Bastion
+		variant 2
+			"Bastion (Heavy)"
+		variant 2
+			"Bastion (Laser)"
+		variant 2
+			Falcon
+		variant 1
+			"Falcon (Heavy)"
+		variant 1
+			"Falcon (Laser)"
+		variant 2
+			Roost
+			Barb 4
+		variant 2
+			Roost
+			Barb 2
+			Boxwing 2
+	fleet "Small Northern Pirates"
+		variant 5
+			Sparrow
+		variant 3
+			Fury
+		variant 1
+			"Fury (Missile)"
+		variant 1
+			"Fury (Laser)"
+		variant 1
+			"Fury (Gatling)"
+		variant 2
+			Berserker
+		variant 2
+			"Berserker (Afterburner)"
+		variant 2
+			Hawk
+		variant 1
+			"Hawk (Rocket)"
+		variant 1
+			"Hawk (Speedy)"
+		variant 3
+			Headhunter
+		variant 2
+			"Headhunter (Particle)"
+		variant 2
+			"Raven (Afterburner)"
+		variant 1
+			"Raven (Heavy)"
+		variant 2
+			Corvette
+		variant 1
+			"Corvette (Missile)"
+		variant 1
+			"Corvette (Speedy)"
+		variant 1
+			Nest
+			Lance 2
+	fleet "Large Northern Pirates"
+		variant 4
+			Firebird
+		variant 2
+			"Firebird (Missile)"
+		variant 2
+			"Firebird (Plasma)"
+		variant 3
+			Firebird
+			Corvette
+		variant 1
+			"Firebird (Plasma)"
+			"Corvette (Speedy)"
+		variant 1
+			"Firebird (Missile)"
+			"Corvette (Missile)"
+		variant 1
+			"Firebird (Plasma)"
+			"Corvette (Missile)"
+		variant 1
+			"Firebird (Missile)"
+			"Corvette (Speedy)"
+		variant 2
+			Firebird
+			Fury
+		variant 2
+			Firebird
+			Berserker 2
+		variant 1
+			"Firebird (Plasma)"
+			"Fury (Missile)"
+		variant 2
+			"Raven (Afterburner)" 2
+		variant 2
+			"Raven (Heavy)" 2
+		variant 2
+			"Headhunter (Particle)" 2
+		variant 1
+			"Headhunter (Particle)" 3
+		variant 2
+			Leviathan
+			Firebird
+		variant 2
+			"Leviathan (Laser)"
+			Firebird
+		variant 2
+			"Leviathan (Heavy)"
+			"Firebird (Plasma)"
+		variant 2
+			"Leviathan (Heavy)"
+			"Firebird (Missile)"
+		variant 2
+			"Leviathan (Laser)"
+			"Firebird (Missile)"
+		variant 2
+			Leviathan
+		variant 1
+			"Leviathan (Laser)"
+		variant 1
+			"Leviathan (Heavy)"
+		variant 1
+			Berserker 3
+		variant 1
+			"Berserker (Afterburner)" 3
+		variant 2
+			Berserker 2
+		variant 2
+			"Berserker (Afterburner)" 2
+		variant 1
+			Roost
+			Lance 4
+		variant 1
+			Roost
+			"Lance (Gatling)" 4
+	shipyard "Tarazed Advanced"
+		"Stealth Cruiser"
+	shipyard "Navy Advanced"
+		"Stealth Cruiser"
+	system Kornephoros
+		government Republic
+		fleet "Small Southern Merchants" 1200
+		fleet "Large Southern Merchants" 1400
+		fleet "Small Republic" 300
+		fleet "Large Republic" 500
+		fleet "Navy Surveillance" 800
+	system Sabik
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 400
+		fleet "Large Free Worlds" 600
+	planet Clink
+		description "The mining outpost is swarming with Navy guards; they seem to have turned this moon into a temporary base of operations. The mine has been shut down, and no one is being allowed in or out of the mining outpost. It is not clear whether the miners are prisoners, or merely under a very tight watch."
+		security 1
+	planet Deep
+		spaceport "The spaceport is built on a large island, a now-extinct volcano with an elevation of several kilometers at its center. Most of the large-scale fishing here is done by a single company, Poseidon Industries, who also built and maintain the spaceport. Steep winding roads and sturdy cement homes and warehouses line the mountain slopes, and below you in the harbor several massive trawling vessels are moored. On the outskirts of the spaceport are the ramshackle houses and open-air marketplace used by the smaller, independent fishing families."
+		spaceport "	There are hundreds of Navy officers patrolling this small spaceport, looking for any signs of local resistance."
+		security 1
+	government Escort
+		swizzle 2
+	government Republic
+		"attitude toward"
+			"Free Worlds" -.2
+	government "Free Worlds"
+		"attitude toward"
+			Republic -.2
+	planet "Enigma Alpha"
+		outfitter "Enigma Intermediate"
+		shipyard "EC-0 Basic"
+	planet "Enigma Sigma"
+		outfitter "Enigma Intermediate"
+		shipyard "EC-0 Basic"
+	planet "Enigma Mu"
+		outfitter "Enigma Intermediate"
+		shipyard "EC-0 Basic"
+	planet "Enigma Epsilon"
+		outfitter "Enigma Intermediate"
+		shipyard "EC-0 Basic"
+	planet "Enigma Zeta"
+		outfitter "Enigma Intermediate"
+		shipyard "EC-0 Basic"
+	system Kornephoros
+		fleet "Small Free Worlds" 10000
+	system Aldhibain
+		fleet "Small Southern Merchants" 600
+		fleet "Large Southern Merchants" 800
+		fleet "Small Free Worlds" 600
+		fleet "Large Free Worlds" 600
+	system Kornephoros
+		government "Free Worlds"
+		fleet "Small Southern Merchants" 800
+		fleet "Large Southern Merchants" 1000
+		fleet "Small Free Worlds" 900
+		fleet "Large Free Worlds" 1700
+	planet Clink
+		description "About a decade ago, a mining corporation from Zug planted a colony on Clink for harvesting some rare earth minerals that are present in this moon's crust due to its unusually high rate of asteroid impacts. The atmosphere here is too thin to breathe without a respirator, and because of the low gravity, the dust raised by the mining operations hangs perpetually in the air."
+		description "The miners who work here are a tight-knit group, since most of them were part of the original colonization team. They are not particularly open to outsiders, and the facilities here are so rudimentary that they do not even stock fuel for visiting ships."
+		security .5
+	planet Deep
+		spaceport "The spaceport is built on a large island, a now-extinct volcano with an elevation of several kilometers at its center. Most of the large-scale fishing here is done by a single company, Poseidon Industries, who also built and maintain the spaceport. Steep winding roads and sturdy cement homes and warehouses line the mountain slopes, and below you in the harbor several massive trawling vessels are moored. On the outskirts of the spaceport are the ramshackle houses and open-air marketplace used by the smaller, independent fishing families."
+		security .5
+	fleet "Small Republic"
+		government Republic
+		names "republic small"
+		cargo 0
+		personality
+			heroic
+		variant 6
+			Rainmaker 2
+		variant 5
+			Gunboat
+			Rainmaker
+		variant 4
+			Frigate
+		variant 3
+			Gunboat 2
+		variant 1
+			Rainmaker 3
+		variant 6
+			Gunboat
+		variant 10
+			Protector
+	government Republic
+		"attitude toward"
+			"Free Worlds" 0
+	government "Free Worlds"
+		"attitude toward"
+			Republic 0
+	government Republic
+		"attitude toward"
+			"Free Worlds" -.2
+	government "Free Worlds"
+		"attitude toward"
+			Republic -.2
+economy
+	system Food Clothing Metal Plastic Equipment Medical Industrial Electronics "Heavy Metals" "Luxury Goods"
+	1 0 0 0 0 0 0 0 0 0 0
+	2 0 0 0 0 0 0 0 0 0 0
+	3 0 0 0 0 0 0 0 0 0 0
+	4 0 0 0 0 0 0 0 0 0 0
+	5 0 0 0 0 0 0 0 0 0 0
+	6 0 0 0 0 0 0 0 0 0 0
+	7 0 0 0 0 0 0 0 0 0 0
+	AMG-45 -1999 -4043 4196 1266 -8839 3682 -10774 -3583 9544 -4015
+	Abomin 2763 -3827 -5472 -1201 137 7813 -3179 1591 -1323 -5249
+	Acamar 7583 2050 18123 -1684 -8742 -755 4846 -1881 -5865 -5987
+	Achernar -13661 5112 5950 -5075 -67 -54 4407 -1132 -4629 12604
+	Acrux -7023 4622 -16593 6363 2152 1162 -4248 8500 5281 977
+	Adhara 1158 -4502 -4592 -4627 -6945 13547 667 7108 -10349 -6901
+	Adke -5703 -7758 2444 -1862 3893 11936 -806 -6967 756 2652
+	Aether 0 0 0 0 0 0 0 0 0 0
+	Aetrus 0 0 0 0 0 0 0 0 0 0
+	Akildocs 0 0 0 0 0 0 0 0 0 0
+	"Al Dhanab" -11597 18124 895 -289 499 10898 200 3002 -6170 17522
+	Albaldah 14111 9121 -3836 -3569 -2269 10151 -1461 -7617 -6038 4877
+	Albireo 7456 5210 7179 -10624 -3854 9228 9784 791 -8001 2565
+	Alcove 0 0 0 0 0 0 0 0 0 0
+	Alcyone 4491 -216 -4633 6618 -1848 6883 1481 14168 11438 -12652
+	Aldebaran 10380 8108 261 -2076 -8873 3591 4809 777 2503 724
+	Alderamin 318 963 7215 -3539 -2608 -502 806 -1350 1894 -595
+	Aldhibain -346 1306 -4799 745 3922 -998 959 -3332 4184 13002
+	Algenib -2729 -7579 677 7552 3770 -6143 4861 -10286 -3971 -5079
+	Algieba -3578 -191 -8233 -110 7175 -1841 7674 7739 -9829 2591
+	Algol 2391 5122 1952 7107 4647 -419 -3752 5249 78 1557
+	Algorel -6235 2117 -6870 -2291 -9512 -340 -1794 5453 -1334 -2633
+	Alheka 7174 4327 -4834 -2658 3955 5982 -315 2931 -3143 -3309
+	Alhena -3265 6020 1105 -6180 6566 2967 -1841 -3108 -15870 14321
+	Alioth -5040 -1731 4320 -2195 15076 3096 2215 -13821 11130 -6413
+	Alkaid -9087 1802 -2771 -796 -8098 3901 1464 4777 82 -4489
+	Almaaz 9430 3655 -3513 3508 -4864 -3672 1285 11904 5927 -3251
+	Almach -1188 1836 -1872 -11995 -1602 941 -741 -7083 -3659 2657
+	Alnair -4868 -8739 -7926 8640 1180 -2430 3261 -6524 510 -9077
+	Alnasl -5259 -2921 5900 5829 2758 19321 -185 -3990 3960 -5845
+	Alnilam 6551 3470 7739 10849 -14136 980 5832 -2489 4219 -6561
+	Alnitak 15797 6096 -1604 -213 642 3989 -6241 6322 16710 5873
+	Alniyat -1221 -19028 442 -795 -5207 -7825 1941 -6747 3689 7433
+	"Alpha Arae" 46 8913 8777 -11952 519 1889 -3400 -796 4997 2303
+	"Alpha Centauri" 1591 -8963 -3830 6256 -7627 -2994 -3418 -2544 -2969 2469
+	"Alpha Hydri" -4125 4194 10537 -482 -1002 -815 -10535 -361 4301 1638
+	Alphard 1215 2480 -10782 -1007 4790 2811 5358 11189 -8300 -9044
+	Alphecca 7901 -16099 6178 7306 3745 7858 6099 -6249 15178 3303
+	Alpheratz -8727 16758 16700 -2043 622 11216 3941 5485 -1484 2506
+	Altair -753 5719 -8478 -5162 -7800 7785 -9565 -9521 -3424 3301
+	Aludra -6413 -630 -4859 3934 -1443 1137 -310 6453 -4280 -1260
+	Andromeda 0 0 0 0 0 0 0 0 0 0
+	Ankaa 1333 8288 1923 2299 3122 -5949 -5458 -3331 -1607 1852
+	Antares 4044 492 9703 -4466 1647 -4203 -7436 -6477 -4217 4965
+	Antithesis 3603 6087 -3296 -1443 -6939 2597 288 2072 -1289 -2967
+	Anvyu 364 7171 -12578 3731 3559 -1848 10273 -4951 676 915
+	Ap'arak -1157 -9140 6165 4305 -3569 -72 5610 61 -3097 6482
+	Arcturus 631 -2274 2892 4878 2165 9848 -3110 -16178 7645 -2972
+	Arena 0 0 0 0 0 0 0 0 0 0
+	Ares 0 0 0 0 0 0 0 0 0 0
+	Areth 0 0 0 0 0 0 0 0 0 0
+	Arinuto -1384 -2068 2889 2723 241 2697 3484 5219 6292 703
+	Ark -4491 -5573 -1819 6006 1534 -2322 -521 -2672 4712 -4189
+	Arkhos 0 0 0 0 0 0 0 0 0 0
+	Arneb 2577 -438 415 8666 3804 -5169 7332 -4572 4008 -4970
+	Ascella -3339 1654 -3588 -8461 1085 2159 -687 -15772 2126 -8926
+	Ascendant 0 0 0 0 0 0 0 0 0 0
+	Asikafarnut -1469 -15638 -2204 13398 3639 -2054 8353 13118 -20696 -2519
+	Aspidiske -8942 -4656 2871 -8517 4805 1736 -4690 6610 -903 -2263
+	Atria 4162 2491 -57 -6733 -6437 2349 1247 -1663 8927 2062
+	Atrica 0 0 0 0 0 0 0 0 0 0
+	Auram 7732 333 -16335 12196 2881 8710 -582 -4965 7127 -2506
+	Aurum -8008 -792 -9758 -4062 7642 3222 -5929 -2046 9662 5481
+	Austrus 0 0 0 0 0 0 0 0 0 0
+	Avilum 802 1744 -6814 13419 -5760 2536 -10973 -10895 3948 -2055
+	Avior -12824 -6950 8047 -7001 20 4752 13654 4326 3018 -5658
+	Aya'k'k 334 -3692 -4979 12039 3553 -6491 182 -3506 -4711 6545
+	Azerbam 0 0 0 0 0 0 0 0 0 0
+	Azimuhud 9223 -11132 -6110 -2099 1897 -7024 12589 564 -5404 5313
+	Azool 0 0 0 0 0 0 0 0 0 0
+	Azoozle 0 0 0 0 0 0 0 0 0 0
+	Banq'rujol'ifus 2848 15908 281 -956 -2311 -4328 -3670 8322 5148 2740
+	Bellatrix 3266 2106 701 3548 2619 9645 4437 1403 89 -15619
+	"Beta Lupi" -6663 14000 5257 3521 -14217 4969 5211 21849 -6641 8726
+	Betelgeuse 133 1844 -8024 2704 -3740 2204 476 4588 -1525 -5073
+	Bhranu -7380 -469 -1430 3452 -5373 -9789 3076 3842 -1580 -2422
+	Blackfriar 0 0 0 0 0 0 0 0 0 0
+	Boral 1368 -7363 -3374 -1942 1390 2162 1015 -975 11182 -84
+	"Bore Fah" 1568 -4214 -9711 -1095 2963 2161 -2163 -2171 -3500 4760
+	"Bote Asu" 10131 970 -10528 5459 9734 -3246 -8647 3143 -7932 6805
+	Breijkip -4128 -4985 -3121 9541 -3626 -3780 -5626 -4109 4361 -6536
+	Canopus -4764 10965 -7311 686 1933 8934 -2531 5914 -2130 1375
+	Capella 1037 5089 591 361 772 491 -3515 9759 2211 8402
+	Caph 1441 2015 5850 -5334 -6876 -1835 -5359 11759 4794 -3384
+	Cardax 1630 12914 -7270 772 4072 4731 4154 543 1725 662
+	Castor 12909 1177 -7605 -1867 4457 -3664 -6344 3247 -3428 4740
+	Cebalrai -7307 3602 12961 -16463 7236 4342 11160 -2496 14143 -3379
+	Celeborim -172 -597 -3577 234 5630 -4695 3209 1726 -3273 -1206
+	Center 5016 14011 -998 -5616 3171 6608 5485 12772 -1387 1396
+	Cheons 0 0 0 0 0 0 0 0 0 0
+	Chikatip 7509 3787 -1703 4047 5558 -217 -2262 -3617 -364 -4382
+	Chimitarp 2367 -6503 2485 864 -4812 -1827 -1695 4700 -1858 -2263
+	Chirr'ay'akai 907 -881 -1978 479 -10263 9903 -2383 -1285 6616 -2260
+	Chornifath 4063 1301 -2618 -3931 -3381 -3394 10122 5855 -164 -799
+	Chy'chra -293 -15162 7792 -11326 -686 -16606 5324 -3449 623 -774
+	Cispia 4661 4103 -5237 174 2781 2890 -1769 3757 -1544 3273
+	Clurth 0 0 0 0 0 0 0 0 0 0
+	Coozle 0 0 0 0 0 0 0 0 0 0
+	"Cor Caroli" -12731 -2360 -13956 -4506 -532 1698 -10047 -3108 9267 -1961
+	Cornephla -6583 -10370 -5324 -1159 -7549 10560 553 2054 -4919 6735
+	Cribbain 0 0 0 0 0 0 0 0 0 0
+	Crourp 2644 -3242 3144 -1378 6885 732 5725 -2894 7915 5118
+	Crul'im'heim -1632 -8570 2149 -6897 -381 -2249 145 6864 6631 -46
+	Cymexes -962 -5723 -9604 -3391 9001 -7747 -1196 -3648 -2794 -3638
+	DML-91 -9299 -7497 10378 -8276 5003 -10315 10532 3945 6897 9240
+	DNF-14 10452 -4784 188 1945 3245 6644 -11258 -5198 9344 686
+	"Da Ent" 3371 11534 2882 -6909 8425 3677 -9218 -735 -1610 1481
+	"Da Lest" 190 1248 -6367 -2315 2681 1335 -4469 5709 914 1978
+	Dabih -5 7548 -223 -14498 8013 1317 -1778 -15347 1997 -1401
+	Daia 0 0 0 0 0 0 0 0 0 0
+	Danoa -1232 -1473 -7648 11669 -1549 7127 2997 2088 -1008 958
+	"Deg Deg" 0 0 0 0 0 0 0 0 0 0
+	"Delta Capricorni" 5507 3396 1536 -1829 -1069 -3067 2291 10386 3240 9444
+	"Delta Sagittarii" -822 4744 -1304 -1175 1994 -1957 4608 -10839 3271 727
+	"Delta Velorum" 1541 -2006 -2720 -4756 -85 444 -8088 12372 3448 -10637
+	Deneb -942 -4045 704 1648 2255 -1165 -1572 4978 1980 -3744
+	Denebola -3418 11632 -1779 2136 -746 -5700 -9661 -7659 -2221 -5798
+	Deprecated+Mods 0 0 0 0 0 0 0 0 0 0
+	Dergath 0 0 0 0 0 0 0 0 0 0
+	Descent 0 0 0 0 0 0 0 0 0 0
+	Di'Loma 0 0 0 0 0 0 0 0 0 0
+	Diphda 1764 -1859 4010 7757 -8235 -248 -6272 581 1574 -149
+	Dokdobaru 17218 5238 -7012 -11059 -8156 4940 10984 17878 10114 -5099
+	Domov 13092 -1045 -9363 21232 467 10594 -10104 -13098 3470 -8964
+	Doolce 0 0 0 0 0 0 0 0 0 0
+	Drak 0 0 0 0 0 0 0 0 0 0
+	Driaca -7462 -512 2434 -1203 -1405 484 -7927 940 -2252 -2059
+	Dschubba 4579 4783 -10837 228 1645 -4044 -2334 243 4822 2464
+	Dubhe -3910 -4049 3693 -958 -1537 -1461 3148 -1341 -2805 1072
+	"Due Yoot" 1223 -1473 -8070 -255 -3640 7517 10212 -2607 2960 18956
+	Durax 5014 199 -13804 5057 -1395 6255 -1010 3956 995 -355
+	Duvenahm -615 1985 -3343 3478 3584 -11530 9189 -3454 -3230 -5393
+	Dvorak 0 0 0 0 0 0 0 0 0 0
+	END-00 -11501 -2362 3252 9136 1048 -91 2248 6773 -3256 -1134
+	Eber 2735 968 6683 -8593 4677 6954 3666 -4060 10990 4648
+	"Eden Prime" 815 -125 -1080 1504 3522 -918 -74 6608 -705 -4644
+	Ehahuh -7792 2980 -207 -5470 5925 -1969 4666 6705 5433 -1073
+	"Ehma Ti" 1855 7016 -7947 6216 5094 1381 -1342 -4497 -3275 -6608
+	Ek'kek'ru 2014 1921 6884 1228 -3198 70 1447 2974 -7699 8602
+	Elisven 0 0 0 0 0 0 0 0 0 0
+	Elnath -3304 6856 5023 -7302 -7458 4005 2044 9871 3385 1374
+	Eltanin -602 6649 -4504 -7267 2210 4975 -2092 -7371 775 8956
+	Eneremprukt 8742 -6929 2556 -8382 -1028 -747 -8408 5257 -3159 -3607
+	Enif 7967 29 2542 9755 -11522 -860 216 -7690 -8789 -8954
+	Enigma 8092 -2399 -1236 -10723 10441 1543 2046 1263 9450 0
+	"Epsilon Leonis" -5804 -9711 -3491 -580 1649 6244 2401 13667 -10401 419
+	Ernogi -9103 12020 -3316 4702 -1208 -8233 -2667 14328 -10357 -1090
+	Es'sprak'ai -3011 -2464 624 -5120 1162 4804 -4703 -3296 -725 4921
+	Eshkoshtar 4029 913 -43 -9188 -271 5772 1980 7567 -3891 4159
+	Eskidilium 0 0 0 0 0 0 0 0 0 0
+	Eteron 2835 -4127 -241 3535 -7653 -2349 -1445 -3386 2119 -2981
+	Ezerteri 0 0 0 0 0 0 0 0 0 0
+	Eznos 0 0 0 0 0 0 0 0 0 0
+	Ezo'so 7404 3404 -4227 7301 -17587 7593 10108 9127 563 -7435
+	"Fah Root" -581 750 8075 62 8968 -2866 1221 -1809 1852 7145
+	"Fah Soom" -9938 2188 -2277 -5446 -4441 -3969 7479 4820 549 11919
+	Fala -1347 -1090 -2539 4964 -1245 -4593 5449 7 400 1480
+	Fallout 0 0 0 0 0 0 0 0 0 0
+	Farbutero -5446 -804 -11219 3581 -3532 1786 962 11079 4588 -2068
+	Faronektu 3461 1728 3546 -15332 3204 -3212 -2681 3711 -696 -188
+	Farus 0 0 0 0 0 0 0 0 0 0
+	Fasitopfar -5134 489 112 -6595 -8 3780 -8403 -4110 -6587 -5893
+	Fehrruhm 749 -3742 1991 4889 4243 -525 9917 5820 881 1512
+	Fenlamin 0 0 0 0 0 0 0 0 0 0
+	Feroluhm 9133 -3679 -5313 -2627 -2100 2712 1636 9160 1831 2801
+	Feroteri -10866 -4045 -805 3235 5079 4991 3143 80 277 -3922
+	Ferukistek 498 -861 -2244 -8806 -5295 6671 -3953 6526 1296 -4254
+	Ferum 3448 7549 -4287 586 605 1625 -6538 -9773 9216 -374
+	Fi'meth 0 0 0 0 0 0 0 0 0 0
+	Fingol -1149 8172 5382 2720 2868 -2339 -4013 -1992 -3897 -369
+	Finitum 0 0 0 0 0 0 0 0 0 0
+	Five 3114 8354 -5150 8376 1006 -4365 1471 -9729 -7578 -6585
+	Flaf'nef 0 0 0 0 0 0 0 0 0 0
+	Floop 2047 -6813 -6344 -5932 1961 -1424 2755 -6065 -3111 4365
+	Fo'gar'helien 877 4800 -3709 -3639 8431 217 3961 4289 -603 4065
+	Fomalhaut -2244 -3905 -11056 -6367 -4145 5103 1994 -2821 -685 -2398
+	Fornarep 1293 2493 -2509 8729 -6319 -1544 -11939 9855 -96 1005
+	Forosuud -3811 -252 -2478 3520 5341 1306 5098 2099 7917 -5335
+	Four 13678 -4753 1757 -4602 -2728 1432 1938 -5327 -339 3095
+	Frill 0 0 0 0 0 0 0 0 0 0
+	Frontier 0 0 0 0 0 0 0 0 0 0
+	Furk 0 0 0 0 0 0 0 0 0 0
+	Furmeliki 10613 -6810 -319 3510 -5978 3521 2810 3160 10799 -7909
+	Gacrux -11189 -1987 -11465 -7255 4420 -581 -2820 2509 6638 -9198
+	Gaenealf -7292 1497 2501 -2425 -2749 -6164 -2013 -8005 312 -2373
+	"Gamma Cassiopeiae" -5515 3843 -3032 1514 2468 -8131 -2174 471 446 2677
+	"Gamma Corvi" -601 8590 -5725 6406 3904 7224 -6518 -7255 -3018 3353
+	Gard -6587 5571 570 9436 5080 -8538 4391 9299 -2803 801
+	Gautus 0 0 0 0 0 0 0 0 0 0
+	Gelofari -6647 -8798 1407 -2299 6518 -1796 -5283 3102 1618 -2518
+	Gienah -4024 -5064 4740 5175 -761 -3059 3966 -14397 -9252 5054
+	Gil'mine 0 0 0 0 0 0 0 0 0 0
+	Girtab 5800 5308 706 -3023 2627 1976 -7315 -8008 872 4585
+	Gis'cot 0 0 0 0 0 0 0 0 0 0
+	Glephum 0 0 0 0 0 0 0 0 0 0
+	Gomeisa 2708 -3837 6308 -8846 -596 4408 -681 15556 -13316 -6562
+	Gorvi 6587 5829 -2979 1143 -719 -9394 -379 7474 82 5121
+	Graffias -918 -6484 -4632 1401 -652 1373 -2343 -3164 648 633
+	Grundel'froae 1709 739 -4948 -3168 969 7067 5149 -2640 274 1502
+	Hadar -14296 10629 -16134 2018 -12849 -6521 6133 11559 2115 -9209
+	Hai 0 0 0 0 0 0 0 0 0 0
+	Hamal 1622 5494 1300 588 -9732 -6710 2605 5929 -5375 -5558
+	Han -2298 2197 569 -2495 -6972 6760 2861 2879 8576 1343
+	Hashin -5108 9436 -4030 3652 -843 -9769 -1976 4854 -7084 2505
+	Hassaleh 4151 2494 -4124 11753 9965 18593 -363 765 5639 -1263
+	Hatysa 10264 8769 2504 4789 -8739 -5116 10156 -17804 8565 -11382
+	"Heia Due" -8283 -2659 -10799 -1299 -3854 -11 10201 -3495 -1120 10522
+	Heim -12501 3677 -8945 14827 -4574 -16481 7408 17861 -2482 -5097
+	Hesselpost 11802 113 -2476 -7588 1940 1737 3962 2014 441 -1183
+	"Hevru Hai" -4359 4732 -5737 2351 -1216 -5556 972 2543 4934 9169
+	"Hi Yahr" -101 -775 -2699 -423 6419 1458 -678 -701 -2245 4580
+	Hintar -2928 -3166 13219 -4097 -2308 -789 3737 6361 7758 -257
+	Holeb -386 -6261 -980 746 13015 7837 2164 -3975 6087 -16814
+	Host -10541 285 3609 -835 -1762 -3286 2900 4268 -330 -4362
+	Hrau'ngri'liadien 0 0 0 0 0 0 0 0 0 0
+	Human 0 0 0 0 0 0 0 0 0 0
+	Ibained 0 0 0 0 0 0 0 0 0 0
+	Ik'ari'aka -6359 -4292 2329 -1618 264 -5221 -1686 7662 7338 4623
+	Ik'kara'ka 2414 -18742 -1801 -10716 -5702 -1615 7826 -4425 -8603 4530
+	Ildaria -2186 -2847 908 -2146 -4705 -1384 7674 6904 -11417 -4395
+	Illitran 0 0 0 0 0 0 0 0 0 0
+	Immeo 14074 -3888 -4921 7234 8967 4546 -10243 -20072 -3356 -430
+	"Imo Dep" 3956 3157 4137 -689 -2841 -2770 52 -329 -6279 -2376
+	Indigo 0 0 0 0 0 0 0 0 0 0
+	Innenheim 2740 -1998 -255 -2664 -3123 2954 8813 -414 -1847 -4502
+	Insolence 0 0 0 0 0 0 0 0 0 0
+	"Io Lowe" 218 -7700 -3111 -3522 3942 12329 11943 5925 4626 529
+	"Io Mann" -5439 3087 -8963 5858 -5833 268 5690 -2504 -3655 11124
+	Ipsing 2813 -3732 5048 -3920 -8385 1151 -4578 -4926 -2455 6262
+	Ithaos 134 9309 -6148 5032 -4936 625 1007 -5070 -3847 2031
+	Iyech'yek -2706 -5166 -1444 3492 4125 978 -8793 5052 1734 12061
+	Izar -5502 107 -13578 9204 -3261 3139 1939 10500 4774 -3566
+	JMU-10 -2031 -11098 3730 10412 -2317 -1810 -9502 -2511 4370 -8953
+	Jaaaar'aaaaa'l'u 10095 5308 6915 -870 3498 -10687 2462 11999 403 3697
+	Jinomiah 8094 -4107 -9273 5066 377 -5842 13701 3904 5454 -3787
+	Johinhut -2180 -10348 3388 -1121 3882 -6994 13107 -734 -7230 3031
+	KAL-25 1497 -3372 1442 2221 -7123 1683 -8726 -6761 402 -7889
+	KLW-01 6004 5202 8573 13954 -5098 2834 -6406 4880 -1398 -8253
+	Ka'ch'chrai -1406 -5377 2625 -8836 435 7395 11677 7051 -10880 -589
+	Ka'pru 7429 -3528 8429 -1459 3496 -4114 8654 7763 -9323 -22
+	Kaladesh -5347 -4072 6331 -967 715 -4258 -2963 2837 5506 -6291
+	Kaliptari -2234 559 -4717 9092 -381 -7570 -8469 17305 1078 -10645
+	Kama'la'ez 726 -1025 -5208 3673 -765 5683 -5289 -5966 9482 4419
+	"Kappa Centauri" -8282 4847 6019 4979 116 988 1802 12371 -2537 2298
+	Karimoji -1623 -2780 6768 838 826 3214 355 -119 555 -4163
+	Karuht'ar 0 0 0 0 0 0 0 0 0 0
+	Karuht'aryet 0 0 0 0 0 0 0 0 0 0
+	Karuht'du 0 0 0 0 0 0 0 0 0 0
+	Karuht'duyet 0 0 0 0 0 0 0 0 0 0
+	Karuht'en 0 0 0 0 0 0 0 0 0 0
+	Karuht'enyet 0 0 0 0 0 0 0 0 0 0
+	Karuht'ol 0 0 0 0 0 0 0 0 0 0
+	Karuht'olyet 0 0 0 0 0 0 0 0 0 0
+	Karuht'qu 0 0 0 0 0 0 0 0 0 0
+	Karuht'quyet 0 0 0 0 0 0 0 0 0 0
+	Karuht'uma 0 0 0 0 0 0 0 0 0 0
+	Karuht'umayet 0 0 0 0 0 0 0 0 0 0
+	Karuht'ut 0 0 0 0 0 0 0 0 0 0
+	Karuht'utyet 0 0 0 0 0 0 0 0 0 0
+	Karuht'yet 0 0 0 0 0 0 0 0 0 0
+	Kashikt 11062 -13524 354 4494 3620 -3048 2247 7778 9134 -4291
+	Kasikfar -3189 2507 4943 3019 -10754 -8535 603 9389 2111 -3320
+	"Kaus Australis" 1163 1583 5596 944 1414 -4839 -6027 -7874 -230 2018
+	"Kaus Borealis" -2891 6000 15638 2673 4853 -687 5920 5118 3756 -7924
+	Kelaquri -8798 -5285 8128 -5770 -1644 3409 9648 -3046 5073 6211
+	Kiak 0 0 0 0 0 0 0 0 0 0
+	Kiha 6432 -5524 -729 3553 -4406 1858 6917 -554 -3162 4230
+	Kilowana 0 0 0 0 0 0 0 0 0 0
+	Kink 0 0 0 0 0 0 0 0 0 0
+	Kioniam 2696 5742 -2876 -470 8365 12171 -4913 9829 485 1486
+	Kiro'ku 2870 -5880 8793 14076 387 -8069 -380 4785 -2347 1931
+	Kiru'kichi -6472 -8979 -2269 1561 835 2026 -6773 1767 1792 12447
+	Kochab 4478 -2836 7660 2839 380 -3703 4073 481 -6506 -8319
+	"Kor Ak'Mari" -2298 1789 260 -4177 546 -3731 -1538 -10070 3685 5282
+	"Kor En'lakfar" -995 5477 -10219 -2199 -6375 2059 -15027 -1032 -5698 -3537
+	"Kor Fel'tar" 3038 6451 -8212 1890 -2669 3644 -11679 -8110 -10276 1890
+	"Kor Men" -4641 1732 -11096 -7878 -6921 -3374 -5394 -8065 1090 -5712
+	"Kor Nor'peli" -2834 -445 -287 1596 4895 6760 -763 -6064 -232 -1372
+	"Kor Tar'bei" -825 1243 -2092 3420 15369 20836 9134 -2578 -460 11900
+	"Kor Zena'i" -1917 409 -6952 1829 4695 5091 7136 -505 -1607 9236
+	Korath 0 0 0 0 0 0 0 0 0 0
+	Kornephoros -3432 -4749 1688 3821 870 -2083 -1218 -8025 2558 13
+	Korsmanath -3951 -7695 -3528 137 2918 1391 -438 14114 8708 -2669
+	Kraz -3058 -1000 5117 3423 -4717 -6598 3703 2819 -3873 2518
+	Kugel 3837 -1350 8708 -4694 -9352 -8996 -2569 7405 -3545 -2620
+	Kursa -7473 -697 2152 -6294 -2551 1568 3643 -636 -6500 6444
+	LPK-52 -7471 -6211 7218 -6302 -5271 -2522 8640 9597 6786 12084
+	Lardiam -3601 2362 -8064 2915 1228 1787 7101 3434 -9489 2441
+	Lenonehv 3014 -7114 -2126 2735 10335 -1539 7647 -1961 7205 -10568
+	Lesath 2752 -2859 3172 -2468 1533 2334 4530 -18017 -1743 6059
+	Lizno's 0 0 0 0 0 0 0 0 0 0
+	Lo'or'awaen 0 0 0 0 0 0 0 0 0 0
+	Lolami -105 5639 3844 -4187 6371 8318 5088 -1405 -6577 1437
+	"Lom Tahr" -575 -4130 -10215 -6783 12442 6846 8651 12550 -7598 15892
+	Lurata -336 -2593 -1398 -355 5424 3176 -853 -7530 1193 4326
+	Lyvven 0 0 0 0 0 0 0 0 0 0
+	Maduras -2811 1954 -4197 -4462 -335 -5846 -1246 -5609 6058 -6115
+	Makferuti -3524 4744 -987 429 -3251 3053 7956 -2152 -2251 5350
+	Marbin 0 0 0 0 0 0 0 0 0 0
+	Markab 7597 3323 -4709 -3614 -1238 -1206 -752 -3030 3248 3549
+	Markeb -1269 433 6341 3883 2598 9809 4036 4487 3915 -2918
+	Matar 2619 4655 -6467 -7895 492 1879 -4515 -905 -4471 1522
+	Mebi 0 0 0 0 0 0 0 0 0 0
+	Mebsuta -2443 8881 -4314 4187 827 466 3871 5497 7597 -166
+	Meftarkata -2615 -794 -7850 1851 3215 1073 -5694 5409 7437 -5726
+	"Mei Yohn" 5655 -6094 3936 -6375 -7035 2363 15190 6124 367 3871
+	Mekislepti -6588 -7370 10051 -4009 2055 -135 -1600 11259 -6509 -1698
+	Memus -519 -3622 -3155 8304 -3785 5170 4113 -4862 257 6929
+	Men -7734 4772 5542 -1469 -4067 9802 887 13424 -9766 7215
+	Menkalinan -3142 3541 3099 -5332 7709 448 -6632 3250 -3678 7460
+	Menkar 7597 2738 5491 5157 8098 11880 -3229 532 -332 -13109
+	Menkent -3521 4504 902 -2452 1498 3407 2367 -11472 1659 5754
+	Merak -4867 -1677 -12848 5091 -2700 -8949 -6154 -17304 -4808 -3507
+	Merith 0 0 0 0 0 0 0 0 0 0
+	Mesec 8701 4555 -7474 2554 -5538 9877 -7445 -15830 10171 -2226
+	Mesuket 8443 -12728 7573 -12816 6551 -2394 -5233 14892 -2137 -8375
+	Mezzanine -4273 663 1412 5437 5464 -4151 -2788 -4631 12744 2881
+	Miaplacidus 16086 13166 -7314 -3873 -3425 -5515 5931 5899 -4213 545
+	Mimosa -9292 -1798 -1430 527 -3775 -3078 7723 3144 -3327 3161
+	Mink 0 0 0 0 0 0 0 0 0 0
+	Minkar -11299 11969 -19620 12902 6310 9028 4895 6679 1240 1141
+	Mintaka 9753 8603 5968 -283 -937 -1599 1849 16995 4889 -1637
+	Mirach 2982 8724 -4576 -4341 4876 28 11402 -1239 -11911 14944
+	Mirfak 10083 6951 -13318 4071 5722 156 -3969 -2528 -763 -6949
+	Mirzam 61 9484 -4967 8402 1020 5566 1622 3735 8266 3164
+	Mizar 116 558 -10617 1912 1129 -3387 -8780 -2901 -6897 910
+	Moktar -2247 9183 -15015 7817 710 1378 2859 -1527 -1514 -7676
+	Mora 1783 -3179 -4708 779 -2196 -647 1701 7623 454 -4535
+	Muhlifain 1587 -1898 -3526 5102 -1358 -5629 -6475 -3817 -6280 -6529
+	Muphrid -4070 2345 -2575 2502 -5755 -3378 -963 -4482 257 -1173
+	Muraganda 0 0 0 0 0 0 0 0 0 0
+	Mylaerla 0 0 0 0 0 0 0 0 0 0
+	NDV-52 -3907 -4479 13456 6748 5515 -1168 5386 -1226 1697 -2027
+	NGJ-67 2861 5 -7560 3525 7942 6323 17 -11335 3686 9724
+	Naos -4006 -5156 10897 701 -9822 1367 5360 -2044 -3604 -9634
+	Naper 1980 239 2740 -5330 1892 -1475 7952 -366 -775 7294
+	Neblime 7359 5721 3732 1258 -2448 -451 -1815 -823 4209 -1933
+	Nelur 2945 8887 -10657 -13371 -1201 16540 -3795 3908 3446 7673
+	"New Eden" 2884 7595 -8993 -4629 2111 10870 -12546 -859 -3020 -7746
+	Nihal 6558 -425 -548 -9905 -11722 5456 709 6256 7237 -1602
+	Ninsug 0 0 0 0 0 0 0 0 0 0
+	Nisk 0 0 0 0 0 0 0 0 0 0
+	Nithroel 0 0 0 0 0 0 0 0 0 0
+	Nocte -7194 1155 8085 2621 -1721 8553 3392 -6697 -6282 5123
+	Noodeld 0 0 0 0 0 0 0 0 0 0
+	Nor'tell 0 0 0 0 0 0 0 0 0 0
+	Noresk'phi 0 0 0 0 0 0 0 0 0 0
+	Nortear 0 0 0 0 0 0 0 0 0 0
+	Noruk 1627 -118 1902 1767 -9016 9301 6125 2367 1989 4293
+	Nunki 1317 -1829 2628 2609 -2994 4400 -1421 -1087 3271 1651
+	Nyx -713 5229 -12509 -3147 -624 13049 487 9250 -4819 -1652
+	OMA-12 -8182 2360 11762 7820 6174 -1661 -1180 4369 -2640 -1435
+	Oblate -5552 1719 -8094 -7240 -4316 549 480 23 3584 -5036
+	Ophernus 208 2302 -4050 -15070 276 927 -5239 397 -3314 -5089
+	Opheuldod -1666 -1223 -9207 2970 9090 702 -3711 10563 -4049 3816
+	Ophusihohn 8172 -1256 -8736 4368 10072 -1195 10901 7657 11548 -1176
+	Orff 0 0 0 0 0 0 0 0 0 0
+	Origin 0 0 0 0 0 0 0 0 0 0
+	Ortus 826 -6701 -6633 2038 -1833 9622 -4669 -2430 -2580 8957
+	Orvala -202 1752 -6030 -4288 -911 -2767 916 -3744 -1428 -4042
+	Ostima 13223 -2119 -7466 5090 -5445 9993 -9476 -19394 2867 -8642
+	Outenheim 2476 2620 -5223 -11166 -4166 4490 -96 -1396 7203 1394
+	"Over the Rainbow" 0 0 0 0 0 0 0 0 0 0
+	PBD-09 2888 1409 6073 142 1451 2481 -264 -5473 2794 -3633
+	Peacock 6743 -4119 178 -514 4740 966 -1824 -5407 -1309 -1865
+	Peresedersi -5659 4268 1918 -4948 -3338 4244 9597 -2038 4576 -159
+	Persian -11089 136 -1843 11790 128 -8379 4616 -14279 -13753 -3467
+	Persitar 14105 -1877 1883 895 -3849 -2349 3521 -5289 -2215 5351
+	Phact -995 141 -2018 -4162 -3282 -1062 879 -4611 -4141 -1139
+	Phafnee 3016 7134 3879 8594 -10994 8117 5840 3935 3622 -1725
+	Phecda 4153 -439 -432 912 -7460 -2096 521 8952 173 -9621
+	Pherkad -17097 8366 7109 73 -5388 15784 -4060 17664 -6302 6378
+	Philmiser 0 0 0 0 0 0 0 0 0 0
+	Phurad -4531 2211 -3659 -3018 4825 5853 -9229 922 -1960 5037
+	Pik'ro'iyak 6148 4057 6593 3960 -6420 445 -3746 -8223 -8581 10428
+	Pipaeus 5671 7761 -1910 1068 73 -309 1387 -2310 -2757 641
+	Pniam -66 4666 -5779 -8399 8473 11744 -5863 5097 2550 470
+	Polaris -4377 831 1814 -4751 -744 841 -1012 365 -1232 6451
+	Pollux 11219 -2023 -4969 2795 2910 4599 -5081 2544 -4091 1418
+	Porrima 7112 -1187 -3327 6926 -587 2234 3723 -3043 3498 560
+	Prakacha'a -892 -14541 -2158 4308 -18752 -6047 -2547 -6959 -3016 1052
+	Pralmia 0 0 0 0 0 0 0 0 0 0
+	Procyon 2980 50 -1993 8514 -6597 2125 -12623 1022 -8509 11277
+	Pug 0 0 0 0 0 0 0 0 0 0
+	"Pug Aerzyrnium" 0 0 0 0 0 0 0 0 0 0
+	"Pug Dool" 0 0 0 0 0 0 0 0 0 0
+	"Pug Iyik" -4790 -1255 2849 -4654 -2469 -9790 4166 5764 3735 410
+	"Pug Morbosa" 0 0 0 0 0 0 0 0 0 0
+	QFS-83 6381 -7965 8415 6586 -13934 16261 3094 -9267 7950 -2758
+	Qero -990 6959 4095 5863 -3031 6183 2524 -299 -5909 -2156
+	Quarg 0 0 0 0 0 0 0 0 0 0
+	RVE-32 4277 -2602 27 -3243 -3623 -55 2194 -7098 3076 -4287
+	Rajak 2162 4255 -3593 9025 10108 778 -11922 6072 9279 -3077
+	Rasalhague -3351 6377 9133 -8169 517 9529 -779 -12045 -1370 6022
+	Rastaban 3471 4383 -1257 253 -3166 -2944 -10558 282 -4697 5724
+	"Rati Cal" 2009 1105 -8586 -5160 6825 8104 3427 5369 -5129 11226
+	Regor -6109 -815 1119 -936 -633 1502 6989 -4959 1962 683
+	Regulus -3533 366 1541 2836 -3776 -2540 -3971 -5016 -2748 -8154
+	Rigel 6143 3154 -17 11263 4785 5121 -7328 -669 3419 -565
+	Rokh -4269 1593 -4685 1387 -1783 -6772 5711 976 3093 -4166
+	Rosario 0 0 0 0 0 0 0 0 0 0
+	Ruchbah -3934 22728 21753 248 7899 -7212 -5408 8871 -1559 -16660
+	Rumebali -2146 -169 -2038 -4262 4421 -6182 -1497 9914 6654 6182
+	Rutilicus -7137 -5002 2464 256 9697 8490 2912 -12977 10399 -7025
+	Sabik -1352 9338 -653 2608 4889 10107 -10685 -6811 1499 10637
+	Sabriset 74 -415 -4040 -1807 145 6264 -4386 6665 -1979 -9516
+	Sadalmelik -2950 -449 11411 -4018 -7508 -3689 300 -3390 -6992 -11039
+	Sadalsuud 208 -610 5826 -5190 -808 3210 -5126 -3563 3678 -7127
+	Sadr 4471 6286 3947 -6120 -6139 3845 1170 621 -279 1722
+	Saeus -1626 2930 -7009 7386 -4155 -1394 3229 -3565 -2449 -8757
+	"Sagittarius A*" 0 0 0 0 0 0 0 0 0 0
+	Sahakasi 18866 -6071 -1364 -12393 2490 -6886 2629 19690 -1396 5462
+	Saiph 108 -8489 2519 -5050 2041 5272 -6084 1499 9520 4927
+	Salipastart 668 -6451 14029 -18183 9912 -3695 -9147 8183 3155 686
+	Sargas -948 -1155 2858 -1630 -2247 778 -9408 -7742 -4180 -5366
+	Sarin -6611 3522 -5722 -4142 1476 1814 2871 3130 -294 3564
+	Sars'ze 2586 -223 -1876 -528 1427 2968 -419 -401 785 -4720
+	Satahr 3974 409 3917 -3700 -4809 -5493 14076 -3416 2792 3
+	Sayaiban -95 -4744 5778 3388 -2395 -2539 -840 4210 -5188 2107
+	Scheat -452 15650 -10030 -3853 4969 -2346 -4049 11651 728 9373
+	Schedar -4008 2894 -11094 -20163 3449 -6120 797 -1847 -8768 12785
+	Schnael 2526 -691 2765 2604 5729 1174 6429 -759 12654 430
+	Seginus -3802 -9906 -874 2702 -2144 8023 5308 -13404 12414 -2826
+	Seketra 846 4615 -299 -3231 -9367 -10164 -2558 -2945 1786 -889
+	Seldanna 0 0 0 0 0 0 0 0 0 0
+	Sepetrosk 7481 -3127 7089 -3943 -621 4725 2021 -2345 -8377 -9121
+	Sepriaptu -1762 42 -12731 1569 1487 4967 -3178 5175 2797 -9623
+	Sevrelect 731 -7350 -935 10257 -3999 -3658 -3985 -3585 2316 -2294
+	Shaula -5581 -2342 8595 -9843 5971 -4776 3642 -4588 487 -1209
+	Sheratan 1233 -101 4962 -2131 2114 8964 -2542 6609 815 -12995
+	Si'yak'ku 7994 3879 7628 721 -6154 -1177 -443 6059 -5040 4750
+	Sich'ka'ara 6526 -8782 7450 6935 -9594 -815 8638 -3212 -1727 6728
+	Silicium -5378 173 -3378 1791 3653 -1676 -12671 -1817 5082 1164
+	Silikatakfar 2277 -24048 8253 -8025 -795 -1580 -6465 9955 -9701 -5382
+	Similisti 2468 -10225 13689 -8916 8356 -13897 -3260 -2516 -5972 2990
+	Sirius -1590 -6004 -1541 -5084 -9803 1220 -6536 4651 -13641 1895
+	Skeruto 3647 3058 -5525 -2622 -3867 -8785 -4416 11661 1180 -6432
+	Sko'karak -5275 -2625 -47 -3104 -3886 3659 6473 8927 -4972 6227
+	Skryydr 40 4183 1088 -2845 6192 -764 -2519 -1213 4447 2418
+	Smoline 0 0 0 0 0 0 0 0 0 0
+	Soakle'deen 0 0 0 0 0 0 0 0 0 0
+	Sobarati 973 -334 -4331 8041 5042 -1824 2892 7564 -6161 -940
+	Sol -3458 4727 9484 9090 -12586 -6308 -13556 -8491 -3253 -1503
+	Solifar 792 -524 -621 1331 368 -2515 1225 3178 -486 -949
+	Soreem 0 0 0 0 0 0 0 0 0 0
+	Sospi 13368 667 751 -3491 -8875 -5476 4493 5244 10053 -7072
+	Sought 0 0 0 0 0 0 0 0 0 0
+	Spica -2684 16533 -17979 5723 8509 10012 -4244 -2825 -9619 265
+	Staircase 0 0 0 0 0 0 0 0 0 0
+	Sudamai 386 5845 -2748 12507 -17786 3803 3360 7327 3836 -14523
+	Suhail 2486 -12083 -561 -2683 2386 -1420 -2153 -4551 1786 3416
+	Sumar 11751 8990 -13276 7005 2407 9566 -2149 -860 1597 -1865
+	Sumprast -4755 -2124 5782 3392 -11335 -1451 775 5215 8766 -6570
+	Svartal -8184 -75 -3005 11499 6766 -2257 8172 5463 606 -5962
+	Svind 2820 -279 6222 3145 -6 -1766 -1447 -229 3371 2098
+	Syj'ngf'bnk 0 0 0 0 0 0 0 0 0 0
+	TOI-02 -484 -1772 5354 5776 197 -94 -1738 7194 -1417 -7253
+	TYU-16 -3078 -6743 8617 -474 -4604 -4944 6456 9619 -6245 4906
+	Taarsten 2688 513 511 -516 -4762 -3825 -4632 5275 -3452 -10879
+	Tais 4087 2624 -3582 2003 -6323 -3648 1071 -10419 7878 -859
+	Talita 6550 2650 -7795 6207 -9958 2826 -5022 7730 -2245 6303
+	"Tania Australis" -1386 -2056 -9863 2580 9483 925 10168 14137 -7718 -1208
+	Tarazed 6710 -3310 1238 -1375 -1298 -2663 4301 -17510 -13883 -370
+	"Team Blue" 0 0 0 0 0 0 0 0 0 0
+	"Team Red" 0 0 0 0 0 0 0 0 0 0
+	Tejat 1222 -748 237 6281 1121 355 -3295 7478 -8564 -867
+	Termara 5880 98 -3169 -4825 8050 4744 7872 -4256 11469 -5902
+	"Terra Incognita" 0 0 0 0 0 0 0 0 0 0
+	Thaen 2782 -6754 5250 -3782 3730 -1467 -574 4534 -2782 9397
+	Theurrhaeus 2620 3957 -3671 580 2947 -3534 3178 1032 1568 2289
+	Thornton 0 0 0 0 0 0 0 0 0 0
+	Three 0 0 0 0 0 0 0 0 0 0
+	Tortor 1947 10560 -2457 -1606 -2760 -3249 5712 4760 2835 3586
+	Turais -13225 9386 -3381 -260 422 4279 -1480 7537 6779 149
+	Turnelar -137 7787 -3402 -8292 -1652 10540 3114 3726 -4672 -4762
+	UEH-60 -5431 -6666 -2416 10884 4123 3709 -10341 -1689 3842 1997
+	UVG-64 -4440 -4147 13401 -3041 666 -1189 -3132 2771 6328 -79
+	Ukkamu 5287 130 -7097 4298 4285 3288 -5728 -11605 -3659 -9380
+	"Ula Mon" -3634 1911 -7989 3928 12040 4192 4203 6850 -2216 6452
+	"Ultima Thule" 1461 358 -7101 4973 -3257 -2528 -2002 422 1108 4177
+	Umba'draeuin -72 406 4249 8855 -298 3046 -4585 11693 14866 11080
+	Umbral 2927 615 -3551 -4085 -5631 10313 966 -1788 -5561 2558
+	Unagi 11399 3043 -3007 8105 2725 -4994 1846 7345 2492 -1542
+	Unobu 242 -6744 130 191 -941 4847 4979 -2822 -369 3785
+	Unukalhai -9516 5299 5309 -2991 1217 -520 -3581 -2323 3783 7878
+	"Uwa Fahn" 923 2810 -6611 -2442 10099 6298 -6694 1389 -4204 5434
+	Vega -9852 11165 -7294 4563 -9149 -364 559 -7583 -5200 4802
+	Veil 0 0 0 0 0 0 0 0 0 0
+	Verus -8912 -5300 -1942 5505 -11813 10576 19377 4397 -4146 7397
+	Vindemiatrix -11281 3997 1874 -4049 642 3241 -2408 -9878 3526 5470
+	Vo'jaerun -420 -6887 83 14033 -2602 5711 -2009 4616 4296 292
+	Volax 2271 -2308 -3706 -6385 -10452 8979 4398 1087 578 -7330
+	WOW-56 1249 -5333 341 7492 -7689 3919 2069 114 3610 -7493
+	"Wah Ki" -2148 510 -24430 -2046 2911 14562 -4130 1395 -10727 9093
+	"Wah Oh" -9319 1788 -763 -2349 6089 -6040 9653 -7034 -9594 15172
+	"Wah Yoot" 4371 17173 -12864 6857 11518 5667 -4151 5949 -719 2034
+	Wanderer 0 0 0 0 0 0 0 0 0 0
+	Waypoint -6654 1562 -4285 -2422 -5552 -7420 3380 -1933 -4131 9801
+	Wazn -4931 1337 3682 -6005 7480 4918 7101 5927 -16003 1674
+	Wei -3926 -721 2109 3018 -1385 -200 3828 -1734 -143 1113
+	Wezen -1711 2930 9139 -2021 -5871 1072 -5186 -2329 -647 -3824
+	Whuroxla -343 -3942 -2006 128 2119 -8541 -3626 -1639 4211 4248
+	"World's Beginning" 0 0 0 0 0 0 0 0 0 0
+	"World's End" 0 0 0 0 0 0 0 0 0 0
+	Wyrren 0 0 0 0 0 0 0 0 0 0
+	Xenos 8715 7457 -7059 -451 -4883 2920 -1109 -3890 -2108 -714
+	"Ya Hai" -8096 -1573 -4593 -5237 16356 4497 -15058 3464 -13857 16688
+	"Yed Prior" -8401 10007 -3992 -4359 -1422 12132 6070 9408 -3148 818
+	Ytgfrv'hjusd'ikmuivra 0 0 0 0 0 0 0 0 0 0
+	Ytmiuk 153 1314 -6364 805 5622 551 2287 6427 11914 -5461
+	Zaleria 0 0 0 0 0 0 0 0 0 0
+	Zaurak 5054 8574 1404 3537 1244 6393 2201 -1735 4157 -9114
+	"Zeta Aquilae" -3255 6221 -883 -6534 2414 12172 -5669 -5698 1203 -2320
+	"Zeta Centauri" -5804 12765 -10299 1756 -2204 9836 -5449 5124 -1402 -1999
+	Zosma -3764 -661 -5572 -7395 1880 3244 9150 7422 -9773 -44
+	"Zuba Zub" -2224 -5749 -9972 -2936 -2047 736 3663 598 -5801 -3279
+	Zubenelgenubi -6284 8727 3168 2160 -4850 -360 -4282 -5403 3377 3243
+	Zubeneschamali -975 -2866 -2970 997 -1162 -4546 -6912 3118 -3884 1189
+	Zuhinu -10072 -3026 -5262 8065 -4209 -9007 7570 -2251 -4526 -8980
+destroyed "Le Troll"
+visited Alderamin
+visited Caph
+visited Vega
+visited Alnair
+visited Diphda
+visited Altair
+visited Scheat
+visited Ankaa
+visited Markab
+visited Peacock
+visited Fomalhaut
+visited "Delta Capricorni"
+visited Nocte
+visited Ascella
+visited Rasalhague
+visited Orvala
+visited "Zeta Aquilae"
+visited Cebalrai
+visited Shaula
+visited Nunki
+visited Boral
+visited Aldhibain
+visited Naper
+visited Zubeneschamali
+visited "Alpha Arae"
+visited Tarazed
+visited Sabik
+visited "Delta Sagittarii"
+visited Unukalhai
+visited Kornephoros
+visited Eber
+visited Ildaria
+visited Seginus
+visited Alnasl
+visited Antares
+visited Hintar
+visited Zubenelgenubi
+visited Rutilicus
+visited Wei
+visited Men
+visited Rastaban
+visited "Yed Prior"
+visited Denebola
+visited Sol
+visited Gacrux
+visited Alpheratz
+visited Mizar
+visited "Kaus Borealis"
+visited Algenib
+visited Albaldah
+visited Girtab
+visited Alniyat
+visited Han
+visited Betelgeuse
+visited Castor
+visited Pollux
+visited Pherkad
+visited Atria
+visited Lesath
+visited Menkent
+visited Sheratan
+visited Achernar
+visited Alioth
+visited Sarin
+visited Graffias
+visited Gienah
+visited Mintaka
+visited "Gamma Corvi"
+visited Kochab
+visited Alphecca
+visited Ruchbah
+visited "Beta Lupi"
+visited Dschubba
+visited "Kappa Centauri"
+visited Umbral
+visited Sumar
+visited Procyon
+visited Mirzam
+visited Moktar
+visited Volax
+visited Phact
+visited Mirfak
+visited Phurad
+visited Cardax
+visited Eteron
+visited Muhlifain
+visited Hassaleh
+visited Danoa
+visited Fala
+visited "Gamma Cassiopeiae"
+visited Spica
+visited Gorvi
+visited Tortor
+visited Rajak
+visited Hamal
+visited Nihal
+visited Sadalmelik
+visited Merak
+visited "Kaus Australis"
+visited "Delta Velorum"
+visited Mora
+visited Dubhe
+visited Sirius
+visited Sadalsuud
+visited Enif
+visited Dabih
+visited Fingol
+visited Aurum
+visited Ipsing
+visited Sargas
+visited Tejat
+visited Silicium
+visited Wezen
+visited Lolami
+visited Porrima
+visited Mebsuta
+visited Kraz
+visited Matar
+visited Muphrid
+visited Regulus
+visited Mimosa
+visited Sospi
+visited Suhail
+visited "Ultima Thule"
+visited Durax
+visited Unagi
+visited Capella
+visited Menkalinan
+visited Wazn
+visited Vindemiatrix
+visited Alkaid
+visited Alphard
+visited Algorel
+visited Canopus
+visited Alhena
+visited Holeb
+visited Phecda
+visited Turais
+visited Hadar
+visited Alheka
+visited Almaaz
+visited Almach
+visited "Cor Caroli"
+visited Persian
+visited "Tania Australis"
+visited Alnilam
+visited Alnitak
+visited Kursa
+visited Algieba
+visited Zosma
+visited Algol
+visited Hatysa
+visited "Alpha Hydri"
+visited Miaplacidus
+visited Rigel
+visited Arcturus
+visited Naos
+visited Saiph
+visited Bellatrix
+visited Talita
+visited Regor
+visited Menkar
+visited "Alpha Centauri"
+visited Markeb
+visited Tais
+visited Avior
+visited Arneb
+visited Aludra
+visited Aspidiske
+visited Oblate
+visited Kugel
+visited Adhara
+visited "Epsilon Leonis"
+visited Aldebaran
+visited Elnath
+visited "Al Dhanab"
+visited Polaris
+visited "Zeta Centauri"
+visited Acrux
+visited Gomeisa
+visited Mirach
+visited Albireo
+visited Eltanin
+visited Sadr
+visited Acamar
+visited Schedar
+visited Minkar
+visited Izar
+visited Lurata
+visited Alcyone
+visited Zaurak
+visited Enigma
+visited Termara
+"visited planet" Earth
+"visited planet" Trinket
+"visited planet" "New Portland"
+"visited planet" Mars
+"visited planet" Dancer
+"visited planet" Bourne
+"visited planet" Tundra
+"visited planet" Oblivion
+"visited planet" "New Austria"
+"visited planet" Silver
+"visited planet" Solace
+"visited planet" Arabia
+"visited planet" "New Iceland"
+"visited planet" Greenrock
+"visited planet" Rand
+"visited planet" Clink
+"visited planet" Zug
+"visited planet" Deep
+"visited planet" Sinter
+"visited planet" Wayfarer
+"visited planet" Skymoot
+"visited planet" Geminus
+"visited planet" Longjump
+"visited planet" Maker
+"visited planet" Glaze
+"visited planet" Foundry
+"visited planet" Harmony
+"visited planet" Glory
+"visited planet" "New Wales"
+"visited planet" Hopper
+"visited planet" Valhalla
+"visited planet" "New Kansas"
+"visited planet" "New Holland"
+"visited planet" Gemstone
+"visited planet" Hephaestus
+"visited planet" Clark
+"visited planet" "New Tibet"
+"visited planet" Hope
+"visited planet" "New Boston"
+"visited planet" "New Greenland"
+"visited planet" Ingot
+"visited planet" "New China"
+"visited planet" Rust
+"visited planet" Hestia
+"visited planet" Heartland
+"visited planet" Geyser
+"visited planet" Tinker
+"visited planet" Sundrinker
+"visited planet" Haze
+"visited planet" Darkstone
+"visited planet" Millrace
+"visited planet" Poseidos
+"visited planet" "Wyvern Station"
+"visited planet" Farseer
+"visited planet" "New Washington"
+"visited planet" "New Sahara"
+"visited planet" Martini
+"visited planet" "Big Sky"
+"visited planet" Shorebreak
+"visited planet" Thrall
+"visited planet" Starcross
+"visited planet" "New India"
+"visited planet" Thunder
+"visited planet" "Charon Station"
+"visited planet" Twinstar
+"visited planet" Ada
+"visited planet" Hermes
+"visited planet" Reunion
+"visited planet" "Kraken Station"
+"visited planet" Follower
+"visited planet" Chiron
+"visited planet" Lichen
+"visited planet" Relic
+"visited planet" "New Argentina"
+"visited planet" Echo
+"visited planet" Luna
+"visited planet" Oasis
+"visited planet" Tyil
+"visited planet" "Aurum Station"
+"visited planet" "Enigma Mu"
