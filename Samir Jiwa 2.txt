@@ -108,13 +108,13 @@ ship Bactrian
 		"turret mounts" 6
 		"weapon capacity" 300
 	outfits
-		"Mass Expansion" 26
 		"NDR-114 Android" 69
+		"Mass Expansion" 26
 		"Cloaking Device"
-		"Sand Cell"
 		`"Baellie" Atomic Engines`
-		"Bunk Room" 53
+		"Sand Cell"
 		"Small Bunk Room"
+		"Bunk Room" 53
 		"Pug Biodefenses" 459
 		"Nerve Gas" 459
 		"Developer Drive"
@@ -138,10 +138,10 @@ ship Bactrian
 	fighter -38 -26
 	fighter 35 36
 	fighter -47 97
-	explode "small explosion" 25
 	explode "medium explosion" 35
 	explode "large explosion" 45
 	explode "huge explosion" 30
+	explode "small explosion" 25
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -173,17 +173,17 @@ ship "Pug Arfecta"
 		"turret mounts" 5
 		"weapon capacity" 390
 	outfits
-		"Mass Expansion" 3
 		"NDR-114 Android" 36
+		"Mass Expansion" 3
 		"Cloaking Device"
 		"Quantum Keystone"
+		"Large Heat Shunt"
 		"Systems Core (Medium)"
 		"Thruster (Stellar Class)"
-		"Large Heat Shunt"
 		"Steering (Stellar Class)"
+		"Pug Gridfire Turret" 3
 		"Pug Biodefenses" 12
 		"Tier 3 Anti-Missile" 2
-		"Pug Gridfire Turret" 3
 		"Outfit Scanner"
 		"Developer Drive"
 	crew 1
@@ -198,10 +198,10 @@ ship "Pug Arfecta"
 	turret 0 40 "Pug Gridfire Turret"
 	turret -73 84 "Pug Gridfire Turret"
 	turret 73 84 "Pug Gridfire Turret"
-	explode "small explosion" 60
 	explode "tiny explosion" 100
 	explode "medium explosion" 30
 	explode "big explosion" 10
+	explode "small explosion" 60
 	system Cinxia
 	planet Caelian
 	parked
@@ -233,17 +233,17 @@ ship "Pug Arfecta"
 		"turret mounts" 5
 		"weapon capacity" 390
 	outfits
-		"Mass Expansion" 3
 		"NDR-114 Android" 36
+		"Mass Expansion" 3
 		"Cloaking Device"
 		"Quantum Keystone"
+		"Large Heat Shunt"
 		"Systems Core (Medium)"
 		"Thruster (Stellar Class)"
-		"Large Heat Shunt"
 		"Steering (Stellar Class)"
+		"Pug Gridfire Turret" 3
 		"Pug Biodefenses" 12
 		"Tier 3 Anti-Missile" 2
-		"Pug Gridfire Turret" 3
 		"Developer Drive"
 	crew 1
 	fuel 1200
@@ -257,10 +257,10 @@ ship "Pug Arfecta"
 	turret 0 40 "Pug Gridfire Turret"
 	turret -73 84 "Pug Gridfire Turret"
 	turret 73 84 "Pug Gridfire Turret"
-	explode "small explosion" 60
 	explode "tiny explosion" 100
 	explode "medium explosion" 30
 	explode "large explosion" 10
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -294,17 +294,17 @@ ship "Pug Arfecta"
 		"turret mounts" 5
 		"weapon capacity" 390
 	outfits
-		"Mass Expansion" 3
 		"NDR-114 Android" 36
+		"Mass Expansion" 3
 		"Cloaking Device"
 		"Quantum Keystone"
+		"Large Heat Shunt"
 		"Systems Core (Medium)"
 		"Thruster (Stellar Class)"
-		"Large Heat Shunt"
 		"Steering (Stellar Class)"
+		"Pug Gridfire Turret" 3
 		"Pug Biodefenses" 12
 		"Tier 3 Anti-Missile" 2
-		"Pug Gridfire Turret" 3
 		"Developer Drive"
 	crew 1
 	fuel 1200
@@ -318,10 +318,10 @@ ship "Pug Arfecta"
 	turret 0 40 "Pug Gridfire Turret"
 	turret -73 84 "Pug Gridfire Turret"
 	turret 73 84 "Pug Gridfire Turret"
-	explode "small explosion" 60
 	explode "tiny explosion" 100
 	explode "medium explosion" 30
 	explode "large explosion" 10
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -348,20 +348,20 @@ ship "Quarg Wardragon"
 		"turret mounts" 4
 		"weapon capacity" 200
 	outfits
-		"Mass Expansion" 2
 		"NDR-114 Android" 161
+		"Mass Expansion" 2
 		"Hai Chasm Batteries"
-		"Thruster (Planetary Class)"
 		"Large Heat Shunt"
 		"Systems Core (Large)"
+		"Thruster (Planetary Class)"
 		"Steering (Lunar Class)"
 		"Steering (Comet Class)"
-		"Intrusion Countermeasures" 160
 		"Korath Warder" 2
-		"Red Sun Reactor"
+		"Intrusion Countermeasures" 160
 		"Nanotech Battery"
 		"Quarg Skylance" 2
 		"Quantum Shield Generator"
+		"Red Sun Reactor"
 		"Developer Drive"
 	crew 1
 	fuel 800
@@ -374,11 +374,11 @@ ship "Quarg Wardragon"
 	turret 29 6 "Quarg Skylance"
 	turret -29 6 "Korath Warder"
 	turret 29 6 "Korath Warder"
-	explode "small explosion" 16
 	explode "tiny explosion" 12
 	explode "medium explosion" 30
-	explode "huge explosion" 20
 	explode "big explosion" 40
+	explode "huge explosion" 20
+	explode "small explosion" 16
 	"final explode" "final explosion medium" 1
 	system Cinxia
 	planet Caelian
@@ -409,18 +409,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -441,11 +441,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Wanderer Anti-Missile"
 	turret 102 188 "Wanderer Anti-Missile"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
-	explode "huge explosion" 15
 	explode "big explosion" 50
+	explode "huge explosion" 15
+	explode "small explosion" 60
 	system Cinxia
 	planet Caelian
 	parked
@@ -476,18 +476,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -508,11 +508,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Wanderer Anti-Missile"
 	turret 102 188 "Wanderer Anti-Missile"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
-	explode "huge explosion" 15
 	explode "big explosion" 50
+	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -544,18 +544,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -576,11 +576,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Wanderer Anti-Missile"
 	turret 102 188 "Wanderer Anti-Missile"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
-	explode "huge explosion" 15
 	explode "big explosion" 50
+	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -613,18 +613,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -645,11 +645,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Wanderer Anti-Missile"
 	turret 102 188 "Wanderer Anti-Missile"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
-	explode "huge explosion" 15
 	explode "big explosion" 50
+	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -682,18 +682,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -714,11 +714,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Wanderer Anti-Missile"
 	turret 102 188 "Wanderer Anti-Missile"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
-	explode "huge explosion" 15
 	explode "big explosion" 50
+	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -751,18 +751,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -783,11 +783,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -819,18 +819,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -851,11 +851,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -887,18 +887,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -919,11 +919,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -956,18 +956,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -988,11 +988,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1025,18 +1025,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1057,11 +1057,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1093,18 +1093,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1125,11 +1125,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1162,18 +1162,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1194,11 +1194,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1230,18 +1230,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1262,11 +1262,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1299,18 +1299,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1331,11 +1331,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1368,18 +1368,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1400,11 +1400,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1436,18 +1436,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1468,11 +1468,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1505,18 +1505,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1537,11 +1537,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1573,18 +1573,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1605,11 +1605,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1642,18 +1642,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1674,11 +1674,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1710,18 +1710,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1742,11 +1742,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1778,18 +1778,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1810,11 +1810,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1846,18 +1846,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1878,11 +1878,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1915,18 +1915,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -1947,11 +1947,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -1983,18 +1983,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2015,11 +2015,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2051,18 +2051,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2083,11 +2083,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2119,18 +2119,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2151,11 +2151,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2187,18 +2187,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2219,11 +2219,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2255,18 +2255,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2287,11 +2287,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Quarg Skylance"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2323,18 +2323,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2355,11 +2355,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2392,18 +2392,18 @@ ship "Kar Ik Vot 349"
 		"Cloaking Device"
 		"Quantum Keystone"
 		"Hai Chasm Batteries"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Systems Core (Large)"
 		"Steering (Planetary Class)"
+		"Thruster (Stellar Class)"
 		"Korath Disruptor"
-		Flamethrower 4
-		"Wanderer Anti-Missile" 2
-		"Nanotech Battery"
 		"Wanderer Ramscoop"
+		"Nanotech Battery"
 		"Quarg Skylance" 5
 		"Quantum Shield Generator"
+		Flamethrower 4
+		"Wanderer Anti-Missile" 2
 		"Developer Drive"
 	crew 0
 	fuel 400
@@ -2424,11 +2424,11 @@ ship "Kar Ik Vot 349"
 	turret 40 -111 "Korath Disruptor"
 	turret -102 188 "Quarg Skylance"
 	turret 102 188 "Quarg Skylance"
-	explode "small explosion" 60
 	explode "tiny explosion" 120
 	explode "medium explosion" 70
 	explode "large explosion" 50
 	explode "huge explosion" 15
+	explode "small explosion" 60
 	"final explode" "final explosion large" 1
 	system Cinxia
 	planet Caelian
@@ -2455,15 +2455,15 @@ ship Bactrian
 		"turret mounts" 6
 		"weapon capacity" 300
 	outfits
-		"Cargo Expansion" 8
 		"NDR-114 Android" 70
+		"Cargo Expansion" 8
 		"LP144a Battery Pack"
-		"Thruster (Stellar Class)"
-		"Large Heat Shunt" 3
 		"Triple Plasma Core"
+		"Large Heat Shunt" 3
 		"Steering (Planetary Class)"
-		"Nerve Gas" 343
+		"Thruster (Stellar Class)"
 		"Quantum Shield Generator"
+		"Nerve Gas" 343
 	crew 1
 	fuel 700
 	shields 17500
@@ -2484,10 +2484,10 @@ ship Bactrian
 	fighter -38 -26
 	fighter 35 36
 	fighter -47 97
-	explode "small explosion" 25
 	explode "medium explosion" 35
-	explode "huge explosion" 30
 	explode "big explosion" 45
+	explode "huge explosion" 30
+	explode "small explosion" 25
 	system Polaris
 	planet Shangri-La
 	parked
@@ -2537,10 +2537,10 @@ ship Bactrian
 	fighter -38 -26
 	fighter 35 36
 	fighter -47 97
-	explode "small explosion" 25
 	explode "medium explosion" 35
 	explode "large explosion" 45
 	explode "huge explosion" 30
+	explode "small explosion" 25
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -2566,20 +2566,20 @@ ship "Saryd Sojourner"
 		"turret mounts" 4
 		"weapon capacity" 202
 	outfits
+		"Mass Expansion" 13
+		"Jump Drive"
 		"Small Thrust Module"
 		"Small Steering Module"
 		"Electron Turret" 2
-		"Mass Expansion" 13
-		"Jump Drive"
+		"Hai Corundum Regenerator"
 		"Hai Tracker Pod" 2
 		"Hai Tracker" 96
-		"Hai Corundum Regenerator"
 		"Hai Diamond Regenerator" 2
 		"Hai Fissure Batteries"
 		`"Bufaer" Atomic Thruster`
+		"Triple Plasma Core"
 		"Small Heat Shunt" 3
 		"Large Heat Shunt" 3
-		"Triple Plasma Core"
 		"Steering (Lunar Class)"
 		"Korath Warder" 2
 	crew 19
@@ -2597,10 +2597,10 @@ ship "Saryd Sojourner"
 	turret 0 -96 "Korath Warder"
 	turret 17 -104 "Electron Turret"
 	turret 0 157 "Electron Turret"
-	explode "small explosion" 20
 	explode "medium explosion" 30
 	explode "large explosion" 10
 	explode "huge explosion" 10
+	explode "small explosion" 20
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -2626,13 +2626,13 @@ ship Raven
 		"weapon capacity" 90
 	outfits
 		"Mass Expansion"
-		"Thruster (Planetary Class)"
 		"Large Heat Shunt"
+		"Thruster (Planetary Class)"
 		"Steering (Lunar Class)"
-		"Catalytic Ramscoop"
 		"Antimatter Core"
-		"LP072a Battery Pack"
+		"Catalytic Ramscoop"
 		"D14-RN Shield Generator"
+		"LP072a Battery Pack"
 	crew 6
 	fuel 500
 	shields 4700
@@ -2644,10 +2644,10 @@ ship Raven
 	gun 10 -33
 	gun -16 -28
 	gun 16 -28
-	explode "small explosion" 40
 	explode "tiny explosion" 28
 	explode "medium explosion" 24
 	explode "big explosion" 16
+	explode "small explosion" 40
 	system Polaris
 	planet Shangri-La
 	parked
@@ -2676,13 +2676,13 @@ ship "Marauder Arrow"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
-		"LP072a Battery Pack"
-		"Cooling Ducts"
-		"Dwarf Core"
-		"Quad Blaster Turret"
 		"Heavy Laser" 2
 		"D14-RN Shield Generator"
+		"LP072a Battery Pack"
+		"Cooling Ducts"
 		"Laser Rifle" 5
+		"Quad Blaster Turret"
+		"Dwarf Core"
 	crew 3
 	fuel 400
 	shields 2300
@@ -2693,9 +2693,9 @@ ship "Marauder Arrow"
 	gun -6 -36 "Heavy Laser"
 	gun 6 -36 "Heavy Laser"
 	turret 0 15 "Quad Blaster Turret"
-	explode "small explosion" 18
 	explode "tiny explosion" 12
 	explode "medium explosion" 6
+	explode "small explosion" 18
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2726,11 +2726,11 @@ ship "Marauder Arrow"
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
 		Supercapacitor
-		"Anti-Missile Turret"
-		"Dwarf Core"
 		"Heavy Laser" 2
 		"D14-RN Shield Generator"
 		"Laser Rifle" 5
+		"Anti-Missile Turret"
+		"Dwarf Core"
 	crew 2
 	fuel 400
 	shields 2300
@@ -2741,9 +2741,9 @@ ship "Marauder Arrow"
 	gun -6 -36 "Heavy Laser"
 	gun 6 -36 "Heavy Laser"
 	turret 0 15 "Anti-Missile Turret"
-	explode "small explosion" 18
 	explode "tiny explosion" 12
 	explode "medium explosion" 6
+	explode "small explosion" 18
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2774,12 +2774,12 @@ ship "Marauder Arrow"
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
 		"Heavy Laser Turret"
-		"Dwarf Core"
 		"D14-RN Shield Generator"
 		"Laser Rifle" 5
 		"LP036a Battery Pack"
 		"Water Coolant System"
 		"Energy Blaster" 4
+		"Dwarf Core"
 	crew 3
 	fuel 400
 	shields 2300
@@ -2792,9 +2792,9 @@ ship "Marauder Arrow"
 	gun -7 -34 "Energy Blaster"
 	gun 7 -34 "Energy Blaster"
 	turret 0 15 "Heavy Laser Turret"
-	explode "small explosion" 18
 	explode "tiny explosion" 12
 	explode "medium explosion" 6
+	explode "small explosion" 18
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2821,19 +2821,19 @@ ship "Marauder Bounder"
 		"turret mounts" 2
 		"weapon capacity" 80
 	outfits
+		Afterburner
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
-		"Mass Expansion"
-		Afterburner
 		"Particle Cannon"
+		"Security Station"
 		"LP072a Battery Pack"
-		"Dwarf Core"
-		"Quad Blaster Turret" 2
 		"Laser Rifle" 18
 		"Water Coolant System"
 		"S-270 Regenerator"
-		"Security Station"
+		"Quad Blaster Turret" 2
+		"Dwarf Core"
 	crew 4
 	fuel 900
 	shields 2500
@@ -2844,9 +2844,9 @@ ship "Marauder Bounder"
 	gun 0 -85 "Particle Cannon"
 	turret -38 7 "Quad Blaster Turret"
 	turret 38 7 "Quad Blaster Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2873,17 +2873,17 @@ ship "Marauder Bounder"
 		"turret mounts" 2
 		"weapon capacity" 80
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
-		"Mass Expansion"
-		"LP072a Battery Pack"
-		"Dwarf Core"
-		"Quad Blaster Turret" 2
 		"Heavy Laser"
+		"LP072a Battery Pack"
 		"Laser Rifle" 18
 		"Water Coolant System"
 		"S-270 Regenerator"
+		"Quad Blaster Turret" 2
+		"Dwarf Core"
 	crew 4
 	fuel 900
 	shields 2500
@@ -2895,9 +2895,9 @@ ship "Marauder Bounder"
 	gun 0 -85 "Heavy Laser"
 	turret -38 7 "Quad Blaster Turret"
 	turret 38 7 "Quad Blaster Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2924,18 +2924,18 @@ ship "Marauder Bounder"
 		"turret mounts" 2
 		"weapon capacity" 100
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A255 Atomic Steering"
-		"Mass Expansion"
 		"Heavy Laser Turret" 2
+		"Modified Blaster" 2
+		"Security Station"
 		"LP072a Battery Pack"
-		"Dwarf Core"
 		"Laser Rifle" 18
 		"Water Coolant System"
 		"S-270 Regenerator"
-		"Security Station"
-		"Modified Blaster" 2
+		"Dwarf Core"
 	crew 4
 	fuel 900
 	shields 2500
@@ -2947,9 +2947,9 @@ ship "Marauder Bounder"
 	gun -7 -77 "Modified Blaster"
 	turret -37 4 "Heavy Laser Turret"
 	turret 37 4 "Heavy Laser Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -2976,18 +2976,18 @@ ship "Marauder Falcon"
 		"turret mounts" 4
 		"weapon capacity" 265
 	outfits
+		"Mass Expansion" 3
 		Hyperdrive
 		"A520 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion" 3
 		"Fusion Reactor"
 		"Liquid Helium Cooler"
-		"Laser Rifle" 80
-		"Plasma Cannon" 4
 		"Modified Blaster Turret" 4
-		"LP288a Battery Pack"
 		"D67-TM Shield Generator"
+		"Plasma Cannon" 4
+		"LP288a Battery Pack"
 		"Large Radar Jammer"
+		"Laser Rifle" 80
 	crew 47
 	fuel 600
 	shields 14100
@@ -3003,10 +3003,10 @@ ship "Marauder Falcon"
 	turret 57 32.5 "Modified Blaster Turret"
 	turret -16 -25 "Modified Blaster Turret"
 	turret 16 -25 "Modified Blaster Turret"
-	explode "small explosion" 55
 	explode "tiny explosion" 40
 	explode "medium explosion" 60
 	explode "big explosion" 40
+	explode "small explosion" 55
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -3033,19 +3033,19 @@ ship "Marauder Falcon"
 		"turret mounts" 4
 		"weapon capacity" 265
 	outfits
+		"Mass Expansion" 3
 		Hyperdrive
 		"A860 Atomic Thruster"
-		"Electron Beam" 4
 		"A865 Atomic Steering"
-		"Mass Expansion" 3
+		"Electron Beam" 4
 		"LP144a Battery Pack"
 		"Fusion Reactor"
 		"Liquid Helium Cooler"
-		"D41-HY Shield Generator"
-		"Blaster Turret" 2
-		"Laser Rifle" 80
 		"Modified Blaster Turret" 2
+		"Blaster Turret" 2
 		"Large Radar Jammer"
+		"D41-HY Shield Generator"
+		"Laser Rifle" 80
 	crew 47
 	fuel 600
 	shields 14100
@@ -3062,10 +3062,10 @@ ship "Marauder Falcon"
 	turret 57 32.5 "Blaster Turret"
 	turret -16 -24 "Modified Blaster Turret"
 	turret 16 -24 "Modified Blaster Turret"
-	explode "small explosion" 55
 	explode "tiny explosion" 40
 	explode "medium explosion" 60
 	explode "big explosion" 40
+	explode "small explosion" 55
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -3092,18 +3092,18 @@ ship "Marauder Falcon"
 		"turret mounts" 4
 		"weapon capacity" 300
 	outfits
+		"Mass Expansion" 3
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion" 3
 		"LP144a Battery Pack"
 		"Fusion Reactor"
 		"Liquid Helium Cooler"
-		"D41-HY Shield Generator"
-		"Quad Blaster Turret" 4
-		"Laser Rifle" 80
 		"Plasma Cannon" 6
 		"Large Radar Jammer"
+		"D41-HY Shield Generator"
+		"Laser Rifle" 80
+		"Quad Blaster Turret" 4
 	crew 47
 	fuel 600
 	shields 14100
@@ -3121,10 +3121,10 @@ ship "Marauder Falcon"
 	turret 57 32.5 "Quad Blaster Turret"
 	turret -16 -25 "Quad Blaster Turret"
 	turret 16 -25 "Quad Blaster Turret"
-	explode "small explosion" 55
 	explode "tiny explosion" 40
 	explode "medium explosion" 60
 	explode "big explosion" 40
+	explode "small explosion" 55
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -3151,18 +3151,18 @@ ship "Marauder Firebird"
 		"turret mounts" 2
 		"weapon capacity" 175
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion"
 		Supercapacitor
 		"Heavy Laser Turret"
 		"Fusion Reactor"
-		"S-970 Regenerator"
-		"Heavy Anti-Missile Turret"
 		"Liquid Helium Cooler"
-		"Laser Rifle" 25
 		"Plasma Cannon" 4
+		"Heavy Anti-Missile Turret"
+		"S-970 Regenerator"
+		"Laser Rifle" 25
 	crew 11
 	fuel 400
 	shields 7000
@@ -3176,10 +3176,10 @@ ship "Marauder Firebird"
 	gun 27 -32 "Plasma Cannon"
 	turret -5 3 "Heavy Laser Turret"
 	turret 5 3 "Heavy Anti-Missile Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3206,20 +3206,20 @@ ship "Marauder Firebird"
 		"turret mounts" 2
 		"weapon capacity" 175
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion"
 		Supercapacitor
 		"Fusion Reactor"
-		"S-970 Regenerator"
 		"Liquid Helium Cooler"
-		"Anti-Missile Turret"
-		"Quad Blaster Turret"
-		"Laser Rifle" 24
-		"LP036a Battery Pack"
-		"Security Station"
 		"Plasma Cannon" 4
+		"S-970 Regenerator"
+		"Security Station"
+		"Laser Rifle" 24
+		"Anti-Missile Turret"
+		"LP036a Battery Pack"
+		"Quad Blaster Turret"
 	crew 11
 	fuel 400
 	shields 7000
@@ -3234,10 +3234,10 @@ ship "Marauder Firebird"
 	gun 26.5 -33 "Plasma Cannon"
 	turret -5 3 "Quad Blaster Turret"
 	turret 5 3 "Anti-Missile Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3264,18 +3264,18 @@ ship "Marauder Firebird"
 		"turret mounts" 2
 		"weapon capacity" 210
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion"
 		Supercapacitor
-		"Particle Cannon" 4
 		"Fusion Reactor"
-		"S-970 Regenerator"
+		"Particle Cannon" 4
 		"Liquid Helium Cooler"
-		"Quad Blaster Turret" 2
-		"Laser Rifle" 24
+		"S-970 Regenerator"
 		"Security Station"
+		"Laser Rifle" 24
+		"Quad Blaster Turret" 2
 	crew 12
 	fuel 400
 	shields 7000
@@ -3289,10 +3289,10 @@ ship "Marauder Firebird"
 	gun 27 -32 "Particle Cannon"
 	turret -5 3 "Quad Blaster Turret"
 	turret 5 3 "Quad Blaster Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3319,20 +3319,20 @@ ship "Marauder Leviathan"
 		"turret mounts" 4
 		"weapon capacity" 265
 	outfits
+		"Mass Expansion" 2
+		"Ionic Afterburner"
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
-		"Mass Expansion" 2
-		"Ionic Afterburner"
-		"LP144a Battery Pack"
-		"D94-YV Shield Generator"
-		"Particle Cannon" 4
 		"Heavy Laser Turret" 2
+		"LP144a Battery Pack"
 		"Fusion Reactor"
+		"Particle Cannon" 4
+		"D94-YV Shield Generator"
 		"Liquid Helium Cooler"
-		"Quad Blaster Turret" 2
-		"Laser Rifle" 69
 		"Large Radar Jammer"
+		"Laser Rifle" 69
+		"Quad Blaster Turret" 2
 	crew 52
 	fuel 500
 	shields 16000
@@ -3348,10 +3348,10 @@ ship "Marauder Leviathan"
 	turret 15 -50 "Quad Blaster Turret"
 	turret -25 10 "Heavy Laser Turret"
 	turret 25 10 "Heavy Laser Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion large" 1
 	system Polaris
 	planet Shangri-La
@@ -3381,17 +3381,17 @@ ship "Marauder Manta"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A525 Atomic Steering"
+		"Liquid Nitrogen Cooler"
 		"LP144a Battery Pack"
 		"Particle Cannon" 2
-		"Liquid Nitrogen Cooler"
-		"Meteor Missile" 70
 		"Meteor Missile Launcher" 2
-		"Dwarf Core"
-		"Quad Blaster Turret"
+		"Plasma Cannon" 2
+		"Meteor Missile" 70
+		"Security Station" 3
 		"D14-RN Shield Generator"
 		"Laser Rifle" 8
-		"Security Station" 3
-		"Plasma Cannon" 2
+		"Quad Blaster Turret"
+		"Dwarf Core"
 	crew 8
 	fuel 400
 	shields 6500
@@ -3406,9 +3406,9 @@ ship "Marauder Manta"
 	gun -66 -30 "Meteor Missile Launcher"
 	gun 66 -30 "Meteor Missile Launcher"
 	turret 0 -29 "Quad Blaster Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3438,15 +3438,15 @@ ship "Marauder Manta"
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A525 Atomic Steering"
-		"LP144a Battery Pack"
 		"Liquid Nitrogen Cooler"
-		"Meteor Missile" 70
+		"LP144a Battery Pack"
 		"Meteor Missile Launcher" 2
-		"Dwarf Core"
-		"Quad Blaster Turret"
+		"Plasma Cannon" 4
+		"Meteor Missile" 70
 		"D14-RN Shield Generator"
 		"Laser Rifle" 11
-		"Plasma Cannon" 4
+		"Quad Blaster Turret"
+		"Dwarf Core"
 	crew 8
 	fuel 400
 	shields 6500
@@ -3462,9 +3462,9 @@ ship "Marauder Manta"
 	gun -66 -30 "Meteor Missile Launcher"
 	gun 66 -30 "Meteor Missile Launcher"
 	turret 0 -29 "Quad Blaster Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3495,15 +3495,15 @@ ship "Marauder Manta"
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
 		Supercapacitor
-		"Particle Cannon" 2
 		"Liquid Nitrogen Cooler"
-		"Fission Reactor"
-		"Meteor Missile" 70
+		"Particle Cannon" 2
 		"Proton Gun" 2
-		"Heavy Anti-Missile Turret"
 		"Meteor Missile Launcher" 2
-		"LP072a Battery Pack"
+		"Heavy Anti-Missile Turret"
+		"Meteor Missile" 70
+		"Fission Reactor"
 		"D14-RN Shield Generator"
+		"LP072a Battery Pack"
 		"Laser Rifle" 11
 		"LP036a Battery Pack"
 	crew 7
@@ -3520,9 +3520,9 @@ ship "Marauder Manta"
 	gun -66 -34 "Meteor Missile Launcher"
 	gun 66 -34 "Meteor Missile Launcher"
 	turret 0 -29 "Heavy Anti-Missile Turret"
-	explode "small explosion" 20
 	explode "tiny explosion" 10
 	explode "medium explosion" 15
+	explode "small explosion" 20
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3553,13 +3553,13 @@ ship "Marauder Quicksilver"
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
 		"Liquid Nitrogen Cooler"
-		"Fission Reactor"
 		"Heavy Anti-Missile Turret"
+		"Security Station" 3
+		"Fission Reactor"
 		"Heavy Laser" 2
 		"Laser Rifle"
 		"LP036a Battery Pack"
 		"S-270 Regenerator"
-		"Security Station" 3
 	crew 4
 	fuel 400
 	shields 3500
@@ -3570,8 +3570,8 @@ ship "Marauder Quicksilver"
 	gun -7 -39 "Heavy Laser"
 	gun 7 -39 "Heavy Laser"
 	turret 0 15 "Heavy Anti-Missile Turret"
-	explode "small explosion" 16
 	explode "tiny explosion" 12
+	explode "small explosion" 16
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3603,12 +3603,12 @@ ship "Marauder Quicksilver"
 		"A375 Atomic Steering"
 		"Pulse Cannon" 2
 		"Liquid Nitrogen Cooler"
+		"Security Station" 2
 		"Fission Reactor"
-		"Anti-Missile Turret"
 		"Laser Rifle" 5
+		"Anti-Missile Turret"
 		"LP036a Battery Pack"
 		"S-270 Regenerator"
-		"Security Station" 2
 	crew 4
 	fuel 400
 	shields 3500
@@ -3620,8 +3620,8 @@ ship "Marauder Quicksilver"
 	gun -7 -39 "Pulse Cannon"
 	gun 7 -39 "Pulse Cannon"
 	turret 0 15 "Anti-Missile Turret"
-	explode "small explosion" 16
 	explode "tiny explosion" 12
+	explode "small explosion" 16
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3653,12 +3653,12 @@ ship "Marauder Quicksilver"
 		"A255 Atomic Steering"
 		"Heavy Laser Turret"
 		"Liquid Nitrogen Cooler"
+		"Security Station" 4
 		"Fission Reactor"
 		"Heavy Laser" 2
 		"Laser Rifle"
 		"LP036a Battery Pack"
 		"S-270 Regenerator"
-		"Security Station" 4
 	crew 5
 	fuel 400
 	shields 3500
@@ -3670,8 +3670,8 @@ ship "Marauder Quicksilver"
 	gun -7 -39 "Heavy Laser"
 	gun 7 -39 "Heavy Laser"
 	turret 0 15 "Heavy Laser Turret"
-	explode "small explosion" 16
 	explode "tiny explosion" 12
+	explode "small explosion" 16
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3698,11 +3698,11 @@ ship "Marauder Raven"
 		"turret mounts" 1
 		"weapon capacity" 105
 	outfits
+		Afterburner
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
-		"Mass Expansion"
-		Afterburner
 		Supercapacitor 3
 		"Heavy Laser Turret"
 		"Liquid Nitrogen Cooler"
@@ -3721,10 +3721,10 @@ ship "Marauder Raven"
 	gun -16 -28 "Heavy Laser"
 	gun 16 -28 "Heavy Laser"
 	turret 0 -19 "Heavy Laser Turret"
-	explode "small explosion" 40
 	explode "tiny explosion" 28
 	explode "medium explosion" 24
 	explode "big explosion" 16
+	explode "small explosion" 40
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3751,10 +3751,10 @@ ship "Marauder Raven"
 		"turret mounts" 1
 		"weapon capacity" 105
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A370 Atomic Thruster"
 		"A375 Atomic Steering"
-		"Mass Expansion"
 		Supercapacitor
 		"Heavy Laser Turret"
 		"Liquid Nitrogen Cooler"
@@ -3774,10 +3774,10 @@ ship "Marauder Raven"
 	gun -16 -28 "Heavy Laser"
 	gun 16 -28 "Heavy Laser"
 	turret 0 -19 "Heavy Laser Turret"
-	explode "small explosion" 40
 	explode "tiny explosion" 28
 	explode "medium explosion" 24
 	explode "big explosion" 16
+	explode "small explosion" 40
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3804,17 +3804,17 @@ ship "Marauder Raven"
 		"turret mounts" 1
 		"weapon capacity" 135
 	outfits
+		"Mass Expansion"
 		Hyperdrive
 		"A250 Atomic Thruster"
 		"A375 Atomic Steering"
-		"Mass Expansion"
 		"Pulse Cannon" 2
 		Supercapacitor 2
 		"Heavy Laser Turret"
 		"Liquid Nitrogen Cooler"
+		"Plasma Cannon" 2
 		"Breeder Reactor"
 		"S-270 Regenerator"
-		"Plasma Cannon" 2
 	crew 8
 	fuel 500
 	shields 5200
@@ -3827,10 +3827,10 @@ ship "Marauder Raven"
 	gun -17 -28 "Pulse Cannon"
 	gun 17 -28 "Pulse Cannon"
 	turret 0 -19 "Heavy Laser Turret"
-	explode "small explosion" 40
 	explode "tiny explosion" 28
 	explode "medium explosion" 24
 	explode "big explosion" 16
+	explode "small explosion" 40
 	"final explode" "final explosion small" 1
 	system Polaris
 	planet Shangri-La
@@ -3863,11 +3863,11 @@ ship "Marauder Splinter"
 		"Heavy Laser Turret" 2
 		"Liquid Nitrogen Cooler"
 		"Fusion Reactor"
+		"D67-TM Shield Generator"
+		"Plasma Cannon" 2
 		"Heavy Anti-Missile Turret"
 		"Laser Rifle" 22
 		"LP036a Battery Pack"
-		"Plasma Cannon" 2
-		"D67-TM Shield Generator"
 	crew 16
 	fuel 600
 	shields 5700
@@ -3880,10 +3880,10 @@ ship "Marauder Splinter"
 	turret -17 -28 "Heavy Laser Turret"
 	turret 0 -28 "Heavy Anti-Missile Turret"
 	turret 17 -28 "Heavy Laser Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3915,14 +3915,14 @@ ship "Marauder Splinter"
 		"A525 Atomic Steering"
 		"Liquid Nitrogen Cooler"
 		"Fusion Reactor"
+		"D67-TM Shield Generator"
+		"Plasma Cannon" 2
 		"Heavy Anti-Missile Turret"
-		"Quad Blaster Turret" 2
+		"Security Station"
 		"Laser Rifle" 21
 		"LP036a Battery Pack"
 		"Water Coolant System"
-		"Security Station"
-		"Plasma Cannon" 2
-		"D67-TM Shield Generator"
+		"Quad Blaster Turret" 2
 	crew 16
 	fuel 600
 	shields 5700
@@ -3936,10 +3936,10 @@ ship "Marauder Splinter"
 	turret -17 -28 "Quad Blaster Turret"
 	turret 0 -28 "Heavy Anti-Missile Turret"
 	turret 17 -28 "Quad Blaster Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -3971,13 +3971,13 @@ ship "Marauder Splinter"
 		"A525 Atomic Steering"
 		"Liquid Nitrogen Cooler"
 		"Fusion Reactor"
+		"Plasma Cannon" 4
 		"Heavy Anti-Missile Turret"
+		"Security Station" 2
 		"D23-QP Shield Generator"
-		"Quad Blaster Turret" 2
 		"Laser Rifle" 20
 		"LP036a Battery Pack"
-		"Security Station" 2
-		"Plasma Cannon" 4
+		"Quad Blaster Turret" 2
 	crew 16
 	fuel 600
 	shields 5700
@@ -3992,10 +3992,10 @@ ship "Marauder Splinter"
 	turret -17 -28 "Quad Blaster Turret"
 	turret 0 -28 "Heavy Anti-Missile Turret"
 	turret 17 -28 "Quad Blaster Turret"
-	explode "small explosion" 36
 	explode "tiny explosion" 18
 	explode "medium explosion" 24
 	explode "big explosion" 8
+	explode "small explosion" 36
 	"final explode" "final explosion medium" 1
 	system Polaris
 	planet Shangri-La
@@ -4114,11 +4114,11 @@ account
 	ship Bactrian
 	ship "Shield Beetle"
 	ship Raven
-	ship "Marauder Quicksilver"
 	ship "Quarg Wardragon"
+	ship "Marauder Quicksilver"
 	ship "Marauder Arrow"
-	ship "Marauder Bounder"
 	ship "Marauder Raven"
+	ship "Marauder Bounder"
 	ship "Marauder Firebird"
 	ship "Marauder Manta"
 	ship "Marauder Splinter"
@@ -4128,86 +4128,86 @@ account
 	ship "Kar Ik Vot 349"
 	ship "Pug Arfecta"
 	ship Hurricane
-	outfit "Cargo Expansion"
-	outfit "Small Thrust Module"
-	outfit "Small Steering Module"
-	outfit "A250 Atomic Thruster"
-	outfit "Electron Turret"
-	outfit "A255 Atomic Steering"
-	outfit "Mass Expansion"
 	outfit "NDR-114 Android"
+	outfit "Mass Expansion"
 	outfit "Jump Drive"
 	outfit "Ionic Afterburner"
-	outfit "Hai Tracker Pod"
+	outfit "Small Thrust Module"
+	outfit "Small Steering Module"
+	outfit "Cargo Expansion"
+	outfit "A250 Atomic Thruster"
+	outfit "A255 Atomic Steering"
 	outfit "Cloaking Device"
+	outfit "Electron Turret"
 	outfit "Quantum Keystone"
 		1122947 33
 		1122982 50
-	outfit "Pulse Cannon"
-	outfit "Hai Tracker"
 	outfit "Hai Corundum Regenerator"
+	outfit "Pulse Cannon"
+	outfit "Hai Tracker Pod"
+	outfit "Hai Tracker"
 	outfit "Hai Diamond Regenerator"
 	outfit "Hai Chasm Batteries"
 		1122928 1
 	outfit "Hai Fissure Batteries"
-	outfit `"Bufaer" Atomic Thruster`
-	outfit `"Bondir" Atomic Steering`
 	outfit "Sand Cell"
+	outfit `"Bondir" Atomic Steering`
 	outfit `"Basrem" Atomic Thruster`
-	outfit "Bunk Room"
+	outfit `"Bufaer" Atomic Thruster`
 	outfit "Small Bunk Room"
+	outfit "Bunk Room"
 	outfit "Liquid Nitrogen Cooler"
-	outfit "Thruster (Asteroid Class)"
-	outfit "Systems Core (Medium)"
-	outfit "Thruster (Stellar Class)"
+	outfit "Triple Plasma Core"
 	outfit "Small Heat Shunt"
 	outfit "Large Heat Shunt"
-	outfit "Triple Plasma Core"
+	outfit "Systems Core (Medium)"
 	outfit "Systems Core (Large)"
+	outfit "Thruster (Asteroid Class)"
 	outfit "Steering (Lunar Class)"
 	outfit "Steering (Planetary Class)"
 	outfit "Steering (Comet Class)"
-	outfit "Intrusion Countermeasures"
 	outfit "Korath Warder"
+	outfit "Thruster (Stellar Class)"
+	outfit "Intrusion Countermeasures"
 	outfit "Korath Disruptor"
-	outfit Flamethrower
-		1122928 2
-	outfit "Blue Sun Reactor"
-	outfit "Red Sun Reactor"
-	outfit "Dark Storm Shielding"
-	outfit "Wanderer Anti-Missile"
+	outfit "Wanderer Ramscoop"
+	outfit "Nanotech Battery"
+	outfit "Quarg Skylance"
+	outfit "Antimatter Core"
+	outfit "Quantum Shield Generator"
+	outfit "Pug Gridfire Turret"
 	outfit "Pug Biodefenses"
 	outfit "Tier 3 Anti-Missile"
-	outfit "Pug Gridfire Turret"
-	outfit "Fission Reactor"
-	outfit "Catalytic Ramscoop"
-	outfit "Outfit Scanner"
-		1123391 1
+	outfit "Proton Gun"
+	outfit "Modified Blaster Turret"
+	outfit "D67-TM Shield Generator"
+	outfit "Blaster Turret"
 	outfit "S-970 Regenerator"
 	outfit "Meteor Missile"
-	outfit "Proton Gun"
+	outfit "Modified Blaster"
+	outfit "Security Station"
+	outfit "Catalytic Ramscoop"
+	outfit "Fission Reactor"
+	outfit "Outfit Scanner"
+		1123391 1
 	outfit "Breeder Reactor"
-	outfit "Blaster Turret"
-	outfit "Antimatter Core"
-	outfit "Nanotech Battery"
-	outfit "Wanderer Ramscoop"
 	outfit "Nerve Gas"
-	outfit "Quarg Skylance"
-	outfit "Quantum Shield Generator"
+	outfit "Heavy Laser"
 	outfit "LP072a Battery Pack"
 	outfit "Cooling Ducts"
-	outfit "Dwarf Core"
-	outfit "Quad Blaster Turret"
-	outfit "Heavy Laser"
 	outfit "Laser Rifle"
 	outfit "LP036a Battery Pack"
 	outfit "Water Coolant System"
 	outfit "S-270 Regenerator"
-	outfit "Security Station"
-	outfit "Modified Blaster"
-	outfit "Modified Blaster Turret"
 	outfit "Energy Blaster"
-	outfit "D67-TM Shield Generator"
+	outfit "Quad Blaster Turret"
+	outfit "Dwarf Core"
+	outfit Flamethrower
+		1122928 2
+	outfit "Dark Storm Shielding"
+	outfit "Blue Sun Reactor"
+	outfit "Wanderer Anti-Missile"
+	outfit "Red Sun Reactor"
 	outfit "Developer Drive"
 		1122928 1
 		1123356 1
@@ -4252,13 +4252,13 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Polar Batteries"
-				"Kelvin Beam" 4
-				"Heat Redistribution Ray" 3
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray" 3
 				"Phase Missile Launcher" 2
+				"Kelvin Beam" 4
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 42
 			fuel 700
 			shields 18030
@@ -4280,11 +4280,11 @@ mission testing
 			turret -45.75 74 "Heat Redistribution Ray"
 			turret 14.25 69 "Heat Redistribution Ray"
 			turret 68.25 74 "Heat Redistribution Ray"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 	npc
@@ -4319,13 +4319,13 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Polar Batteries"
-				"Kelvin Beam" 4
-				"Heat Redistribution Ray" 3
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray" 3
 				"Phase Missile Launcher" 2
+				"Kelvin Beam" 4
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 42
 			fuel 700
 			shields 18030
@@ -4347,11 +4347,11 @@ mission testing
 			turret -45.75 74 "Heat Redistribution Ray"
 			turret 14.25 69 "Heat Redistribution Ray"
 			turret 68.25 74 "Heat Redistribution Ray"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 	npc
@@ -4386,13 +4386,13 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Polar Batteries"
-				"Kelvin Beam" 4
-				"Heat Redistribution Ray" 3
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray" 3
 				"Phase Missile Launcher" 2
+				"Kelvin Beam" 4
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 42
 			fuel 700
 			shields 18030
@@ -4414,11 +4414,11 @@ mission testing
 			turret -45.75 74 "Heat Redistribution Ray"
 			turret 14.25 69 "Heat Redistribution Ray"
 			turret 68.25 74 "Heat Redistribution Ray"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 	npc
@@ -4453,15 +4453,15 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Hyperborean Anti-Missile"
-				"Polar Batteries"
-				"Kelvin Beam" 2
-				"Engine Destabiliser" 2
-				"Heat Redistribution Ray"
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray"
+				"Hyperborean Anti-Missile"
 				"Phase Missile Launcher" 2
+				"Engine Destabiliser" 2
+				"Kelvin Beam" 2
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 29
 			fuel 600
 			shields 25000
@@ -4477,11 +4477,11 @@ mission testing
 			gun 49.25 11 "Kelvin Beam"
 			turret 1.25 -18.5 "Heat Redistribution Ray"
 			turret 1.25 16 "Hyperborean Anti-Missile"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 	npc
@@ -4516,15 +4516,15 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Hyperborean Anti-Missile"
-				"Polar Batteries"
-				"Kelvin Beam" 2
-				"Engine Destabiliser" 2
-				"Heat Redistribution Ray"
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray"
+				"Hyperborean Anti-Missile"
 				"Phase Missile Launcher" 2
+				"Engine Destabiliser" 2
+				"Kelvin Beam" 2
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 29
 			fuel 600
 			shields 25000
@@ -4540,11 +4540,11 @@ mission testing
 			gun 49.25 11 "Kelvin Beam"
 			turret 1.25 -18.5 "Heat Redistribution Ray"
 			turret 1.25 16 "Hyperborean Anti-Missile"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 	npc
@@ -4579,15 +4579,15 @@ mission testing
 				Hyperdrive
 				"A520 Atomic Thruster"
 				"A525 Atomic Steering"
-				"Phase Missile" 200
-				"Hyperborean Anti-Missile"
-				"Polar Batteries"
-				"Kelvin Beam" 2
-				"Engine Destabiliser" 2
-				"Heat Redistribution Ray"
 				"Glacial-Class Shield Generator" 2
+				"Heat Redistribution Ray"
+				"Hyperborean Anti-Missile"
 				"Phase Missile Launcher" 2
+				"Engine Destabiliser" 2
+				"Kelvin Beam" 2
+				"Phase Missile" 200
 				"Iceberg Reactor"
+				"Polar Batteries"
 			crew 29
 			fuel 600
 			shields 25000
@@ -4603,11 +4603,11 @@ mission testing
 			gun 49.25 11 "Kelvin Beam"
 			turret 1.25 -18.5 "Heat Redistribution Ray"
 			turret 1.25 16 "Hyperborean Anti-Missile"
-			explode "small explosion" 45
 			explode "tiny explosion" 80
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Rumebali
 mission "Drak guarding Void Sprites"
@@ -4655,15 +4655,15 @@ mission "Drak guarding Void Sprites"
 				"turret mounts" 8
 				"weapon capacity" 600
 			outfits
-				Hyperdrive
-				"Medium Graviton Thruster"
 				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Steering"
 				"Drak Anti-Missile Field" 2
+				"Medium Graviton Thruster"
 				"Drak Distancer" 2
 				"Drak Turret" 3
 				"Jump Drive"
-				"Drak Antimatter Cannon"
-				"Medium Graviton Steering"
+				Hyperdrive
 			crew 1
 			fuel 800
 			shields 4000000
@@ -4720,12 +4720,12 @@ mission "Wanderers: Quarg Defenders"
 				"turret mounts" 4
 				"weapon capacity" 200
 			outfits
+				"Medium Graviton Steering"
 				"Medium Graviton Thruster"
 				"Jump Drive"
-				"Medium Graviton Steering"
 				"Intrusion Countermeasures" 160
-				"Quarg Anti-Missile" 2
 				"Nanotech Battery"
+				"Quarg Anti-Missile" 2
 				"Quarg Skylance" 2
 				"Quantum Shield Generator"
 			cargo
@@ -4742,11 +4742,11 @@ mission "Wanderers: Quarg Defenders"
 			turret 29 6 "Quarg Skylance"
 			turret -29 6 "Quarg Anti-Missile"
 			turret 29 6 "Quarg Anti-Missile"
-			explode "small explosion" 16
 			explode "tiny explosion" 12
 			explode "medium explosion" 30
 			explode "large explosion" 40
 			explode "huge explosion" 20
+			explode "small explosion" 16
 			"final explode" "final explosion medium" 1
 			system Kaliptari
 		ship "Quarg Wardragon"
@@ -4771,12 +4771,12 @@ mission "Wanderers: Quarg Defenders"
 				"turret mounts" 4
 				"weapon capacity" 200
 			outfits
+				"Medium Graviton Steering"
 				"Medium Graviton Thruster"
 				"Jump Drive"
-				"Medium Graviton Steering"
 				"Intrusion Countermeasures" 160
-				"Quarg Anti-Missile" 2
 				"Nanotech Battery"
+				"Quarg Anti-Missile" 2
 				"Quarg Skylance" 2
 				"Quantum Shield Generator"
 			crew 162
@@ -4790,11 +4790,11 @@ mission "Wanderers: Quarg Defenders"
 			turret 29 6 "Quarg Skylance"
 			turret -29 6 "Quarg Anti-Missile"
 			turret 29 6 "Quarg Anti-Missile"
-			explode "small explosion" 16
 			explode "tiny explosion" 12
 			explode "medium explosion" 30
 			explode "large explosion" 40
 			explode "huge explosion" 20
+			explode "small explosion" 16
 			"final explode" "final explosion medium" 1
 			system Kaliptari
 		ship "Quarg Wardragon"
@@ -4819,12 +4819,12 @@ mission "Wanderers: Quarg Defenders"
 				"turret mounts" 4
 				"weapon capacity" 200
 			outfits
+				"Medium Graviton Steering"
 				"Medium Graviton Thruster"
 				"Jump Drive"
-				"Medium Graviton Steering"
 				"Intrusion Countermeasures" 160
-				"Quarg Anti-Missile" 2
 				"Nanotech Battery"
+				"Quarg Anti-Missile" 2
 				"Quarg Skylance" 2
 				"Quantum Shield Generator"
 			crew 162
@@ -4838,11 +4838,11 @@ mission "Wanderers: Quarg Defenders"
 			turret 29 6 "Quarg Skylance"
 			turret -29 6 "Quarg Anti-Missile"
 			turret 29 6 "Quarg Anti-Missile"
-			explode "small explosion" 16
 			explode "tiny explosion" 12
 			explode "medium explosion" 30
 			explode "large explosion" 40
 			explode "huge explosion" 20
+			explode "small explosion" 16
 			"final explode" "final explosion medium" 1
 			system Kaliptari
 mission "Wanderers Hai Assistance Fleet"
@@ -4883,14 +4883,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -4905,10 +4905,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -4933,14 +4933,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -4956,10 +4956,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -4987,13 +4987,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5019,11 +5019,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Water Bug"
@@ -5050,15 +5050,15 @@ mission "Wanderers Hai Assistance Fleet"
 				Hyperdrive
 				"Pulse Turret"
 				"Hai Tracker Pod" 2
-				"Hai Tracker" 112
-				"Hai Williwaw Cooling"
 				"Chameleon Anti-Missile" 2
-				"Geode Reactor"
-				"Hai Gorge Batteries"
+				"Hai Tracker" 112
 				"Hai Diamond Regenerator"
+				"Hai Williwaw Cooling"
 				"Hai Chasm Batteries"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 29
 			cargo
 				commodities
@@ -5077,10 +5077,10 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 0 -10 "Pulse Turret"
 			turret -17 17 "Chameleon Anti-Missile"
 			turret 17 17 "Chameleon Anti-Missile"
-			explode "small explosion" 15
 			explode "medium explosion" 30
 			explode "large explosion" 20
 			explode "huge explosion" 5
+			explode "small explosion" 15
 			"final explode" "final explosion medium" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5105,14 +5105,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5129,10 +5129,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5157,14 +5157,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5181,10 +5181,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5212,13 +5212,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5244,11 +5244,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5273,14 +5273,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5297,10 +5297,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5325,14 +5325,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5349,10 +5349,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5380,13 +5380,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5411,11 +5411,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5443,13 +5443,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5475,11 +5475,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5504,16 +5504,16 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 333
 			outfits
 				Hyperdrive
+				"Pulse Cannon" 6
 				"Pulse Turret" 4
 				"Ion Cannon" 2
-				"Pulse Cannon" 6
+				"Hai Diamond Regenerator" 2
 				"Hai Williwaw Cooling" 3
 				"Hai Ravine Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator" 2
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 			cargo
 				commodities
 					Electronics 21
@@ -5538,11 +5538,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5567,14 +5567,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5591,10 +5591,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5619,14 +5619,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5642,10 +5642,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5673,13 +5673,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5704,11 +5704,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5733,14 +5733,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5757,10 +5757,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Lightning Bug"
@@ -5785,14 +5785,14 @@ mission "Wanderers Hai Assistance Fleet"
 				"weapon capacity" 87
 			outfits
 				Hyperdrive
-				"Ion Cannon"
-				"Hai Williwaw Cooling"
-				"Geode Reactor"
-				"Hai Gorge Batteries"
 				"Hai Corundum Regenerator"
+				"Ion Cannon"
 				"Bullfrog Anti-Missile" 2
+				"Hai Williwaw Cooling"
+				"Hai Gorge Batteries"
 				`"Benga" Atomic Thruster`
 				`"Benga" Atomic Steering`
+				"Geode Reactor"
 				"" 10
 			cargo
 				commodities
@@ -5809,10 +5809,10 @@ mission "Wanderers Hai Assistance Fleet"
 			gun 0 -40 "Ion Cannon"
 			turret -47 18 "Bullfrog Anti-Missile"
 			turret 47 18 "Bullfrog Anti-Missile"
-			explode "small explosion" 36
 			explode "tiny explosion" 18
 			explode "medium explosion" 24
 			explode "large explosion" 8
+			explode "small explosion" 36
 			"final explode" "final explosion small" 1
 			system "Wah Ki"
 		ship "Shield Beetle"
@@ -5840,13 +5840,13 @@ mission "Wanderers Hai Assistance Fleet"
 				"Pulse Turret" 4
 				"Hai Tracker Pod" 8
 				"Hai Tracker" 448
+				"Hai Diamond Regenerator"
 				"Hai Williwaw Cooling" 2
 				"Hai Valley Batteries"
-				"Boulder Reactor"
-				"Geode Reactor"
-				"Hai Diamond Regenerator"
 				`"Bondir" Atomic Thruster`
 				`"Bufaer" Atomic Steering`
+				"Boulder Reactor"
+				"Geode Reactor"
 				"" 95
 			cargo
 				commodities
@@ -5872,11 +5872,11 @@ mission "Wanderers Hai Assistance Fleet"
 			turret 57 75 "Pulse Turret"
 			turret -39 48 "Pulse Turret"
 			turret 39 48 "Pulse Turret"
-			explode "small explosion" 50
 			explode "tiny explosion" 50
 			explode "medium explosion" 50
 			explode "large explosion" 50
 			explode "huge explosion" 20
+			explode "small explosion" 50
 			"final explode" "final explosion large" 1
 			system "Wah Ki"
 mission "Pug Angry at Being Farmed"
@@ -5927,11 +5927,11 @@ mission "Pug Angry at Being Farmed"
 			outfits
 				"Jump Drive"
 				"Cloaking Device"
+				"Pug Gridfire Turret" 3
+				"Pug Lohmar Steering" 2
 				"Pug Biodefenses" 12
 				"Pug Lohmar Thruster"
 				"Tier 3 Anti-Missile" 2
-				"Pug Gridfire Turret" 3
-				"Pug Lohmar Steering" 2
 			crew 36
 			fuel 1200
 			shields 0
@@ -5944,10 +5944,10 @@ mission "Pug Angry at Being Farmed"
 			turret 0 40 "Pug Gridfire Turret"
 			turret -73 84 "Pug Gridfire Turret"
 			turret 73 84 "Pug Gridfire Turret"
-			explode "small explosion" 60
 			explode "tiny explosion" 100
 			explode "medium explosion" 30
 			explode "big explosion" 10
+			explode "small explosion" 60
 			system "Pug Iyik"
 			actions 240
 mission "Drak guarding Sayaiban"
@@ -5994,15 +5994,15 @@ mission "Drak guarding Sayaiban"
 				"turret mounts" 8
 				"weapon capacity" 600
 			outfits
-				Hyperdrive
-				"Medium Graviton Thruster"
 				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Steering"
 				"Drak Anti-Missile Field" 2
+				"Medium Graviton Thruster"
 				"Drak Distancer" 2
 				"Drak Turret" 3
 				"Jump Drive"
-				"Drak Antimatter Cannon"
-				"Medium Graviton Steering"
+				Hyperdrive
 			crew 1
 			fuel 800
 			shields 4000000
@@ -6065,15 +6065,15 @@ mission "Drak guarding Korath space"
 				"turret mounts" 8
 				"weapon capacity" 600
 			outfits
-				Hyperdrive
-				"Medium Graviton Thruster"
 				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Steering"
 				"Drak Anti-Missile Field" 2
+				"Medium Graviton Thruster"
 				"Drak Distancer" 2
 				"Drak Turret" 3
 				"Jump Drive"
-				"Drak Antimatter Cannon"
-				"Medium Graviton Steering"
+				Hyperdrive
 			crew 1
 			fuel 800
 			shields 4000000
@@ -6131,15 +6131,15 @@ mission "Drak guarding Korath space"
 				"turret mounts" 8
 				"weapon capacity" 600
 			outfits
-				Hyperdrive
-				"Medium Graviton Thruster"
 				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Steering"
 				"Drak Anti-Missile Field" 2
+				"Medium Graviton Thruster"
 				"Drak Distancer" 2
 				"Drak Turret" 3
 				"Jump Drive"
-				"Drak Antimatter Cannon"
-				"Medium Graviton Steering"
+				Hyperdrive
 			crew 1
 			fuel 800
 			shields 4000000
@@ -6197,15 +6197,15 @@ mission "Drak guarding Korath space"
 				"turret mounts" 8
 				"weapon capacity" 600
 			outfits
-				Hyperdrive
-				"Medium Graviton Thruster"
 				"Drak Draining Field"
+				"Drak Antimatter Cannon"
+				"Medium Graviton Steering"
 				"Drak Anti-Missile Field" 2
+				"Medium Graviton Thruster"
 				"Drak Distancer" 2
 				"Drak Turret" 3
 				"Jump Drive"
-				"Drak Antimatter Cannon"
-				"Medium Graviton Steering"
+				Hyperdrive
 			crew 1
 			fuel 800
 			shields 4000000
@@ -6266,17 +6266,17 @@ mission "Drak guarding Korath space"
 				"weapon capacity" 284
 			outfits
 				Hyperdrive
-				"Systems Core (Medium)"
-				"Thruster (Planetary Class)"
+				"Triple Plasma Core"
 				"Small Heat Shunt"
 				"Large Heat Shunt" 2
-				"Triple Plasma Core"
+				"Systems Core (Medium)"
+				"Thruster (Planetary Class)"
 				"Steering (Planetary Class)"
-				"Intrusion Countermeasures" 4
-				Ramscoop
-				"Korath Warder"
 				"Korath Banisher"
 				"Korath Grab-Strike" 4
+				Ramscoop
+				"Korath Warder"
+				"Intrusion Countermeasures" 4
 			cargo
 				commodities
 					Clothing 34
@@ -6297,11 +6297,11 @@ mission "Drak guarding Korath space"
 			turret 0 90 "Korath Warder"
 			fighter -75 100
 			fighter 75 100
-			explode "small explosion" 45
 			explode "tiny explosion" 20
 			explode "medium explosion" 50
 			explode "large explosion" 40
 			explode "huge explosion" 10
+			explode "small explosion" 45
 			"final explode" "final explosion large" 1
 			system Edusa
 	on complete
@@ -12726,906 +12726,906 @@ economy
 destroyed "Cap'n Pester"
 
 # What you know:
-visited Homeward
+visited Fasitopfar
+visited Belug
 visited Kasikfar
+visited Peresedersi
 visited Sayaiban
 visited Menkent
-visited Fasitopfar
-visited Peresedersi
-visited Belug
-visited Oblast
-visited Perfide
-visited Saseru
-visited Getou
-visited Suramu
-visited Hokubu
-visited Henkyo
-visited Butapen
-visited Rosario
-visited Iriguchi
-visited Jikatu
-visited Fomalhaut
-visited Altair
-visited "Delta Capricorni"
+visited Homeward
+visited "Zeta Aquilae"
+visited Deneb
+visited Nenia
 visited Peacock
+visited Altair
 visited Nocte
+visited Alderamin
 visited Markab
-visited Cebalrai
-visited Ascella
-visited Scheat
-visited Vega
-visited Orvala
+visited Fomalhaut
 visited Alnair
-visited Rasalhague
+visited Cebalrai
+visited Vega
 visited Caph
 visited Diphda
 visited Ankaa
-visited Alderamin
-visited "Zeta Aquilae"
-visited Nenia
-visited Deneb
-visited Castor
-visited Pollux
-visited Girtab
-visited Denebola
-visited "Kaus Borealis"
-visited Pherkad
-visited Gienah
-visited Sol
-visited Rastaban
+visited Orvala
+visited Ascella
+visited Scheat
+visited Rasalhague
+visited "Delta Capricorni"
 visited Alpheratz
-visited Han
 visited Betelgeuse
 visited Umbral
-visited Alniyat
+visited Pollux
 visited Albaldah
-visited Aldhibain
-visited Wei
-visited "Alpha Arae"
-visited Eber
-visited Tarazed
-visited Sabik
+visited Alniyat
+visited Gienah
+visited Han
+visited Girtab
+visited Denebola
+visited Sol
+visited Rastaban
+visited "Kaus Borealis"
+visited Pherkad
+visited Castor
 visited Lesath
+visited Atria
+visited "Delta Sagittarii"
 visited Kornephoros
 visited Zubenelgenubi
-visited Alnasl
-visited Antares
-visited "Delta Sagittarii"
+visited Aldhibain
+visited Tarazed
 visited Zubeneschamali
 visited Unukalhai
-visited Shaula
-visited Nunki
 visited Seginus
+visited Wei
 visited Men
-visited Boral
+visited Nunki
+visited Alnasl
 visited Naper
 visited Hintar
-visited Atria
-visited Sarin
-visited "Heia Due"
-visited Graffias
+visited Boral
+visited Antares
+visited Sabik
+visited "Alpha Arae"
+visited Shaula
+visited Eber
 visited Kochab
+visited Sarin
 visited "Wah Yoot"
-visited Cardax
+visited Rajak
 visited Rigel
 visited Alphecca
-visited Rajak
 visited Alioth
-visited Sheratan
-visited "Kappa Centauri"
-visited Algenib
-visited Gacrux
-visited Ildaria
-visited Rutilicus
-visited Ruchbah
-visited Dschubba
-visited "Gamma Corvi"
-visited "Yed Prior"
+visited "Heia Due"
+visited Cardax
+visited Graffias
 visited "Beta Lupi"
 visited Mintaka
+visited Ruchbah
+visited "Yed Prior"
+visited Gacrux
+visited Ildaria
+visited Dschubba
+visited "Gamma Corvi"
 visited Achernar
 visited Mizar
-visited Memus
-visited Pipaeus
-visited Smoline
-visited Ytgfrv'hjusd'ikmuivra
-visited Taarsten
-visited Floop
-visited Driaca
-visited Grundel'froae
-visited "Pug Aerzyrnium"
-visited Staircase
-visited Ninsug
-visited Kama'la'ez
-visited "Pug Morbosa"
-visited Opheuldod
-visited Lardiam
-visited Syj'ngf'bnk
-visited Lo'or'awaen
-visited Cymexes
-visited Descent
-visited Saeus
-visited Fo'gar'helien
-visited Crul'im'heim
-visited "5 Winter Above"
-visited Ablodab
-visited Ablub
-visited Acamar
-visited "4 Axis"
-visited Aldebaran
-visited Kugel
-visited "5 Axis"
-visited "Al Dhanab"
-visited Acrux
-visited "5 Summer Above"
-visited Minkar
-visited Pelubta
-visited Mebla
-visited Elnath
-visited "Ki War Ek"
-visited "3 Spring Rising"
-visited "9 Spring Above"
-visited Debrugt
-visited "8 Winter Below"
-visited Blubipad
-visited Gupta
-visited Miblulub
-visited Adhara
-visited Menkalinan
-visited Almach
-visited Menkar
-visited Hadar
-visited Zosma
-visited Hatysa
-visited Algol
-visited Izar
-visited Alphard
-visited Algorel
-visited "Zeta Centauri"
-visited "Cor Caroli"
-visited Holeb
+visited Algenib
+visited Rutilicus
+visited "Kappa Centauri"
+visited Sheratan
+visited Ipsing
+visited "Io Lowe"
+visited "Zuba Zub"
+visited Kiru'kichi
+visited Sko'karak
+visited Ka'pru
+visited Host
+visited Waypoint
+visited "Hi Yahr"
+visited "Imo Dep"
+visited "Mei Yohn"
+visited Umba'draeuin
+visited Cheons
+visited "14 Summer Above"
+visited Vo'jaerun
+visited Gautus
+visited Four
+visited Pralmia
+visited Abomin
+visited "3 Pole"
+visited Hrau'ngri'liadien
 visited Wazn
-visited Almaaz
-visited Zaurak
-visited Unagi
-visited Eltanin
-visited Alcyone
-visited Persian
-visited Mirfak
-visited Albireo
-visited Alnitak
-visited "Alpha Centauri"
 visited Vindemiatrix
+visited Almaaz
+visited Phecda
 visited Alnilam
-visited Saiph
-visited Durax
+visited Unagi
+visited "Epsilon Leonis"
 visited Oblate
+visited Gomeisa
+visited Acrux
+visited Zosma
+visited "Cor Caroli"
+visited Alnitak
+visited Algorel
+visited Turais
+visited Alheka
+visited Polaris
+visited Alphard
+visited Almach
+visited Holeb
+visited Kursa
+visited Adhara
+visited Canopus
+visited Schedar
+visited "Zeta Centauri"
+visited Albireo
+visited Eltanin
+visited Izar
+visited Algieba
+visited Aescolanus
+visited Zaurak
+visited Algol
+visited Minkar
+visited Menkalinan
+visited Sadr
 visited Lurata
 visited Alkaid
-visited Sadr
-visited "Epsilon Leonis"
-visited Gomeisa
-visited Aescolanus
-visited Mirach
+visited Hadar
+visited Hatysa
+visited Persian
 visited Capella
-visited Kursa
-visited Turais
-visited Phecda
-visited Algieba
-visited Alheka
-visited Canopus
+visited Alcyone
+visited Durax
+visited Mirach
 visited "Tania Australis"
 visited Alhena
-visited "Delta Velorum"
-visited Danoa
-visited Hassaleh
-visited Kashikt
-visited "Da Ent"
-visited Meftarkata
-visited Fingol
-visited "Due Yoot"
-visited "Io Mann"
-visited "Rati Cal"
-visited "Ehma Ti"
-visited Torbab
-visited Hesselpost
-visited Dabih
-visited "Lom Tahr"
-visited "Kaus Australis"
-visited "Da Lest"
-visited Flugbu
-visited Mora
-visited Merak
-visited Fala
-visited Dubhe
-visited "Wah Oh"
-visited Naos
-visited "Far Horizon"
-visited Arneb
-visited Tais
-visited Sobarati
-visited "Ancient Hope"
-visited Aspidiske
 visited "Bright Void"
+visited Ap'arak
+visited Makferuti
+visited Beginning
+visited Sobarati
+visited Bellatrix
+visited "Good Omen"
+visited "Dark Hills"
+visited Arneb
+visited Ossipago
+visited Regor
+visited "Far Horizon"
 visited Answer
+visited Chirr'ay'akai
+visited "Alpha Hydri"
+visited Miaplacidus
+visited Naos
+visited Cardea
+visited Aspidiske
+visited Talita
+visited Insitor
+visited Asikafarnut
+visited Avior
+visited Markeb
+visited Aya'k'k
+visited Pik'ro'iyak
+visited Convector
+visited Ka'ch'chrai
+visited Edusa
+visited Arculus
+visited Tais
+visited Pantica
+visited Belonging
 visited Aludra
 visited Arcturus
-visited Cardea
-visited Human
-visited Edusa
-visited Pantica
-visited Asikafarnut
-visited Silikatakfar
-visited Avior
-visited Pik'ro'iyak
-visited Celeborim
-visited Insitor
-visited Antevorta
-visited Sich'ka'ara
-visited Belonging
-visited "Good Omen"
 visited Remembrance
-visited "Dark Hills"
-visited Bellatrix
-visited Aya'k'k
-visited Talita
-visited Ap'arak
-visited Chirr'ay'akai
-visited Arculus
-visited "Fallen Leaf"
-visited "Alpha Hydri"
 visited "Sol Saryd"
-visited Miaplacidus
-visited Drak
-visited Ka'ch'chrai
 visited Cinxia
-visited Makferuti
-visited Markeb
-visited Convector
-visited Beginning
-visited Regor
-visited Ossipago
-visited Moktar
-visited Blugtad
-visited Chy'chra
-visited Perfica
-visited Farinus
-visited "Bore Fah"
-visited "Ula Mon"
-visited Stercutus
-visited Mirzam
-visited "Bote Asu"
-visited Chikatip
-visited Seketra
-visited "Broken Bowl"
-visited Dokdobaru
-visited Prakacha'a
-visited Ik'kara'ka
-visited Coluber
-visited Parca
-visited Levana
-visited Lucina
-visited Companion
-visited Furmeliki
+visited Antevorta
+visited Silikatakfar
+visited "Fallen Leaf"
+visited Sich'ka'ara
+visited Celeborim
+visited Menkar
+visited "Ancient Hope"
+visited Mirfak
 visited Sepetrosk
-visited Volax
+visited Procyon
+visited Chornifath
+visited Parca
+visited Lucina
+visited Farbutero
+visited Eblumab
+visited "Silver Bell"
+visited Phact
+visited Ik'kara'ka
+visited Levana
+visited Companion
+visited Mirzam
+visited "Ula Mon"
 visited "Ya Hai"
+visited Speloog
+visited "Steep Roof"
+visited Phurad
+visited Furmeliki
+visited Similisti
+visited Dokdobaru
+visited Stercutus
+visited Eteron
+visited Chikatip
+visited Chimitarp
+visited Chy'chra
+visited Bloptab
+visited "Sol Arach"
+visited "Broken Bowl"
+visited Moktar
+visited Hunter
+visited Ekuarik
+visited Seketra
+visited Perfica
+visited Volax
+visited "Bore Fah"
+visited "Bote Asu"
+visited Farinus
+visited Belugt
+visited Coluber
 visited "Wah Ki"
+visited Caeculus
+visited Prakacha'a
+visited Blugtad
 visited Sumar
 visited Mekislepti
-visited Farbutero
-visited "Sol Arach"
-visited Speloog
-visited Ekuarik
-visited Belugt
-visited "Steep Roof"
-visited "Silver Bell"
-visited Caeculus
-visited Phurad
-visited Phact
-visited Bloptab
-visited Hunter
-visited Eteron
-visited Chimitarp
-visited Similisti
-visited Chornifath
-visited Eblumab
-visited Procyon
-visited "Zuba Zub"
-visited Ipsing
-visited "Fah Root"
-visited Tebuteb
-visited Glubatub
-visited Skeruto
-visited "Hi Yahr"
-visited Kiru'kichi
-visited "Mei Yohn"
-visited "Four Pillars"
-visited Ek'kek'ru
-visited Mesuket
-visited Sirius
-visited Korsmanath
-visited Faronektu
-visited Tortor
-visited "Fah Soom"
-visited Nihal
-visited Eshkoshtar
-visited Feroteri
-visited Kaliptari
-visited Iyech'yek
-visited Sadalsuud
-visited Fornarep
-visited Quaru
-visited Es'sprak'ai
-visited "Lone Cloud"
-visited Eneremprukt
-visited Spica
-visited Sadalmelik
-visited Membulem
-visited "Hevru Hai"
-visited "Gamma Cassiopeiae"
-visited Ferukistek
-visited Si'yak'ku
-visited Muhlifain
-visited Gorvi
-visited Hamal
-visited Waypoint
-visited "Fell Omen"
-visited "Last Word"
-visited "Io Lowe"
-visited Host
-visited "Imo Dep"
-visited Enif
-visited Salipastart
-visited "Over the Rainbow"
-visited "Terra Incognita"
-visited "World's End"
-visited "Sol Kimek"
-visited Arena
-visited "10 Pole"
-visited Coalition
-visited "4 Winter Rising"
-visited "3 Axis"
-visited "7 Autumn Rising"
-visited Schedar
-visited "1 Axis"
-visited "11 Spring Below"
-visited "5 Spring Below"
-visited "14 Pole"
-visited "12 Autumn Above"
-visited "4 Spring Rising"
-visited "11 Autumn Above"
-visited Polaris
-visited "16 Autumn Rising"
-visited "14 Summer Above"
-visited Xenos
-visited "3 Pole"
-visited "4 Summer Rising"
-visited "14 Winter Below"
-visited Sumprast
-visited Sepriaptu
-visited Theurrhaeus
-visited Ascendant
-visited Blackfriar
-visited Banq'rujol'ifus
-visited Solifar
-visited "Kor Zena'i"
-visited Schnael
-visited Matar
-visited "Silver String"
 visited Sabriset
-visited Mimosa
-visited Sospi
-visited "Ultima Thule"
-visited "Uwa Fahn"
-visited Jaaaar'aaaaa'l'u
-visited Peragenor
-visited Sevrelect
+visited Sumprast
+visited "Kor Men"
+visited Solifar
+visited Sepriaptu
+visited "Kor Nor'peli"
+visited "Kor Ak'Mari"
+visited Kiro'ku
 visited "Kor Fel'tar"
+visited Sevrelect
+visited "Kor En'lakfar"
+visited Plort
+visited "Pug Iyik"
+visited "Ultima Thule"
+visited Peragenor
 visited Tejat
 visited Wezen
-visited "Kor Nor'peli"
-visited Limen
-visited "Kor En'lakfar"
-visited "Kor Tar'bei"
-visited Kiro'ku
-visited Ka'pru
-visited Kraz
-visited Sargas
-visited Orbona
-visited Terminus
-visited Lolami
 visited Porrima
 visited Regulus
-visited Plort
+visited Sospi
+visited Persitar
+visited Muphrid
+visited "World's End"
+visited "Terra Incognita"
 visited Suhail
 visited Segesta
-visited "Kor Ak'Mari"
-visited Mebsuta
-visited "Kor Men"
-visited Muphrid
-visited "Pug Iyik"
-visited Sko'karak
-visited Persitar
-visited Glephum
-visited Frontier
-visited Ik'ari'aka
-visited Insolence
-visited Veil
-visited Ibained
-visited Eskidilium
-visited Ortus
-visited Clurth
-visited Muraganda
-visited Lyvven
-visited Crourp
-visited Deprecated+Mods
-visited Frill
-visited "Deg Deg"
-visited Thornton
-visited Three
-visited Five
-visited Ares
-visited Alcove
-visited Anvyu
-visited Outenheim
-visited Akildocs
-visited Breijkip
-visited Ithaos
-visited Arkhos
-visited Dvorak
-visited Abomin
-visited Pug
-visited "Team Red"
-visited "Team Blue"
-visited Pralmia
-visited Cheons
-visited Aether
-visited Gaenealf
-visited Adke
-visited Wanderer
-visited Hrau'ngri'liadien
-visited Svind
-visited Maduras
-visited Finitum
-visited Four
-visited Kaladesh
-visited Whuroxla
-visited Indigo
-visited Aetrus
-visited Innenheim
-visited Arechi
-visited Dergath
-visited Daia
-visited Saibai
-visited Sakuba
-visited Vo'jaerun
-visited Obor
-visited Nanbu
-visited Kozan
-visited Mut'cesni
-visited Seigen
-visited Kosaten
-visited Merith
-visited Fenlamin
-visited Gylledha
-visited Gis'cot
+visited "Uwa Fahn"
+visited "Silver String"
+visited "Over the Rainbow"
+visited Ek'kek'ru
+visited "Ehma Ti"
+visited Si'yak'ku
+visited Iyech'yek
+visited Quaru
 visited Farus
-visited Elisven
+visited Merith
 visited Gil'mine
-visited Seldanna
-visited Mylaerla
-visited Zaleria
-visited Nor'tell
-visited Cispia
-visited Nithroel
-visited Wyrren
-visited Unobu
-visited Tanyl
-visited Sinyl
-visited Illitran
-visited Origin
-visited Umba'draeuin
-visited Soreem
-visited Rumebali
+visited Aether
+visited "Deg Deg"
+visited "Sol Kimek"
+visited "Al Dhanab"
+visited "4 Spring Rising"
+visited "3 Axis"
+visited Gaenealf
+visited "1 Axis"
+visited Akildocs
+visited "11 Autumn Above"
+visited "7 Autumn Rising"
+visited "16 Autumn Rising"
+visited "11 Spring Below"
+visited "5 Spring Below"
+visited Ithaos
+visited "12 Autumn Above"
+visited "4 Winter Rising"
+visited Kugel
+visited Frill
+visited "10 Pole"
+visited "14 Pole"
+visited Adke
+visited Arkhos
+visited "Gamma Cassiopeiae"
+visited Hamal
+visited Kaliptari
+visited "Lone Cloud"
+visited Glubatub
+visited Tebuteb
+visited Gorvi
+visited Tortor
+visited Spica
+visited Membulem
+visited Muhlifain
+visited Fornarep
+visited Skeruto
+visited "Fah Soom"
+visited Korsmanath
+visited Faronektu
+visited "Four Pillars"
+visited Feroteri
+visited "Hevru Hai"
+visited Salipastart
+visited "Fell Omen"
+visited "Last Word"
+visited Aldebaran
+visited "8 Winter Below"
+visited "5 Axis"
+visited "5 Winter Above"
+visited "5 Summer Above"
+visited "Alpha Centauri"
+visited Debrugt
+visited Ablodab
+visited Gupta
+visited Elnath
+visited "14 Winter Below"
+visited Pelubta
+visited "4 Axis"
+visited Ablub
+visited Mebla
+visited Saiph
+visited "9 Spring Above"
+visited Blubipad
+visited "3 Spring Rising"
+visited Miblulub
+visited Acamar
+visited "4 Summer Rising"
+visited "Ki War Ek"
+visited Aetrus
+visited Maduras
+visited Kaladesh
 visited Fallout
+visited Cispia
+visited Fala
+visited "Due Yoot"
+visited Flugbu
+visited "Io Mann"
+visited Merak
+visited "Lom Tahr"
+visited Torbab
+visited Thaen
+visited "Delta Velorum"
+visited Daia
+visited "Kaus Australis"
+visited Mora
+visited "Da Ent"
+visited Hesselpost
+visited Hassaleh
+visited "Rati Cal"
+visited Svind
+visited Finitum
+visited Danoa
 visited Skryydr
+visited Whuroxla
+visited Antithesis
+visited Innenheim
+visited Unobu
+visited Dabih
+visited "Da Lest"
+visited "Wah Oh"
+visited Indigo
+visited Ark
 visited Mezzanine
 visited Orff
-visited Ark
-visited Thaen
-visited Gautus
-visited Antithesis
+visited Fingol
+visited Kashikt
+visited Meftarkata
+visited Dubhe
+visited Matar
+visited Mebsuta
+visited Kraz
+visited "Kor Zena'i"
+visited Sargas
+visited Mimosa
+visited "Kor Tar'bei"
+visited Orbona
+visited Limen
+visited Terminus
+visited Lolami
+visited Sirius
+visited Nihal
+visited Eneremprukt
+visited Enif
+visited Sadalsuud
+visited "Fah Root"
+visited Mesuket
+visited Eshkoshtar
+visited Ferukistek
+visited Sadalmelik
+visited Es'sprak'ai
+visited Saibai
+visited Mylaerla
+visited Dergath
+visited Elisven
+visited Fenlamin
+visited Seigen
+visited Zaleria
+visited Kozan
+visited Sakuba
+visited Rosario
+visited Gylledha
+visited Mut'cesni
+visited Kosaten
+visited Seldanna
+visited Saseru
+visited Butapen
+visited Hokubu
+visited Getou
+visited Jikatu
+visited Perfide
+visited Oblast
+visited Arechi
+visited Gis'cot
+visited Iriguchi
+visited Suramu
+visited Obor
+visited Henkyo
+visited Nanbu
+visited Rumebali
+visited Soreem
+visited Origin
+visited Nithroel
+visited Wyrren
+visited Sinyl
+visited Nor'tell
+visited Illitran
+visited Tanyl
+visited Saeus
+visited Smoline
+visited Glephum
+visited Ares
+visited Alcove
+visited Jaaaar'aaaaa'l'u
+visited Schnael
+visited Five
+visited Frontier
+visited Outenheim
+visited Ortus
+visited Lardiam
+visited Ascendant
+visited Blackfriar
+visited Thornton
+visited Veil
+visited Syj'ngf'bnk
+visited Descent
+visited Opheuldod
+visited Lyvven
+visited Staircase
+visited Crul'im'heim
+visited Memus
+visited Driaca
+visited Ibained
+visited Theurrhaeus
+visited Muraganda
+visited Crourp
+visited Anvyu
+visited Floop
+visited Three
+visited Cymexes
+visited Fo'gar'helien
+visited Ninsug
+visited Grundel'froae
+visited Ytgfrv'hjusd'ikmuivra
+visited "Pug Aerzyrnium"
+visited Dvorak
+visited "Pug Morbosa"
+visited Xenos
+visited Pipaeus
+visited Arena
+visited Banq'rujol'ifus
+visited Eskidilium
+visited Insolence
+visited Ik'ari'aka
+visited Breijkip
+visited Clurth
+visited Kama'la'ez
+visited Taarsten
+visited Coalition
+visited "Team Blue"
+visited Human
+visited Lo'or'awaen
+visited Drak
 visited Quarg
+visited "Team Red"
 visited Hai
+visited Wanderer
 visited Korath
+visited Pug
+visited Deprecated+Mods
 "visited planet" Hai-home
 "visited planet" Earth
 "visited planet" "Belug's Plunge"
 "visited planet" "Ring of Friendship"
 "visited planet" "Far Home"
-"visited planet" Solace
-"visited planet" "New Iceland"
-"visited planet" Mutiny
-"visited planet" Oblivion
-"visited planet" "New Portland"
-"visited planet" Greenrock
-"visited planet" Valhalla
-"visited planet" Tundra
-"visited planet" Nimbus
-"visited planet" Arabia
-"visited planet" Pugglemug
-"visited planet" Mars
-"visited planet" Bourne
-"visited planet" "New Austria"
-"visited planet" Shiver
-"visited planet" Farpoint
-"visited planet" Winter
-"visited planet" Lagrange
-"visited planet" Rand
-"visited planet" Silver
-"visited planet" Pugglequat
 "visited planet" Zug
-"visited planet" Glaze
-"visited planet" Foundry
-"visited planet" Geminus
-"visited planet" "New Wales"
-"visited planet" Stormhold
-"visited planet" Glory
-"visited planet" Harmony
-"visited planet" Hopper
-"visited planet" Clink
 "visited planet" Wayfarer
 "visited planet" Skymoot
-"visited planet" Sinter
+"visited planet" Hopper
+"visited planet" Foundry
 "visited planet" Deep
+"visited planet" Glaze
+"visited planet" Glory
+"visited planet" Clink
+"visited planet" Geminus
+"visited planet" Sinter
+"visited planet" Stormhold
+"visited planet" "New Wales"
+"visited planet" Harmony
+"visited planet" "New Portland"
+"visited planet" Solace
+"visited planet" Oblivion
+"visited planet" "New Iceland"
+"visited planet" Greenrock
+"visited planet" Mutiny
+"visited planet" Valhalla
+"visited planet" Tundra
+"visited planet" Rand
+"visited planet" Bourne
+"visited planet" Pugglequat
+"visited planet" Farpoint
+"visited planet" Arabia
+"visited planet" Nimbus
+"visited planet" Winter
+"visited planet" Mars
+"visited planet" Lagrange
+"visited planet" "New Austria"
+"visited planet" Silver
+"visited planet" Pugglemug
+"visited planet" Shiver
+"visited planet" "New Greenland"
+"visited planet" Dancer
 "visited planet" "New China"
+"visited planet" Albatross
+"visited planet" Hestia
 "visited planet" Heartland
+"visited planet" Ingot
+"visited planet" "New Tibet"
+"visited planet" Bloodsea
+"visited planet" "New Holland"
+"visited planet" Trinket
+"visited planet" Gemstone
+"visited planet" Clark
+"visited planet" Longjump
 "visited planet" "New Kansas"
 "visited planet" Poisonwood
-"visited planet" Clark
-"visited planet" Bloodsea
-"visited planet" Albatross
 "visited planet" Hope
-"visited planet" Ingot
-"visited planet" "New Greenland"
-"visited planet" Hestia
-"visited planet" Longjump
-"visited planet" Dancer
-"visited planet" "New Tibet"
-"visited planet" Gemstone
-"visited planet" Trinket
-"visited planet" "New Holland"
-"visited planet" Maker
-"visited planet" Hephaestus
-"visited planet" Thule
-"visited planet" Memory
-"visited planet" "New Boston"
-"visited planet" "Smuggler's Den"
-"visited planet" Rust
 "visited planet" "Buccaneer Bay"
+"visited planet" Maker
 "visited planet" Mere
+"visited planet" "New Boston"
+"visited planet" Thule
+"visited planet" Rust
+"visited planet" "Smuggler's Den"
+"visited planet" Hephaestus
+"visited planet" Memory
+"visited planet" "Setar Fort"
 "visited planet" "Korati Efreti"
 "visited planet" "Karek Fornati"
 "visited planet" "Laki Nemparu"
-"visited planet" "Setar Fort"
-"visited planet" "Rusty Second"
-"visited planet" "Inmost Blue"
-"visited planet" "Into White"
+"visited planet" "New India"
+"visited planet" Ada
+"visited planet" Quicksilver
+"visited planet" Watcher
+"visited planet" "Hydra Station"
+"visited planet" Burthen
+"visited planet" Furnace
+"visited planet" Shroud
+"visited planet" "Triton Station"
+"visited planet" "Deadman's Cove"
+"visited planet" Thunder
+"visited planet" Hippocrates
+"visited planet" Zenith
+"visited planet" Twinstar
+"visited planet" "Charon Station"
+"visited planet" Mainsail
+"visited planet" "Ember Wormhole"
+"visited planet" Freedom
+"visited planet" "Rekat Moraski"
+"visited planet" "Kort Vek'kri"
+"visited planet" "Ember Threshold"
+"visited planet" "Bloptab's Furnace"
+"visited planet" Viminal
+"visited planet" "Fenrir Station"
+"visited planet" Reunion
+"visited planet" Moonshake
+"visited planet" "Varu Tev'kei"
+"visited planet" "New Finding"
+"visited planet" Lichen
+"visited planet" Hermes
+"visited planet" "Bright Echo"
+"visited planet" Midgard
+"visited planet" Haven
+"visited planet" Chiron
+"visited planet" Lodestone
+"visited planet" "Sestor Ikfar"
+"visited planet" Mani
+"visited planet" Follower
+"visited planet" Bluestone
+"visited planet" "Refuge of Belugt"
+"visited planet" Splashdown
+"visited planet" Prime
+"visited planet" "Kraken Station"
+"visited planet" "Firka Tesk"
+"visited planet" "Warm Wind"
+"visited planet" "Selefkar Refinery"
+"visited planet" "Korbatri Eska"
+"visited planet" Snowfeather
+"visited planet" Millrace
+"visited planet" "Remnant Wormhole"
+"visited planet" Firelode
+"visited planet" "Keneska Fek"
+"visited planet" Haze
+"visited planet" Bounty
+"visited planet" "Eskar Kortuka"
+"visited planet" Caelian
+"visited planet" "Kuwaru Efreti"
+"visited planet" "Ember Reaches"
+"visited planet" Pilot
+"visited planet" "Carbuncle Station"
+"visited planet" Tinker
+"visited planet" "Vara Rakak"
+"visited planet" "Far Garden"
+"visited planet" Sundrinker
+"visited planet" "Esayaku Fen"
+"visited planet" Newhome
+"visited planet" Greenbloom
+"visited planet" Frostmark
+"visited planet" "Sopi Lefarkata"
+"visited planet" Darkwaste
+"visited planet" "Shadowed Valley"
+"visited planet" "Secret Sky"
+"visited planet" "Varu K'est"
+"visited planet" "New Britain"
+"visited planet" Geyser
+"visited planet" "Kort Kehai"
+"visited planet" "Solima Skarati"
+"visited planet" Greenwater
+"visited planet" "Fara Skaeruti"
+"visited planet" "Esperaktu Station"
+"visited planet" "Remote Blue"
+"visited planet" "Reluvethel Wormhole"
 "visited planet" Starcross
 "visited planet" Muspel
 "visited planet" Norn
-"visited planet" Furnace
-"visited planet" Hippocrates
-"visited planet" "Charon Station"
-"visited planet" Zenith
-"visited planet" Twinstar
-"visited planet" Burthen
-"visited planet" "New India"
-"visited planet" Quicksilver
-"visited planet" Watcher
-"visited planet" "Triton Station"
-"visited planet" Mainsail
-"visited planet" Shroud
-"visited planet" "Ember Wormhole"
-"visited planet" "Hydra Station"
-"visited planet" Freedom
-"visited planet" Thunder
-"visited planet" Ada
-"visited planet" "Deadman's Cove"
-"visited planet" "Firka Tesk"
-"visited planet" "Warm Wind"
-"visited planet" Moonshake
-"visited planet" Chiron
-"visited planet" Follower
-"visited planet" "Bright Echo"
-"visited planet" "Varu Tev'kei"
-"visited planet" Lichen
-"visited planet" Lodestone
-"visited planet" "Fenrir Station"
-"visited planet" "Refuge of Belugt"
-"visited planet" Snowfeather
-"visited planet" Bluestone
-"visited planet" "Sestor Ikfar"
-"visited planet" Splashdown
-"visited planet" "Selefkar Refinery"
-"visited planet" "Korbatri Eska"
-"visited planet" Hermes
-"visited planet" Reunion
-"visited planet" "Kraken Station"
-"visited planet" "Rekat Moraski"
-"visited planet" "Kort Vek'kri"
-"visited planet" "New Finding"
-"visited planet" Viminal
-"visited planet" Midgard
-"visited planet" Prime
-"visited planet" "Bloptab's Furnace"
-"visited planet" Mani
-"visited planet" Haven
-"visited planet" "Ember Threshold"
-"visited planet" Tinker
-"visited planet" Firelode
-"visited planet" "Ember Reaches"
-"visited planet" Frostmark
-"visited planet" "New Britain"
-"visited planet" "Vara Rakak"
-"visited planet" Greenwater
-"visited planet" "Shadowed Valley"
-"visited planet" "Carbuncle Station"
-"visited planet" "Fara Skaeruti"
-"visited planet" "Keneska Fek"
-"visited planet" Millrace
-"visited planet" "Varu K'est"
-"visited planet" Bounty
-"visited planet" Newhome
-"visited planet" "Far Garden"
-"visited planet" Sundrinker
-"visited planet" "Remnant Wormhole"
-"visited planet" "Kort Kehai"
-"visited planet" Caelian
-"visited planet" Darkwaste
-"visited planet" "Kuwaru Efreti"
-"visited planet" "Secret Sky"
-"visited planet" "Solima Skarati"
-"visited planet" "Esperaktu Station"
-"visited planet" Haze
-"visited planet" Pilot
-"visited planet" "Esayaku Fen"
-"visited planet" Geyser
-"visited planet" Greenbloom
-"visited planet" "Sopi Lefarkata"
-"visited planet" "Eskar Kortuka"
-"visited planet" "Reluvethel Wormhole"
-"visited planet" "Remote Blue"
-"visited planet" "Typhon Station"
-"visited planet" "Ring of Power"
-"visited planet" "Var' Kar'i'i"
+"visited planet" "Rusty Second"
+"visited planet" "Into White"
+"visited planet" "Inmost Blue"
 "visited planet" Trove
-"visited planet" "Shadow of Leaves"
-"visited planet" Allhome
-"visited planet" Heartvalley
-"visited planet" Stonebreak
-"visited planet" "Kessel Sepret"
-"visited planet" Cornucopia
-"visited planet" "Vara K'chrai"
-"visited planet" "Gresku Fodar"
-"visited planet" "Far'en Lai"
-"visited planet" Skyfarm
-"visited planet" "Septar Lorku"
-"visited planet" Warfeed
-"visited planet" "Sek Alarfarat"
-"visited planet" Covert
-"visited planet" "Vara Ke'stai"
 "visited planet" "Alta Hai"
 "visited planet" "Elek Kartanu"
-"visited planet" "Flowing Fields"
-"visited planet" "Varu Mer'ek"
-"visited planet" "Wyvern Station"
-"visited planet" "Spera Anatrusk"
-"visited planet" "Sarisa Fentra"
 "visited planet" Darkstone
-"visited planet" Nifel
+"visited planet" "Sek Alarfarat"
+"visited planet" Warfeed
+"visited planet" Stonebreak
+"visited planet" Covert
+"visited planet" Allhome
+"visited planet" Heartvalley
 "visited planet" "Tik Klai"
+"visited planet" "Wyvern Station"
+"visited planet" "Flowing Fields"
+"visited planet" "Vara Ke'stai"
 "visited planet" Avalon
-"visited planet" Poseidos
+"visited planet" "Shadow of Leaves"
+"visited planet" "Vara K'chrai"
+"visited planet" "Spera Anatrusk"
+"visited planet" Cornucopia
+"visited planet" Nifel
 "visited planet" "Tefkar Ret"
-"visited planet" Aventine
-"visited planet" "New Sahara"
-"visited planet" Darkmetal
-"visited planet" "Kasichara Fet"
-"visited planet" "Oberon Station"
-"visited planet" Shorebreak
-"visited planet" Pearl
-"visited planet" "Var' Kayi"
-"visited planet" "Plort's Water"
-"visited planet" Shangri-La
-"visited planet" "Mebla's Portion"
-"visited planet" "Separa Tiklar"
-"visited planet" Farseer
-"visited planet" "Far Monad"
-"visited planet" Bivrost
-"visited planet" Alexandria
-"visited planet" "Aresepru Nat"
-"visited planet" Featherweight
-"visited planet" "Merask Fortuno"
-"visited planet" "Drekag Firask"
-"visited planet" "Safaresk Enlai"
-"visited planet" "Sessiliki Far"
-"visited planet" Sunracer
-"visited planet" Placer
-"visited planet" Icefall
+"visited planet" "Ring of Power"
+"visited planet" "Var' Kar'i'i"
+"visited planet" "Kessel Sepret"
+"visited planet" "Sarisa Fentra"
+"visited planet" Skyfarm
+"visited planet" "Septar Lorku"
+"visited planet" "Gresku Fodar"
+"visited planet" "Far'en Lai"
+"visited planet" "Typhon Station"
+"visited planet" Poseidos
+"visited planet" "Varu Mer'ek"
 "visited planet" Vinci
-"visited planet" Asgard
-"visited planet" "Gentle Rain"
-"visited planet" Nasqueron
-"visited planet" Slylandro
+"visited planet" Alexandria
 "visited planet" "New Washington"
 "visited planet" Antipode
+"visited planet" Aventine
+"visited planet" Shangri-La
+"visited planet" Farseer
+"visited planet" "Kasichara Fet"
+"visited planet" "Gentle Rain"
+"visited planet" "Drekag Firask"
+"visited planet" "Mebla's Portion"
+"visited planet" "Safaresk Enlai"
+"visited planet" Featherweight
+"visited planet" Shorebreak
+"visited planet" Nasqueron
 "visited planet" Maelstrom
+"visited planet" Placer
 "visited planet" Serpens
-"visited planet" Relic
-"visited planet" "Deep Treasure"
-"visited planet" "Devru Kaska"
-"visited planet" Grakhord
-"visited planet" "Seleptra Nak"
-"visited planet" Humanika
-"visited planet" Sundive
+"visited planet" "Sessiliki Far"
+"visited planet" "New Sahara"
+"visited planet" Pearl
+"visited planet" "Var' Kayi"
+"visited planet" Darkmetal
+"visited planet" "Far Monad"
+"visited planet" "Aresepru Nat"
+"visited planet" "Separa Tiklar"
+"visited planet" Sunracer
+"visited planet" "Oberon Station"
+"visited planet" "Plort's Water"
+"visited planet" Bivrost
+"visited planet" "Merask Fortuno"
+"visited planet" Icefall
+"visited planet" Asgard
+"visited planet" Slylandro
 "visited planet" "Vara Pug"
-"visited planet" Crossroads
+"visited planet" "Seleptra Nak"
+"visited planet" "Fek Rembatu"
+"visited planet" Luna
+"visited planet" Ahr
+"visited planet" "New Switzerland"
+"visited planet" "Deep Water"
+"visited planet" "Sasirka Gatru"
+"visited planet" "Ki Patek Ka"
+"visited planet" Saros
+"visited planet" Revelation
+"visited planet" Amazon
+"visited planet" Martini
+"visited planet" "Big Sky"
+"visited planet" "Charybdis Station"
+"visited planet" Humanika
 "visited planet" "Sebra Skira"
 "visited planet" Thrall
-"visited planet" Luna
-"visited planet" "Ki Patek Ka"
-"visited planet" Martini
-"visited planet" "Sabira Eseskrai"
-"visited planet" "Charybdis Station"
-"visited planet" Ahr
-"visited planet" Saros
-"visited planet" Windblain
-"visited planet" Revelation
-"visited planet" Skillet
-"visited planet" "Big Sky"
-"visited planet" "New Switzerland"
-"visited planet" Delve
-"visited planet" Amazon
-"visited planet" "Deep Water"
-"visited planet" "Esek Stovar"
-"visited planet" "Sasirka Gatru"
+"visited planet" Sundive
+"visited planet" "Deep Treasure"
 "visited planet" "Sapira Mereti"
+"visited planet" Skillet
+"visited planet" Crossroads
+"visited planet" Windblain
+"visited planet" "Esek Stovar"
+"visited planet" "Vara Ke'sok"
+"visited planet" Relic
+"visited planet" "Devru Kaska"
+"visited planet" Grakhord
 "visited planet" "Mereti Station"
 "visited planet" Forpelog
-"visited planet" "Fek Rembatu"
-"visited planet" "Vara Ke'sok"
-"visited planet" Darkcloak
-"visited planet" Canyon
-"visited planet" Calda
-"visited planet" "New Argentina"
-"visited planet" "Wormhole Alpha"
-"visited planet" "Warm Slope"
-"visited planet" Farwater
-"visited planet" Dune
-"visited planet" Icelake
-"visited planet" Echo
-"visited planet" Giverstone
-"visited planet" Flood
-"visited planet" "The Eye"
-"visited planet" Makerplace
-"visited planet" Ahateru
-"visited planet" Alfheim
-"visited planet" Oasis
-"visited planet" Mirrorlake
-"visited planet" "Muninn Station"
-"visited planet" "Ceaseless Toil"
+"visited planet" Delve
+"visited planet" "Sabira Eseskrai"
+"visited planet" Ruin
 "visited planet" "Desi Seledrak"
+"visited planet" Oasis
 "visited planet" Mystery
-"visited planet" Helheim
-"visited planet" "Arachne Station"
+"visited planet" Icelake
+"visited planet" "Huginn Station"
+"visited planet" Calda
+"visited planet" "Muninn Station"
+"visited planet" Echo
+"visited planet" Flood
+"visited planet" "New Argentina"
 "visited planet" Vail
 "visited planet" "Leviathan Station"
+"visited planet" "Wormhole Alpha"
 "visited planet" Cloudfire
+"visited planet" Alfheim
+"visited planet" Mirrorlake
+"visited planet" Canyon
+"visited planet" Darkcloak
+"visited planet" Dune
+"visited planet" "Arachne Station"
+"visited planet" "Ceaseless Toil"
+"visited planet" Farwater
 "visited planet" "Phoenix Station"
-"visited planet" "Huginn Station"
-"visited planet" Ruin
+"visited planet" Giverstone
+"visited planet" Helheim
+"visited planet" Makerplace
+"visited planet" "Warm Slope"
+"visited planet" "The Eye"
 "visited planet" Mantodea
-"visited planet" Forge
+"visited planet" Ahateru
 "visited planet" Ahtameru
-"visited planet" Quaver
+"visited planet" Forge
+"visited planet" Perihelion
+"visited planet" Imperative
+"visited planet" Latent
+"visited planet" Coalition
+"visited planet" Termite
+"visited planet" Affalan
+"visited planet" Memorandum
+"visited planet" Jumblar
+"visited planet" Arikv
+"visited planet" Fluorine
 "visited planet" "New Asgard"
 "visited planet" Magna
+"visited planet" Mods
+"visited planet" Alleshafen
+"visited planet" Era'lgin'bl
+"visited planet" Crackle
+"visited planet" Mirrodin
+"visited planet" Kri'eg'lyen
 "visited planet" Seminar
 "visited planet" Lyfon
-"visited planet" Affalan
-"visited planet" Era'lgin'bl
-"visited planet" Latent
-"visited planet" Alleshafen
 "visited planet" Ortite
-"visited planet" Crackle
-"visited planet" Kri'eg'lyen
-"visited planet" Jumblar
-"visited planet" Emeria
-"visited planet" Mirrodin
-"visited planet" Perihelion
-"visited planet" Fluorine
-"visited planet" Termite
-"visited planet" Memorandum
-"visited planet" Arikv
-"visited planet" Mods
 "visited planet" Hai
-"visited planet" Cynic
-"visited planet" Imperative
-"visited planet" Indefatigable
-"visited planet" Korine
-"visited planet" Bantilium
-"visited planet" Idivine
-"visited planet" Cygite
-"visited planet" "New Scotland"
-"visited planet" Forefather
-"visited planet" Cromerium
-"visited planet" Brun'ily'rhasunx
-"visited planet" Gahr'wregdl'iahr
+"visited planet" Emeria
 "visited planet" Scalpel
+"visited planet" Cynic
+"visited planet" Quaver
+"visited planet" Indefatigable
+"visited planet" Bantilium
+"visited planet" Cygite
+"visited planet" Forefather
 "visited planet" "Cavalier Station"
-"visited planet" Coalition
 "visited planet" Frodo
-"visited planet" Bilbo
 "visited planet" "Euclid Station"
-"visited planet" Puggleshank
-"visited planet" Saal
-"visited planet" Tarkir
+"visited planet" Puggleswap
+"visited planet" Korine
+"visited planet" Brun'ily'rhasunx
+"visited planet" Cromerium
+"visited planet" "New Scotland"
+"visited planet" Gahr'wregdl'iahr
+"visited planet" Bilbo
 "visited planet" Mein
+"visited planet" Puggleshank
+"visited planet" Tarkir
 "visited planet" Carmine
 "visited planet" Oro'alein'platrez
+"visited planet" Saal
+"visited planet" Idivine
 "visited planet" Ziv'rahk'ashgrir
-"visited planet" Puggleswap
+"visited planet" Korath
 "visited planet" Human
 "visited planet" Pug
 "visited planet" Rupture
-"visited planet" Korath
 harvested
+	Nenia Silicon
+	Nenia Iron
 	Nocte Copper
 	Caph Uranium
-	Nenia Iron
-	Nenia Silicon
-	Sol Iron
-	Betelgeuse Lead
 	Betelgeuse Silicon
+	Betelgeuse Lead
+	Sol Iron
 	Kornephoros Lead
 	Zubeneschamali Silicon
-	"Wah Yoot" Lead
 	"Wah Yoot" Silicon
-	Rutilicus Titanium
+	"Wah Yoot" Lead
 	Rutilicus Lead
-	"Cor Caroli" Aluminum
-	Zaurak Iron
-	Alnilam Aluminum
+	Rutilicus Titanium
+	Phecda Silicon
+	Phecda Lead
 	Alnilam Silicon
+	Alnilam Aluminum
 	"Epsilon Leonis" Lead
 	Gomeisa Silicon
-	Phecda Lead
-	Phecda Silicon
+	"Cor Caroli" Aluminum
 	Algieba Silicon
-	Kashikt Silver
-	Kashikt Silicon
-	Dubhe Silicon
-	Prakacha'a Iron
-	Prakacha'a Silicon
+	Zaurak Iron
 	"Ya Hai" Iron
-	Mekislepti Iron
-	Mekislepti Silicon
 	Chimitarp Silicon
-	Kaliptari Tungsten
-	Kaliptari Silicon
+	Prakacha'a Silicon
+	Prakacha'a Iron
+	Mekislepti Silicon
+	Mekislepti Iron
 	Solifar Aluminum
 	Solifar Lead
-	"Uwa Fahn" Silicon
-	"Kor Fel'tar" Uranium
-	"Kor Fel'tar" Titanium
-	"Kor Fel'tar" Iron
 	"Kor Nor'peli" Silicon
-	"Kor Tar'bei" Platinum
-	"Kor Tar'bei" Silicon
-	"Kor Ak'Mari" Aluminum
 	"Kor Ak'Mari" Silicon
+	"Kor Ak'Mari" Aluminum
+	"Kor Fel'tar" Iron
+	"Kor Fel'tar" Titanium
+	"Kor Fel'tar" Uranium
+	"Uwa Fahn" Silicon
+	Kaliptari Silicon
+	Kaliptari Tungsten
+	Kashikt Silicon
+	Kashikt Silver
+	Dubhe Silicon
+	"Kor Tar'bei" Silicon
+	"Kor Tar'bei" Platinum
 logbook
 	Factions Archons
 		`Archons are partly biological, but do not seem to be naturally evolved creatures. Some of their biological characteristics may have been based on the "void sprites" that inhabit the Ember Waste.`
